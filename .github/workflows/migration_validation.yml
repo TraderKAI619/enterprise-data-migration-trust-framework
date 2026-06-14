@@ -1,0 +1,37 @@
+name: Migration Validation Pipeline
+
+on:
+  push:
+
+jobs:
+
+  migration-validation:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+
+        with:
+          python-version: "3.11"
+
+      - name: Generate Source Dataset
+        run: |
+          python scripts/generate_patent_data.py
+
+      - name: Profile Source Dataset
+        run: |
+          python scripts/profile_patent_data.py
+
+      - name: Transform Dataset
+        run: |
+          python scripts/transform_patent_data.py
+
+      - name: Validate Migration
+        run: |
+          python scripts/validate_migration.py
