@@ -1,0 +1,8 @@
+metric,result
+total_records,1120
+unique_patent_ids,1000
+duplicate_records,120
+missing_inventors,44
+unknown_inventors,18
+unique_status_values,5
+unique_country_values,5

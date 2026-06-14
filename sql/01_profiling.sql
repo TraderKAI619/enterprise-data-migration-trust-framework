@@ -1,12 +1,14 @@
+-- =========================================
 -- Data Profiling
--- Duplicate Analysis
--- Null Analysis
--- Status Distribution
--- Country Distribution
+-- Enterprise Migration Assessment
+-- =========================================
+
 -- Total Records
 
-SELECT COUNT(*) AS total_records
+SELECT
+    COUNT(*) AS total_records
 FROM patent_source;
+
 
 -- Status Distribution
 
@@ -14,7 +16,9 @@ SELECT
     patent_status,
     COUNT(*) AS record_count
 FROM patent_source
-GROUP BY patent_status;
+GROUP BY patent_status
+ORDER BY record_count DESC;
+
 
 -- Country Distribution
 
@@ -22,7 +26,9 @@ SELECT
     country_code,
     COUNT(*) AS record_count
 FROM patent_source
-GROUP BY country_code;
+GROUP BY country_code
+ORDER BY record_count DESC;
+
 
 -- Duplicate Patent IDs
 
@@ -31,10 +37,22 @@ SELECT
     COUNT(*) AS duplicate_count
 FROM patent_source
 GROUP BY patent_id
-HAVING COUNT(*) > 1;
+HAVING COUNT(*) > 1
+ORDER BY duplicate_count DESC;
 
--- Missing Inventors
 
-SELECT COUNT(*)
+-- Missing Inventor Names
+
+SELECT
+    COUNT(*) AS missing_inventor_count
 FROM patent_source
-WHERE inventor_name IS NULL;
+WHERE inventor_name IS NULL
+   OR inventor_name = '';
+
+
+-- Unknown Inventors
+
+SELECT
+    COUNT(*) AS unknown_inventor_count
+FROM patent_source
+WHERE inventor_name = 'Unknown';
