@@ -3,13 +3,26 @@ This project demonstrates how I approach enterprise data migration engagements b
 
 Applying Analytics Engineering Principles to Enterprise Data Migration Projects
 
-Project A
+## Project Evolution
+
+JP Retail Analytics
+(Project A)
+
 ↓
-Project B
+
+Data Quality Framework
+(Project B)
+
 ↓
-Project C
+
+Data Trust Platform
+(Project C)
+
 ↓
+
 Enterprise Data Migration & Trust Framework
+(Current Project)
+
 ---
 ## Project Flow
 
