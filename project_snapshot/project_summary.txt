@@ -1,0 +1,473 @@
+]633;E;echo "=================================";08fec202-54e4-4643-bd93-4d9439f2570d]633;C=================================
+README
+=================================
+# Enterprise Data Migration & Trust Framework
+This project demonstrates how I approach enterprise data migration engagements by combining data profiling, business mapping, transformation, validation, and trust reporting principles.
+
+Applying Analytics Engineering Principles to Enterprise Data Migration Projects
+
+## Project Evolution
+
+JP Retail Analytics
+(Project A)
+
+↓
+
+Data Quality Framework
+(Project B)
+
+↓
+
+Data Trust Platform
+(Project C)
+
+↓
+
+Enterprise Data Migration & Trust Framework
+(Current Project)
+
+---
+## Project Flow
+
+Legacy IP System
+↓
+Data Profiling
+↓
+Business Mapping
+↓
+Data Transformation
+↓
+Migration Validation
+↓
+QA Reporting
+↓
+Trust Reporting
+
+## Why This Project
+
+This project simulates a real-world enterprise data migration engagement inspired by the responsibilities of a Technical Consultant role.
+
+The objective is not simply moving data.
+
+The objective is ensuring business rules are translated correctly and data remains trustworthy after migration.
+
+## Overview
+
+This project extends the Data Quality and Data Trust concepts developed in my previous analytics engineering projects and applies them to a simulated enterprise data migration scenario.
+
+The objective is not simply moving data, but ensuring business rules are translated correctly and data remains trustworthy after migration.
+
+---
+
+## Why I Built This
+
+Over the past several projects, I have been exploring different aspects of the modern data lifecycle:
+
+Project A
+(JP Retail Analytics)
+
+↓
+
+Project B
+(Data Quality Framework)
+
+↓
+
+Project C
+(Data Trust Platform)
+
+↓
+
+Enterprise Data Migration & Trust Framework
+
+↓
+
+Technical Consulting & Data Migration
+
+This project represents an attempt to apply those same principles to a simulated enterprise migration engagement.
+
+---
+
+## Core Concept
+
+Client Requirement
+
+↓
+
+Data Profiling
+
+↓
+
+Value Mapping
+
+↓
+
+Transformation
+
+↓
+
+Validation
+
+↓
+
+Trusted Reporting
+
+---
+
+## Business Scenario
+
+A global pharmaceutical company currently manages patent and trademark information across multiple legacy systems.
+
+Challenges include:
+
+- Multiple status definitions
+- Multiple country code standards
+- Missing inventor information
+- Duplicate records
+- Inconsistent business rules
+
+The goal is to standardize and migrate data into a trusted reporting environment.
+
+---
+
+## Project Goals
+
+- Understand client requirements
+- Profile and assess source data quality
+- Create value mapping specifications
+- Implement transformation logic
+- Validate migration accuracy
+- Deliver trusted reporting outputs
+
+=================================
+SOURCE SYSTEM DESIGN
+=================================
+# Source System Design
+
+## Business Context
+
+A global pharmaceutical company is migrating patent records from a legacy IP management system into a modern enterprise platform.
+
+The migration objective is not only to move data, but to standardize business rules and improve data trust.
+
+---
+
+## Source System
+
+### Patent Table
+
+| Column          | Description            |
+| --------------- | ---------------------- |
+| patent_id       | Patent identifier      |
+| patent_title    | Patent title           |
+| patent_status   | Raw patent status      |
+| country_code    | Filing country         |
+| inventor_name   | Inventor name          |
+| filing_date     | Patent filing date     |
+| expiration_date | Patent expiration date |
+
+---
+
+## Known Data Quality Issues
+
+### Status Standardization
+
+The legacy system contains multiple definitions for the same business meaning:
+
+* Active
+* ACTIVE
+* A
+* Expired
+* EXP
+
+---
+
+### Country Standardization
+
+The legacy system contains inconsistent country formats:
+
+* JP
+* JPN
+* Japan
+* US
+* USA
+
+---
+
+### Missing Values
+
+Some records contain:
+
+* NULL inventor names
+* Empty inventor names
+* Unknown inventor names
+
+---
+
+### Duplicate Records
+
+Duplicate patent identifiers exist due to historical data consolidation issues.
+
+---
+
+## Migration Goal
+
+Standardize business definitions, remove inconsistencies, validate migration quality, and provide trusted reporting outputs.
+=================================
+VALUE MAPPING
+=================================
+# Value Mapping Sheet
+
+## Patent Status Mapping
+
+| Source Value | Target Value | Business Meaning |
+|-------------|-------------|-------------|
+| Active | OPEN | Active Patent |
+| ACTIVE | OPEN | Active Patent |
+| A | OPEN | Active Patent |
+| Expired | CLOSED | Expired Patent |
+| EXP | CLOSED | Expired Patent |
+
+---
+
+## Country Mapping
+
+| Source Value | Target Value |
+|-------------|-------------|
+| JP | Japan |
+| JPN | Japan |
+| Japan | Japan |
+| US | United States |
+| USA | United States |
+
+---
+
+## Business Rules
+
+Rule 1:
+All active status definitions must be standardized to OPEN.
+
+Rule 2:
+All expired status definitions must be standardized to CLOSED.
+
+Rule 3:
+Country names must follow ISO-aligned business standards.
+
+Rule 4:
+Duplicate patent IDs require manual review before migration.
+=================================
+TRANSFORMATION DESIGN
+=================================
+# Transformation Design
+
+## Objective
+
+Convert legacy patent records into standardized business definitions.
+
+---
+
+## Status Transformation
+
+Active
+ACTIVE
+A
+
+→ OPEN
+
+Expired
+EXP
+
+→ CLOSED
+
+---
+
+## Country Transformation
+
+JP
+JPN
+Japan
+
+→ Japan
+
+US
+USA
+
+→ United States
+
+---
+
+## Manual Review Queue
+
+Records containing:
+
+- Missing Inventor Name
+- Unknown Inventor Name
+- Unmapped Status
+- Unmapped Country
+
+must be reviewed before migration.
+=================================
+VALIDATION FRAMEWORK
+=================================
+# Validation Framework
+
+## Validation Objective
+
+Ensure migrated data remains complete, accurate and trustworthy.
+
+---
+
+## Validation Checks
+
+### Record Count Reconciliation
+
+Source Record Count
+
+vs
+
+Target Record Count
+
+---
+
+### Status Validation
+
+OPEN
+
+CLOSED
+
+REVIEW
+
+---
+
+### Country Validation
+
+Japan
+
+United States
+
+REVIEW
+
+---
+
+### Duplicate Detection
+
+Patent ID uniqueness check
+
+---
+
+### Manual Review Queue
+
+Missing Inventor
+
+Unknown Inventor
+
+Unmapped Status
+
+Unmapped Country
+=================================
+QA REPORT
+=================================
+# Migration QA Report
+
+## Migration Summary
+
+Migration Date:
+2026-06-14
+
+Project:
+Enterprise Data Migration & Trust Framework
+
+---
+
+## Source Data Assessment
+
+Total Records:
+1120
+
+Unique Patent IDs:
+1000
+
+Duplicate Records:
+120
+
+Missing Inventors:
+44
+
+Unknown Inventors:
+18
+
+---
+
+## Mapping Validation
+
+Status Mapping:
+PASS
+
+Country Mapping:
+PASS
+
+Manual Review Queue:
+62 Records
+
+---
+
+## Transformation Validation
+
+Record Count Reconciliation:
+PASS
+
+Status Standardization:
+PASS
+
+Country Standardization:
+PASS
+
+---
+
+## Data Quality Findings
+
+Issue Type | Count
+-----------|------
+Duplicate Records | 120
+Missing Inventor | 44
+Unknown Inventor | 18
+
+---
+
+## Final Migration Recommendation
+
+Ready For Migration
+
+Exceptions Require Business Review
+
+---
+
+## Consultant Notes
+
+The objective of migration is not simply moving data.
+
+The objective is ensuring business meaning remains consistent after migration.
+
+All identified data quality issues have been documented and isolated for review.
+=================================
+PROFILING REPORT
+=================================
+metric,result
+total_records,1120
+unique_patent_ids,1000
+duplicate_records,120
+missing_inventors,44
+unknown_inventors,18
+unique_status_values,5
+unique_country_values,5
+
+=================================
+RECONCILIATION REPORT
+=================================
+check_name,result
+source_record_count,1120
+target_record_count,1000
+source_unique_patents,1000
+target_unique_patents,1000
+standardized_status_values,2
+standardized_country_values,2

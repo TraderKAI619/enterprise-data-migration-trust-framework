@@ -1,0 +1,18 @@
+* c1da0cb (HEAD -> main, origin/main, origin/HEAD) Add migration validation workflow
+* dcd45de Update README.md
+* 1ed02ad Complete enterprise migration trust framework demo
+* 6cbb60d Add migration reconciliation validation
+* a998831 Add trust reporting framework
+* f7b556c Add migration QA reporting layer
+* 821d071 Add migration validation framework
+* f5c7382 Add migration transformation layer
+* 839a056 Add business mapping rules
+* b3b15de Add source data profiling framework
+* e315599 Inject migration quality issues
+* f7aeb5b Generate clean patent source dataset
+* 36e3dd4 Add legacy source system design
+* 040b984 Remove accidental file
+* 369727c Add synthetic data generation structure
+* 65b491b Initialize migration project structure
+* f4f5ccb Add project overview and business scenario
+* 7fd620d Initial commit

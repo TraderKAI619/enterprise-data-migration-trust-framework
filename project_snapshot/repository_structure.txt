@@ -1,0 +1,42 @@
+.
+├── .github
+│   └── workflows
+│       └── migration_validation.yml
+├── .gitignore
+├── LICENSE
+├── README.md
+├── data
+│   ├── raw
+│   │   └── patent_source.csv
+│   ├── reference
+│   │   ├── country_mapping.csv
+│   │   └── status_mapping.csv
+│   └── target
+│       └── migrated_patent.csv
+├── docs
+│   ├── data_generation_rules.md
+│   ├── source_system_design.md
+│   ├── transformation_design.md
+│   ├── trust_reporting_framework.md
+│   ├── validation_framework.md
+│   └── value_mapping_sheet.md
+├── project_snapshot
+│   └── repository_structure.txt
+├── reports
+│   ├── migration_qa_report.md
+│   ├── profiling_report.csv
+│   └── reconciliation_report.csv
+├── screenshots
+├── scripts
+│   ├── generate_patent_data.py
+│   ├── profile_patent_data.py
+│   ├── transform_patent_data.py
+│   └── validate_migration.py
+└── sql
+    ├── 01_profiling.sql
+    ├── 02_mapping.sql
+    ├── 03_transformation.sql
+    ├── 04_validation.sql
+    └── 05_reporting.sql
+
+13 directories, 27 files

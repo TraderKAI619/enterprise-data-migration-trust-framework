@@ -1,7 +1,13 @@
 import csv
+import os
 
 INPUT_FILE = "data/raw/patent_source.csv"
 OUTPUT_FILE = "data/target/migrated_patent.csv"
+
+os.makedirs(
+    "data/target",
+    exist_ok=True
+)
 
 STATUS_MAP = {
     "Active": "OPEN",
