@@ -1,0 +1,7 @@
+check_name,result
+source_record_count,1120
+target_record_count,1000
+source_unique_patents,1000
+target_unique_patents,1000
+standardized_status_values,2
+standardized_country_values,2

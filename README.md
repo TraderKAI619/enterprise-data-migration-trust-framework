@@ -3,6 +3,29 @@
 Applying Analytics Engineering Principles to Enterprise Data Migration Projects
 
 ---
+## Project Flow
+
+Legacy IP System
+↓
+Data Profiling
+↓
+Business Mapping
+↓
+Data Transformation
+↓
+Migration Validation
+↓
+QA Reporting
+↓
+Trust Reporting
+
+## Why This Project
+
+This project simulates a real-world enterprise data migration engagement inspired by the responsibilities of a Technical Consultant role.
+
+The objective is not simply moving data.
+
+The objective is ensuring business rules are translated correctly and data remains trustworthy after migration.
 
 ## Overview
 
