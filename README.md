@@ -1,7 +1,15 @@
 # Enterprise Data Migration & Trust Framework
+This project demonstrates how I approach enterprise data migration engagements by combining data profiling, business mapping, transformation, validation, and trust reporting principles.
 
 Applying Analytics Engineering Principles to Enterprise Data Migration Projects
 
+Project A
+↓
+Project B
+↓
+Project C
+↓
+Enterprise Data Migration & Trust Framework
 ---
 ## Project Flow
 
