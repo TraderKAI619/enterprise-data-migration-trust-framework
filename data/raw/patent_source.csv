@@ -1,1001 +1,1121 @@
 patent_id,patent_title,patent_status,country_code,inventor_name,filing_date,expiration_date
-P000001,AI Drug Discovery Platform,Active,US,Sarah Johnson,2024-05-24,2044-05-24
-P000002,Clinical Data Framework,Active,JP,David Wilson,2020-12-26,2040-12-26
-P000003,Medical Imaging Algorithm,Expired,US,Emily Brown,2024-11-20,2044-11-20
-P000004,Clinical Data Framework,Active,US,David Wilson,2024-09-10,2044-09-10
-P000005,AI Drug Discovery Platform,Expired,JP,Kenji Sato,2018-09-16,2038-09-16
-P000006,Biotech Research Engine,Active,US,Emily Brown,2020-02-05,2040-02-05
-P000007,AI Drug Discovery Platform,Expired,US,David Wilson,2021-10-14,2041-10-14
-P000008,Smart Manufacturing Process,Active,US,Michael Chen,2022-03-15,2042-03-15
-P000009,Clinical Data Framework,Expired,US,David Wilson,2024-04-09,2044-04-09
-P000010,Smart Manufacturing Process,Active,US,Emily Brown,2021-07-08,2041-07-08
-P000011,Gene Analysis System,Expired,US,Emily Brown,2022-01-14,2042-01-14
-P000012,Gene Analysis System,Active,US,Michael Chen,2020-04-16,2040-04-16
-P000013,Biotech Research Engine,Expired,JP,Sarah Johnson,2019-01-10,2039-01-10
-P000014,Gene Analysis System,Expired,JP,David Wilson,2021-12-09,2041-12-09
-P000015,AI Drug Discovery Platform,Active,US,Sarah Johnson,2024-05-15,2044-05-15
-P000016,Gene Analysis System,Active,JP,Yuki Tanaka,2020-06-16,2040-06-16
-P000017,Healthcare Analytics Platform,Expired,JP,Michael Chen,2020-01-23,2040-01-23
-P000018,Smart Manufacturing Process,Active,US,Emily Brown,2022-10-13,2042-10-13
-P000019,Medical Imaging Algorithm,Active,US,Michael Chen,2022-06-21,2042-06-21
-P000020,Smart Manufacturing Process,Expired,US,Kenji Sato,2020-03-27,2040-03-27
-P000021,Gene Analysis System,Expired,JP,Sarah Johnson,2022-12-14,2042-12-14
-P000022,Gene Analysis System,Expired,JP,David Wilson,2023-01-31,2043-01-31
-P000023,Biotech Research Engine,Active,US,John Smith,2020-10-06,2040-10-06
-P000024,Smart Manufacturing Process,Active,US,Sarah Johnson,2020-03-22,2040-03-22
-P000025,Medical Imaging Algorithm,Active,JP,Yuki Tanaka,2023-04-09,2043-04-09
-P000026,AI Drug Discovery Platform,Expired,JP,Kenji Sato,2024-04-21,2044-04-21
-P000027,Gene Analysis System,Active,JP,Michael Chen,2024-12-15,2044-12-15
-P000028,Healthcare Analytics Platform,Expired,US,David Wilson,2021-04-02,2041-04-02
-P000029,Clinical Data Framework,Active,JP,Emily Brown,2024-10-01,2044-10-01
-P000030,AI Drug Discovery Platform,Active,JP,Kenji Sato,2018-05-14,2038-05-14
-P000031,Smart Manufacturing Process,Active,JP,John Smith,2020-05-27,2040-05-27
-P000032,Healthcare Analytics Platform,Expired,US,John Smith,2019-10-12,2039-10-12
-P000033,AI Drug Discovery Platform,Active,US,John Smith,2019-12-30,2039-12-30
-P000034,Clinical Data Framework,Active,JP,Kenji Sato,2022-11-09,2042-11-09
-P000035,AI Drug Discovery Platform,Active,JP,David Wilson,2023-09-07,2043-09-07
-P000036,Clinical Data Framework,Active,US,Kenji Sato,2018-04-21,2038-04-21
-P000037,Biotech Research Engine,Expired,JP,Michael Chen,2018-12-11,2038-12-11
-P000038,Biotech Research Engine,Expired,US,Emily Brown,2023-06-23,2043-06-23
-P000039,AI Drug Discovery Platform,Active,US,Michael Chen,2023-02-22,2043-02-22
-P000040,AI Drug Discovery Platform,Expired,JP,David Wilson,2024-05-04,2044-05-04
-P000041,AI Drug Discovery Platform,Active,US,Emily Brown,2024-08-06,2044-08-06
-P000042,Medical Imaging Algorithm,Expired,US,David Wilson,2023-10-19,2043-10-19
-P000043,Biotech Research Engine,Active,JP,Emily Brown,2023-04-20,2043-04-20
-P000044,Medical Imaging Algorithm,Expired,JP,Kenji Sato,2023-09-09,2043-09-09
-P000045,Biotech Research Engine,Expired,JP,Yuki Tanaka,2021-11-24,2041-11-24
-P000046,Clinical Data Framework,Active,JP,David Wilson,2024-05-15,2044-05-15
-P000047,Medical Imaging Algorithm,Expired,JP,Michael Chen,2021-12-10,2041-12-10
-P000048,Medical Imaging Algorithm,Expired,US,Kenji Sato,2023-03-01,2043-03-01
-P000049,Clinical Data Framework,Expired,US,Sarah Johnson,2023-05-24,2043-05-24
-P000050,Gene Analysis System,Expired,US,David Wilson,2020-10-06,2040-10-06
-P000051,Smart Manufacturing Process,Active,JP,Yuki Tanaka,2024-11-08,2044-11-08
-P000052,Smart Manufacturing Process,Active,JP,Sarah Johnson,2021-09-28,2041-09-28
-P000053,AI Drug Discovery Platform,Expired,JP,John Smith,2019-04-06,2039-04-06
-P000054,Gene Analysis System,Active,JP,Yuki Tanaka,2019-03-21,2039-03-21
-P000055,Biotech Research Engine,Expired,US,Yuki Tanaka,2019-05-05,2039-05-05
-P000056,Biotech Research Engine,Active,US,Emily Brown,2022-05-21,2042-05-21
-P000057,AI Drug Discovery Platform,Expired,JP,Michael Chen,2022-09-06,2042-09-06
-P000058,Smart Manufacturing Process,Expired,US,Sarah Johnson,2019-05-09,2039-05-09
-P000059,Medical Imaging Algorithm,Active,JP,Kenji Sato,2021-08-12,2041-08-12
-P000060,Biotech Research Engine,Active,US,David Wilson,2018-11-15,2038-11-15
-P000061,Medical Imaging Algorithm,Expired,JP,Michael Chen,2020-10-13,2040-10-13
-P000062,Clinical Data Framework,Expired,JP,Emily Brown,2022-09-16,2042-09-16
-P000063,Smart Manufacturing Process,Expired,US,Emily Brown,2023-07-30,2043-07-30
-P000064,AI Drug Discovery Platform,Active,US,Kenji Sato,2024-01-29,2044-01-29
-P000065,Medical Imaging Algorithm,Expired,US,Emily Brown,2020-11-06,2040-11-06
-P000066,Smart Manufacturing Process,Expired,US,Kenji Sato,2024-01-27,2044-01-27
-P000067,AI Drug Discovery Platform,Expired,US,Yuki Tanaka,2024-06-09,2044-06-09
-P000068,Gene Analysis System,Active,JP,David Wilson,2024-07-27,2044-07-27
-P000069,Biotech Research Engine,Active,US,David Wilson,2021-03-23,2041-03-23
-P000070,Healthcare Analytics Platform,Expired,JP,John Smith,2023-02-08,2043-02-08
-P000071,Healthcare Analytics Platform,Active,US,Michael Chen,2019-07-12,2039-07-12
-P000072,Clinical Data Framework,Expired,US,Sarah Johnson,2023-03-13,2043-03-13
-P000073,Gene Analysis System,Expired,JP,John Smith,2022-09-18,2042-09-18
-P000074,Biotech Research Engine,Expired,JP,David Wilson,2018-09-14,2038-09-14
-P000075,Smart Manufacturing Process,Active,US,Michael Chen,2023-10-04,2043-10-04
-P000076,Healthcare Analytics Platform,Active,JP,Sarah Johnson,2023-08-23,2043-08-23
-P000077,AI Drug Discovery Platform,Expired,JP,Emily Brown,2022-04-23,2042-04-23
-P000078,Medical Imaging Algorithm,Active,US,Yuki Tanaka,2021-12-04,2041-12-04
-P000079,Clinical Data Framework,Expired,JP,John Smith,2021-09-22,2041-09-22
-P000080,Clinical Data Framework,Active,JP,Emily Brown,2018-05-28,2038-05-28
-P000081,Medical Imaging Algorithm,Expired,US,Sarah Johnson,2024-07-22,2044-07-22
-P000082,Healthcare Analytics Platform,Expired,US,Emily Brown,2018-09-07,2038-09-07
-P000083,Gene Analysis System,Active,JP,David Wilson,2018-11-06,2038-11-06
-P000084,AI Drug Discovery Platform,Expired,US,Kenji Sato,2024-12-28,2044-12-28
-P000085,Smart Manufacturing Process,Active,US,David Wilson,2019-07-07,2039-07-07
-P000086,Gene Analysis System,Expired,JP,Emily Brown,2024-12-24,2044-12-24
-P000087,Biotech Research Engine,Expired,JP,Emily Brown,2018-11-27,2038-11-27
-P000088,AI Drug Discovery Platform,Active,JP,Sarah Johnson,2021-03-18,2041-03-18
-P000089,Clinical Data Framework,Expired,JP,Michael Chen,2020-08-13,2040-08-13
-P000090,Medical Imaging Algorithm,Active,JP,Michael Chen,2024-01-04,2044-01-04
-P000091,Smart Manufacturing Process,Expired,JP,Emily Brown,2022-02-16,2042-02-16
-P000092,Clinical Data Framework,Active,JP,Kenji Sato,2019-10-30,2039-10-30
-P000093,Clinical Data Framework,Expired,JP,Emily Brown,2021-02-27,2041-02-27
-P000094,Gene Analysis System,Expired,JP,David Wilson,2022-05-06,2042-05-06
-P000095,Gene Analysis System,Active,US,Emily Brown,2021-02-06,2041-02-06
-P000096,Medical Imaging Algorithm,Active,US,Yuki Tanaka,2022-09-18,2042-09-18
-P000097,Gene Analysis System,Expired,US,John Smith,2020-11-30,2040-11-30
-P000098,AI Drug Discovery Platform,Expired,US,Sarah Johnson,2024-11-14,2044-11-14
-P000099,Biotech Research Engine,Active,JP,Emily Brown,2021-08-16,2041-08-16
-P000100,Smart Manufacturing Process,Active,JP,Emily Brown,2024-06-10,2044-06-10
-P000101,Clinical Data Framework,Expired,US,Yuki Tanaka,2020-12-14,2040-12-14
-P000102,AI Drug Discovery Platform,Expired,JP,Yuki Tanaka,2019-07-22,2039-07-22
-P000103,Biotech Research Engine,Expired,JP,Michael Chen,2023-01-16,2043-01-16
-P000104,Biotech Research Engine,Expired,US,David Wilson,2018-09-13,2038-09-13
-P000105,Clinical Data Framework,Active,JP,Michael Chen,2018-02-22,2038-02-22
-P000106,AI Drug Discovery Platform,Active,JP,Emily Brown,2020-03-24,2040-03-24
-P000107,AI Drug Discovery Platform,Active,JP,Kenji Sato,2021-07-01,2041-07-01
-P000108,Smart Manufacturing Process,Active,JP,Sarah Johnson,2022-03-16,2042-03-16
-P000109,Smart Manufacturing Process,Active,US,Michael Chen,2020-09-03,2040-09-03
-P000110,Smart Manufacturing Process,Active,JP,John Smith,2019-01-15,2039-01-15
-P000111,Gene Analysis System,Active,JP,Yuki Tanaka,2019-04-12,2039-04-12
-P000112,Healthcare Analytics Platform,Expired,US,Kenji Sato,2018-05-23,2038-05-23
-P000113,Clinical Data Framework,Active,JP,Kenji Sato,2020-08-27,2040-08-27
-P000114,Smart Manufacturing Process,Expired,US,Yuki Tanaka,2018-07-22,2038-07-22
-P000115,Healthcare Analytics Platform,Active,JP,David Wilson,2022-01-29,2042-01-29
-P000116,Healthcare Analytics Platform,Expired,US,Yuki Tanaka,2022-01-27,2042-01-27
-P000117,Biotech Research Engine,Expired,US,David Wilson,2022-03-08,2042-03-08
-P000118,Gene Analysis System,Active,US,Kenji Sato,2022-06-12,2042-06-12
-P000119,AI Drug Discovery Platform,Expired,US,Yuki Tanaka,2021-11-06,2041-11-06
-P000120,Medical Imaging Algorithm,Active,US,Michael Chen,2024-05-01,2044-05-01
-P000121,Clinical Data Framework,Expired,US,Kenji Sato,2020-04-08,2040-04-08
-P000122,Medical Imaging Algorithm,Expired,JP,John Smith,2019-01-19,2039-01-19
-P000123,AI Drug Discovery Platform,Active,US,Emily Brown,2019-07-12,2039-07-12
-P000124,Clinical Data Framework,Expired,JP,Yuki Tanaka,2024-12-04,2044-12-04
-P000125,Medical Imaging Algorithm,Expired,JP,Michael Chen,2024-10-20,2044-10-20
-P000126,Healthcare Analytics Platform,Expired,US,David Wilson,2022-10-27,2042-10-27
-P000127,Biotech Research Engine,Active,US,Sarah Johnson,2022-06-14,2042-06-14
-P000128,Smart Manufacturing Process,Expired,US,Kenji Sato,2024-02-28,2044-02-28
-P000129,Medical Imaging Algorithm,Expired,JP,Sarah Johnson,2022-10-19,2042-10-19
-P000130,Biotech Research Engine,Active,US,Michael Chen,2019-12-05,2039-12-05
-P000131,Healthcare Analytics Platform,Active,JP,Michael Chen,2018-10-07,2038-10-07
-P000132,AI Drug Discovery Platform,Expired,US,Yuki Tanaka,2024-02-07,2044-02-07
-P000133,Gene Analysis System,Expired,JP,Kenji Sato,2023-03-26,2043-03-26
-P000134,Gene Analysis System,Expired,US,John Smith,2023-08-21,2043-08-21
-P000135,Biotech Research Engine,Active,JP,David Wilson,2020-09-26,2040-09-26
-P000136,AI Drug Discovery Platform,Active,US,Yuki Tanaka,2020-12-09,2040-12-09
-P000137,AI Drug Discovery Platform,Active,US,David Wilson,2018-12-15,2038-12-15
-P000138,Medical Imaging Algorithm,Active,US,Yuki Tanaka,2020-04-30,2040-04-30
-P000139,Healthcare Analytics Platform,Expired,JP,Michael Chen,2018-05-12,2038-05-12
-P000140,Healthcare Analytics Platform,Expired,JP,Sarah Johnson,2019-08-20,2039-08-20
-P000141,Biotech Research Engine,Active,JP,Kenji Sato,2023-06-29,2043-06-29
-P000142,Smart Manufacturing Process,Active,US,Yuki Tanaka,2023-04-24,2043-04-24
-P000143,Biotech Research Engine,Expired,US,David Wilson,2018-04-01,2038-04-01
-P000144,Clinical Data Framework,Active,US,Sarah Johnson,2022-08-26,2042-08-26
-P000145,Gene Analysis System,Expired,JP,Michael Chen,2022-08-05,2042-08-05
-P000146,Healthcare Analytics Platform,Expired,JP,David Wilson,2020-07-12,2040-07-12
-P000147,Healthcare Analytics Platform,Expired,JP,Yuki Tanaka,2018-03-13,2038-03-13
-P000148,Clinical Data Framework,Active,JP,Kenji Sato,2022-06-20,2042-06-20
-P000149,Healthcare Analytics Platform,Active,JP,Michael Chen,2021-11-01,2041-11-01
-P000150,Healthcare Analytics Platform,Expired,JP,Yuki Tanaka,2019-10-10,2039-10-10
-P000151,Healthcare Analytics Platform,Expired,US,Emily Brown,2020-10-09,2040-10-09
-P000152,Smart Manufacturing Process,Active,US,Yuki Tanaka,2018-10-14,2038-10-14
-P000153,Biotech Research Engine,Active,US,Michael Chen,2022-09-11,2042-09-11
-P000154,Healthcare Analytics Platform,Active,JP,Yuki Tanaka,2018-05-09,2038-05-09
-P000155,Biotech Research Engine,Active,US,Yuki Tanaka,2021-09-10,2041-09-10
-P000156,Medical Imaging Algorithm,Expired,US,Sarah Johnson,2023-03-01,2043-03-01
-P000157,Healthcare Analytics Platform,Expired,US,Yuki Tanaka,2020-09-04,2040-09-04
-P000158,Biotech Research Engine,Expired,JP,Kenji Sato,2021-03-20,2041-03-20
-P000159,Medical Imaging Algorithm,Expired,US,Kenji Sato,2024-03-01,2044-03-01
-P000160,Clinical Data Framework,Active,JP,Sarah Johnson,2020-10-19,2040-10-19
-P000161,AI Drug Discovery Platform,Expired,JP,Yuki Tanaka,2018-08-04,2038-08-04
-P000162,Medical Imaging Algorithm,Active,JP,Sarah Johnson,2024-05-06,2044-05-06
-P000163,Gene Analysis System,Active,JP,John Smith,2024-11-08,2044-11-08
-P000164,Healthcare Analytics Platform,Active,JP,John Smith,2023-05-27,2043-05-27
-P000165,Medical Imaging Algorithm,Active,JP,Emily Brown,2023-03-13,2043-03-13
-P000166,AI Drug Discovery Platform,Expired,JP,Michael Chen,2022-07-20,2042-07-20
-P000167,Clinical Data Framework,Expired,JP,Michael Chen,2021-12-14,2041-12-14
-P000168,AI Drug Discovery Platform,Expired,JP,Kenji Sato,2024-01-01,2044-01-01
-P000169,AI Drug Discovery Platform,Active,JP,David Wilson,2023-05-15,2043-05-15
-P000170,Healthcare Analytics Platform,Expired,JP,Kenji Sato,2019-06-12,2039-06-12
-P000171,Biotech Research Engine,Active,JP,David Wilson,2022-05-11,2042-05-11
-P000172,Medical Imaging Algorithm,Active,US,David Wilson,2019-08-14,2039-08-14
-P000173,Smart Manufacturing Process,Active,JP,John Smith,2021-01-13,2041-01-13
-P000174,AI Drug Discovery Platform,Active,JP,Kenji Sato,2021-09-05,2041-09-05
-P000175,Medical Imaging Algorithm,Expired,JP,Emily Brown,2024-05-31,2044-05-31
-P000176,Gene Analysis System,Active,JP,Yuki Tanaka,2019-03-24,2039-03-24
-P000177,Medical Imaging Algorithm,Active,US,Yuki Tanaka,2021-10-28,2041-10-28
-P000178,Healthcare Analytics Platform,Active,US,Sarah Johnson,2023-11-14,2043-11-14
-P000179,Healthcare Analytics Platform,Expired,JP,John Smith,2018-09-16,2038-09-16
-P000180,AI Drug Discovery Platform,Active,JP,Yuki Tanaka,2024-11-07,2044-11-07
-P000181,Gene Analysis System,Active,US,Emily Brown,2020-01-01,2040-01-01
-P000182,Gene Analysis System,Expired,JP,Yuki Tanaka,2020-12-25,2040-12-25
-P000183,Healthcare Analytics Platform,Expired,US,Kenji Sato,2024-12-19,2044-12-19
-P000184,AI Drug Discovery Platform,Active,US,Yuki Tanaka,2018-02-01,2038-02-01
-P000185,Medical Imaging Algorithm,Expired,JP,Emily Brown,2019-09-14,2039-09-14
-P000186,Gene Analysis System,Active,US,Emily Brown,2021-09-25,2041-09-25
-P000187,Smart Manufacturing Process,Expired,US,Michael Chen,2020-04-12,2040-04-12
-P000188,Smart Manufacturing Process,Expired,JP,Michael Chen,2023-01-17,2043-01-17
-P000189,Medical Imaging Algorithm,Expired,JP,Kenji Sato,2023-04-01,2043-04-01
-P000190,Healthcare Analytics Platform,Active,US,Emily Brown,2024-12-01,2044-12-01
-P000191,Smart Manufacturing Process,Expired,US,David Wilson,2022-02-05,2042-02-05
-P000192,Smart Manufacturing Process,Expired,US,Emily Brown,2020-10-29,2040-10-29
-P000193,AI Drug Discovery Platform,Expired,JP,David Wilson,2023-09-09,2043-09-09
-P000194,AI Drug Discovery Platform,Active,US,David Wilson,2021-02-20,2041-02-20
-P000195,Clinical Data Framework,Expired,US,Yuki Tanaka,2020-11-14,2040-11-14
-P000196,Healthcare Analytics Platform,Expired,US,David Wilson,2023-06-08,2043-06-08
-P000197,Medical Imaging Algorithm,Active,US,John Smith,2018-01-11,2038-01-11
-P000198,AI Drug Discovery Platform,Expired,JP,Emily Brown,2020-11-26,2040-11-26
-P000199,Gene Analysis System,Active,JP,John Smith,2020-09-05,2040-09-05
-P000200,Biotech Research Engine,Expired,US,David Wilson,2018-04-29,2038-04-29
-P000201,Medical Imaging Algorithm,Active,US,David Wilson,2021-04-28,2041-04-28
-P000202,Biotech Research Engine,Active,US,Michael Chen,2020-04-18,2040-04-18
-P000203,AI Drug Discovery Platform,Expired,US,Michael Chen,2018-01-16,2038-01-16
-P000204,Biotech Research Engine,Expired,JP,John Smith,2023-02-19,2043-02-19
-P000205,Biotech Research Engine,Active,US,John Smith,2018-04-16,2038-04-16
-P000206,Biotech Research Engine,Expired,JP,David Wilson,2024-06-28,2044-06-28
-P000207,Clinical Data Framework,Active,JP,Sarah Johnson,2019-02-13,2039-02-13
-P000208,AI Drug Discovery Platform,Expired,JP,David Wilson,2018-02-08,2038-02-08
-P000209,Medical Imaging Algorithm,Expired,US,Yuki Tanaka,2020-10-31,2040-10-31
-P000210,Biotech Research Engine,Active,JP,John Smith,2020-10-05,2040-10-05
-P000211,Medical Imaging Algorithm,Expired,US,Kenji Sato,2022-07-20,2042-07-20
-P000212,Gene Analysis System,Active,US,John Smith,2021-09-06,2041-09-06
-P000213,Clinical Data Framework,Expired,US,Emily Brown,2024-11-07,2044-11-07
-P000214,Biotech Research Engine,Active,US,David Wilson,2019-01-23,2039-01-23
-P000215,Gene Analysis System,Active,JP,Sarah Johnson,2023-02-24,2043-02-24
-P000216,Smart Manufacturing Process,Expired,JP,David Wilson,2024-05-14,2044-05-14
-P000217,AI Drug Discovery Platform,Active,JP,Sarah Johnson,2020-06-22,2040-06-22
-P000218,Smart Manufacturing Process,Active,JP,John Smith,2020-09-19,2040-09-19
-P000219,Healthcare Analytics Platform,Expired,JP,John Smith,2022-10-22,2042-10-22
-P000220,Gene Analysis System,Expired,JP,Kenji Sato,2023-05-10,2043-05-10
-P000221,Healthcare Analytics Platform,Expired,JP,Yuki Tanaka,2024-03-09,2044-03-09
-P000222,Healthcare Analytics Platform,Active,US,Sarah Johnson,2018-10-03,2038-10-03
-P000223,Healthcare Analytics Platform,Expired,JP,David Wilson,2018-01-09,2038-01-09
-P000224,AI Drug Discovery Platform,Active,JP,Emily Brown,2019-09-22,2039-09-22
-P000225,Gene Analysis System,Active,JP,Sarah Johnson,2022-11-15,2042-11-15
-P000226,AI Drug Discovery Platform,Active,JP,John Smith,2024-02-08,2044-02-08
-P000227,Healthcare Analytics Platform,Expired,JP,Yuki Tanaka,2020-02-05,2040-02-05
-P000228,Clinical Data Framework,Expired,US,David Wilson,2021-12-19,2041-12-19
-P000229,Medical Imaging Algorithm,Active,JP,Emily Brown,2019-07-27,2039-07-27
-P000230,Clinical Data Framework,Expired,US,Kenji Sato,2023-01-14,2043-01-14
-P000231,Biotech Research Engine,Expired,JP,David Wilson,2018-07-05,2038-07-05
-P000232,Smart Manufacturing Process,Active,JP,David Wilson,2021-07-02,2041-07-02
-P000233,Smart Manufacturing Process,Active,JP,David Wilson,2020-11-06,2040-11-06
-P000234,Medical Imaging Algorithm,Active,US,Kenji Sato,2019-09-05,2039-09-05
-P000235,Clinical Data Framework,Active,JP,Michael Chen,2024-02-18,2044-02-18
-P000236,Smart Manufacturing Process,Active,US,Kenji Sato,2022-07-01,2042-07-01
-P000237,Healthcare Analytics Platform,Active,JP,John Smith,2019-05-26,2039-05-26
-P000238,Gene Analysis System,Expired,US,David Wilson,2022-11-09,2042-11-09
-P000239,Healthcare Analytics Platform,Active,JP,Kenji Sato,2020-09-26,2040-09-26
-P000240,Medical Imaging Algorithm,Expired,US,Michael Chen,2019-11-26,2039-11-26
-P000241,AI Drug Discovery Platform,Expired,JP,John Smith,2018-03-13,2038-03-13
-P000242,Smart Manufacturing Process,Active,JP,John Smith,2019-09-05,2039-09-05
-P000243,Biotech Research Engine,Active,US,Michael Chen,2019-10-25,2039-10-25
-P000244,Healthcare Analytics Platform,Active,JP,Emily Brown,2022-02-23,2042-02-23
-P000245,Clinical Data Framework,Active,US,John Smith,2018-06-28,2038-06-28
-P000246,AI Drug Discovery Platform,Expired,JP,Kenji Sato,2024-04-27,2044-04-27
-P000247,Healthcare Analytics Platform,Active,JP,David Wilson,2023-01-31,2043-01-31
-P000248,Smart Manufacturing Process,Active,JP,David Wilson,2024-07-17,2044-07-17
-P000249,AI Drug Discovery Platform,Expired,JP,Sarah Johnson,2023-12-21,2043-12-21
-P000250,Biotech Research Engine,Expired,JP,Emily Brown,2019-07-18,2039-07-18
-P000251,Gene Analysis System,Active,US,John Smith,2021-04-07,2041-04-07
-P000252,Smart Manufacturing Process,Expired,JP,Michael Chen,2022-09-27,2042-09-27
-P000253,Healthcare Analytics Platform,Expired,US,Kenji Sato,2024-06-25,2044-06-25
-P000254,Gene Analysis System,Active,US,Kenji Sato,2019-10-04,2039-10-04
-P000255,Gene Analysis System,Active,US,John Smith,2024-06-24,2044-06-24
-P000256,AI Drug Discovery Platform,Expired,JP,Emily Brown,2019-09-04,2039-09-04
-P000257,Medical Imaging Algorithm,Active,JP,John Smith,2024-03-09,2044-03-09
-P000258,Clinical Data Framework,Active,US,Emily Brown,2018-05-12,2038-05-12
-P000259,Medical Imaging Algorithm,Expired,US,David Wilson,2019-12-24,2039-12-24
-P000260,Smart Manufacturing Process,Expired,US,David Wilson,2021-09-07,2041-09-07
-P000261,AI Drug Discovery Platform,Active,JP,David Wilson,2021-11-29,2041-11-29
-P000262,Medical Imaging Algorithm,Expired,US,Yuki Tanaka,2021-11-11,2041-11-11
-P000263,Medical Imaging Algorithm,Active,US,Yuki Tanaka,2023-06-02,2043-06-02
-P000264,Biotech Research Engine,Active,JP,Yuki Tanaka,2021-10-07,2041-10-07
-P000265,Medical Imaging Algorithm,Expired,JP,David Wilson,2019-01-24,2039-01-24
-P000266,Gene Analysis System,Expired,US,John Smith,2020-05-03,2040-05-03
-P000267,Clinical Data Framework,Active,US,Kenji Sato,2023-09-05,2043-09-05
-P000268,AI Drug Discovery Platform,Expired,JP,Michael Chen,2023-06-07,2043-06-07
-P000269,AI Drug Discovery Platform,Active,US,Yuki Tanaka,2019-07-15,2039-07-15
-P000270,AI Drug Discovery Platform,Active,US,Yuki Tanaka,2020-03-20,2040-03-20
-P000271,Smart Manufacturing Process,Active,US,David Wilson,2019-01-15,2039-01-15
-P000272,Biotech Research Engine,Expired,US,Emily Brown,2019-11-29,2039-11-29
-P000273,Medical Imaging Algorithm,Expired,US,Kenji Sato,2022-04-15,2042-04-15
-P000274,Clinical Data Framework,Active,JP,Yuki Tanaka,2019-10-15,2039-10-15
-P000275,Medical Imaging Algorithm,Expired,JP,David Wilson,2018-03-24,2038-03-24
-P000276,AI Drug Discovery Platform,Active,JP,David Wilson,2022-10-18,2042-10-18
-P000277,Gene Analysis System,Active,JP,Kenji Sato,2024-08-12,2044-08-12
-P000278,Gene Analysis System,Active,JP,David Wilson,2023-02-27,2043-02-27
-P000279,Gene Analysis System,Active,US,Michael Chen,2022-03-09,2042-03-09
-P000280,Biotech Research Engine,Expired,US,Emily Brown,2019-11-22,2039-11-22
-P000281,Clinical Data Framework,Active,JP,Yuki Tanaka,2019-12-16,2039-12-16
-P000282,AI Drug Discovery Platform,Active,JP,Kenji Sato,2024-04-13,2044-04-13
-P000283,Medical Imaging Algorithm,Expired,US,Yuki Tanaka,2019-05-26,2039-05-26
-P000284,Clinical Data Framework,Expired,JP,Sarah Johnson,2020-07-25,2040-07-25
-P000285,Gene Analysis System,Expired,US,Kenji Sato,2019-10-08,2039-10-08
-P000286,AI Drug Discovery Platform,Active,JP,Sarah Johnson,2018-07-28,2038-07-28
-P000287,Healthcare Analytics Platform,Expired,JP,Michael Chen,2024-10-01,2044-10-01
-P000288,AI Drug Discovery Platform,Active,JP,Yuki Tanaka,2018-05-30,2038-05-30
-P000289,Gene Analysis System,Active,US,John Smith,2023-08-15,2043-08-15
-P000290,Smart Manufacturing Process,Active,JP,David Wilson,2018-12-12,2038-12-12
-P000291,AI Drug Discovery Platform,Expired,JP,Michael Chen,2019-09-28,2039-09-28
-P000292,Smart Manufacturing Process,Expired,JP,Emily Brown,2024-06-11,2044-06-11
-P000293,Biotech Research Engine,Expired,JP,Sarah Johnson,2024-04-20,2044-04-20
-P000294,Clinical Data Framework,Expired,US,Yuki Tanaka,2021-12-27,2041-12-27
-P000295,Biotech Research Engine,Active,US,John Smith,2022-01-11,2042-01-11
-P000296,Healthcare Analytics Platform,Expired,US,Kenji Sato,2023-11-29,2043-11-29
-P000297,AI Drug Discovery Platform,Active,US,Michael Chen,2023-09-09,2043-09-09
-P000298,Gene Analysis System,Active,US,Yuki Tanaka,2021-09-13,2041-09-13
-P000299,AI Drug Discovery Platform,Active,US,Kenji Sato,2021-05-15,2041-05-15
-P000300,Clinical Data Framework,Expired,JP,Sarah Johnson,2020-11-02,2040-11-02
-P000301,Biotech Research Engine,Active,JP,John Smith,2024-03-29,2044-03-29
-P000302,Biotech Research Engine,Expired,US,Michael Chen,2020-09-03,2040-09-03
-P000303,AI Drug Discovery Platform,Expired,JP,John Smith,2018-08-28,2038-08-28
-P000304,Biotech Research Engine,Active,JP,Yuki Tanaka,2018-06-18,2038-06-18
-P000305,AI Drug Discovery Platform,Expired,JP,Emily Brown,2021-03-22,2041-03-22
-P000306,Smart Manufacturing Process,Active,US,Kenji Sato,2020-05-19,2040-05-19
-P000307,Gene Analysis System,Active,US,Michael Chen,2019-03-31,2039-03-31
-P000308,Biotech Research Engine,Active,JP,Sarah Johnson,2019-10-29,2039-10-29
-P000309,Medical Imaging Algorithm,Expired,JP,John Smith,2020-09-04,2040-09-04
-P000310,Healthcare Analytics Platform,Expired,US,Yuki Tanaka,2023-10-15,2043-10-15
-P000311,Clinical Data Framework,Expired,US,David Wilson,2024-11-05,2044-11-05
-P000312,Healthcare Analytics Platform,Active,US,Sarah Johnson,2023-04-26,2043-04-26
-P000313,Gene Analysis System,Active,US,John Smith,2019-03-13,2039-03-13
-P000314,Smart Manufacturing Process,Expired,JP,Sarah Johnson,2020-02-05,2040-02-05
-P000315,Healthcare Analytics Platform,Expired,JP,Emily Brown,2023-12-03,2043-12-03
-P000316,AI Drug Discovery Platform,Expired,US,Sarah Johnson,2021-05-27,2041-05-27
-P000317,Clinical Data Framework,Active,US,David Wilson,2024-10-06,2044-10-06
-P000318,Healthcare Analytics Platform,Active,US,Michael Chen,2021-04-11,2041-04-11
-P000319,AI Drug Discovery Platform,Active,JP,Sarah Johnson,2021-10-26,2041-10-26
-P000320,Biotech Research Engine,Expired,US,Yuki Tanaka,2019-08-22,2039-08-22
-P000321,Biotech Research Engine,Active,US,John Smith,2024-11-07,2044-11-07
-P000322,Healthcare Analytics Platform,Active,JP,Yuki Tanaka,2020-04-29,2040-04-29
-P000323,Clinical Data Framework,Active,JP,Sarah Johnson,2020-08-19,2040-08-19
-P000324,Biotech Research Engine,Active,US,Kenji Sato,2018-07-23,2038-07-23
-P000325,Clinical Data Framework,Expired,US,Michael Chen,2019-04-21,2039-04-21
-P000326,Gene Analysis System,Expired,JP,Sarah Johnson,2019-04-16,2039-04-16
-P000327,Smart Manufacturing Process,Active,JP,Sarah Johnson,2020-07-12,2040-07-12
-P000328,Medical Imaging Algorithm,Active,JP,Kenji Sato,2021-06-25,2041-06-25
-P000329,Medical Imaging Algorithm,Expired,US,John Smith,2022-09-16,2042-09-16
-P000330,Biotech Research Engine,Expired,JP,David Wilson,2023-11-02,2043-11-02
-P000331,Gene Analysis System,Expired,US,David Wilson,2022-02-18,2042-02-18
-P000332,Healthcare Analytics Platform,Active,JP,John Smith,2019-02-20,2039-02-20
-P000333,Medical Imaging Algorithm,Active,US,John Smith,2023-09-20,2043-09-20
-P000334,Clinical Data Framework,Expired,JP,Emily Brown,2018-05-09,2038-05-09
-P000335,AI Drug Discovery Platform,Expired,JP,Emily Brown,2024-10-23,2044-10-23
-P000336,Medical Imaging Algorithm,Active,US,Michael Chen,2020-12-15,2040-12-15
-P000337,Smart Manufacturing Process,Active,US,Sarah Johnson,2024-06-20,2044-06-20
-P000338,Smart Manufacturing Process,Active,US,Emily Brown,2024-01-16,2044-01-16
-P000339,Gene Analysis System,Expired,JP,David Wilson,2022-12-05,2042-12-05
-P000340,Biotech Research Engine,Expired,US,Yuki Tanaka,2024-08-31,2044-08-31
-P000341,Smart Manufacturing Process,Active,JP,Michael Chen,2022-09-24,2042-09-24
-P000342,AI Drug Discovery Platform,Expired,JP,David Wilson,2020-05-04,2040-05-04
-P000343,Smart Manufacturing Process,Expired,JP,Emily Brown,2021-02-18,2041-02-18
-P000344,Biotech Research Engine,Active,JP,Yuki Tanaka,2018-11-27,2038-11-27
-P000345,Healthcare Analytics Platform,Expired,JP,Kenji Sato,2023-05-24,2043-05-24
-P000346,Smart Manufacturing Process,Active,US,Sarah Johnson,2019-12-25,2039-12-25
-P000347,Smart Manufacturing Process,Expired,JP,John Smith,2023-10-24,2043-10-24
-P000348,AI Drug Discovery Platform,Expired,US,Michael Chen,2019-01-04,2039-01-04
-P000349,Smart Manufacturing Process,Active,US,David Wilson,2021-03-09,2041-03-09
-P000350,Medical Imaging Algorithm,Expired,US,David Wilson,2018-12-01,2038-12-01
-P000351,Biotech Research Engine,Active,US,Emily Brown,2018-09-11,2038-09-11
-P000352,Healthcare Analytics Platform,Active,US,Emily Brown,2021-02-08,2041-02-08
-P000353,Medical Imaging Algorithm,Expired,JP,Emily Brown,2018-07-08,2038-07-08
-P000354,Gene Analysis System,Expired,US,Yuki Tanaka,2023-01-13,2043-01-13
-P000355,AI Drug Discovery Platform,Active,US,John Smith,2020-03-10,2040-03-10
-P000356,Medical Imaging Algorithm,Expired,JP,Yuki Tanaka,2019-06-23,2039-06-23
-P000357,Gene Analysis System,Active,US,John Smith,2022-10-14,2042-10-14
-P000358,AI Drug Discovery Platform,Active,JP,David Wilson,2021-05-26,2041-05-26
-P000359,AI Drug Discovery Platform,Active,US,John Smith,2018-12-15,2038-12-15
-P000360,Gene Analysis System,Expired,JP,Michael Chen,2023-08-02,2043-08-02
-P000361,Gene Analysis System,Active,JP,Sarah Johnson,2022-07-24,2042-07-24
-P000362,Biotech Research Engine,Expired,JP,Yuki Tanaka,2022-09-11,2042-09-11
-P000363,Medical Imaging Algorithm,Active,JP,David Wilson,2023-04-27,2043-04-27
-P000364,Medical Imaging Algorithm,Expired,US,Emily Brown,2020-10-11,2040-10-11
-P000365,Smart Manufacturing Process,Active,JP,Kenji Sato,2019-01-02,2039-01-02
-P000366,Biotech Research Engine,Active,US,Kenji Sato,2019-10-30,2039-10-30
-P000367,Biotech Research Engine,Active,US,Sarah Johnson,2024-09-30,2044-09-30
-P000368,Healthcare Analytics Platform,Expired,US,John Smith,2018-09-03,2038-09-03
-P000369,Biotech Research Engine,Active,JP,Michael Chen,2020-11-07,2040-11-07
-P000370,Smart Manufacturing Process,Expired,US,Emily Brown,2020-06-23,2040-06-23
-P000371,Clinical Data Framework,Active,JP,John Smith,2024-11-06,2044-11-06
-P000372,Clinical Data Framework,Expired,US,Michael Chen,2020-12-12,2040-12-12
-P000373,Clinical Data Framework,Expired,JP,Kenji Sato,2021-10-03,2041-10-03
-P000374,AI Drug Discovery Platform,Expired,JP,Emily Brown,2023-04-27,2043-04-27
-P000375,AI Drug Discovery Platform,Active,US,Yuki Tanaka,2022-10-23,2042-10-23
-P000376,Healthcare Analytics Platform,Active,JP,David Wilson,2022-09-07,2042-09-07
-P000377,Gene Analysis System,Active,JP,John Smith,2023-03-11,2043-03-11
-P000378,Clinical Data Framework,Active,US,Emily Brown,2024-11-06,2044-11-06
-P000379,Gene Analysis System,Active,JP,Emily Brown,2019-06-30,2039-06-30
-P000380,Smart Manufacturing Process,Expired,US,David Wilson,2024-07-12,2044-07-12
-P000381,Biotech Research Engine,Expired,US,John Smith,2024-05-11,2044-05-11
-P000382,Healthcare Analytics Platform,Expired,US,Emily Brown,2024-02-10,2044-02-10
-P000383,Smart Manufacturing Process,Active,US,John Smith,2023-01-12,2043-01-12
-P000384,Gene Analysis System,Active,US,Kenji Sato,2023-03-09,2043-03-09
-P000385,Healthcare Analytics Platform,Expired,US,Kenji Sato,2023-07-12,2043-07-12
-P000386,Clinical Data Framework,Active,US,John Smith,2021-09-15,2041-09-15
-P000387,Smart Manufacturing Process,Active,US,John Smith,2023-07-02,2043-07-02
-P000388,Clinical Data Framework,Active,US,David Wilson,2019-09-07,2039-09-07
-P000389,AI Drug Discovery Platform,Active,US,Yuki Tanaka,2019-12-11,2039-12-11
-P000390,Smart Manufacturing Process,Expired,JP,Sarah Johnson,2020-03-14,2040-03-14
-P000391,Clinical Data Framework,Expired,US,John Smith,2023-08-25,2043-08-25
-P000392,Biotech Research Engine,Active,US,David Wilson,2020-03-07,2040-03-07
-P000393,Gene Analysis System,Active,US,John Smith,2018-05-07,2038-05-07
-P000394,Clinical Data Framework,Expired,JP,Michael Chen,2021-04-21,2041-04-21
-P000395,AI Drug Discovery Platform,Expired,US,Sarah Johnson,2022-02-24,2042-02-24
-P000396,Medical Imaging Algorithm,Expired,JP,Michael Chen,2022-04-27,2042-04-27
-P000397,Healthcare Analytics Platform,Expired,US,John Smith,2023-09-03,2043-09-03
-P000398,Biotech Research Engine,Expired,JP,Sarah Johnson,2020-02-09,2040-02-09
-P000399,Smart Manufacturing Process,Expired,JP,Michael Chen,2021-10-13,2041-10-13
-P000400,Healthcare Analytics Platform,Expired,US,Kenji Sato,2021-02-21,2041-02-21
-P000401,Healthcare Analytics Platform,Expired,JP,Yuki Tanaka,2023-08-02,2043-08-02
-P000402,Biotech Research Engine,Active,JP,Michael Chen,2018-01-10,2038-01-10
-P000403,AI Drug Discovery Platform,Active,US,Sarah Johnson,2020-01-02,2040-01-02
-P000404,Clinical Data Framework,Expired,US,Sarah Johnson,2020-05-30,2040-05-30
-P000405,Healthcare Analytics Platform,Expired,JP,David Wilson,2019-08-10,2039-08-10
-P000406,Smart Manufacturing Process,Active,JP,John Smith,2018-12-10,2038-12-10
-P000407,Gene Analysis System,Active,US,David Wilson,2019-12-13,2039-12-13
-P000408,Clinical Data Framework,Expired,US,Emily Brown,2023-06-15,2043-06-15
-P000409,Healthcare Analytics Platform,Active,US,John Smith,2020-01-28,2040-01-28
-P000410,AI Drug Discovery Platform,Expired,JP,David Wilson,2023-11-22,2043-11-22
-P000411,Healthcare Analytics Platform,Active,JP,John Smith,2020-08-28,2040-08-28
-P000412,Biotech Research Engine,Expired,US,Sarah Johnson,2022-07-31,2042-07-31
-P000413,Smart Manufacturing Process,Active,US,Kenji Sato,2022-03-24,2042-03-24
-P000414,Healthcare Analytics Platform,Active,US,David Wilson,2019-03-20,2039-03-20
-P000415,AI Drug Discovery Platform,Expired,US,Emily Brown,2018-04-02,2038-04-02
-P000416,Clinical Data Framework,Expired,US,David Wilson,2020-01-24,2040-01-24
-P000417,Smart Manufacturing Process,Expired,JP,David Wilson,2021-09-07,2041-09-07
-P000418,Smart Manufacturing Process,Active,US,Kenji Sato,2022-09-24,2042-09-24
-P000419,Biotech Research Engine,Expired,US,Yuki Tanaka,2019-01-14,2039-01-14
-P000420,Smart Manufacturing Process,Expired,JP,David Wilson,2020-01-01,2040-01-01
-P000421,Medical Imaging Algorithm,Active,US,Michael Chen,2023-04-26,2043-04-26
-P000422,Medical Imaging Algorithm,Expired,JP,Yuki Tanaka,2020-07-10,2040-07-10
-P000423,Healthcare Analytics Platform,Expired,JP,Sarah Johnson,2023-03-09,2043-03-09
-P000424,Biotech Research Engine,Expired,JP,Yuki Tanaka,2020-09-03,2040-09-03
-P000425,Healthcare Analytics Platform,Active,JP,Kenji Sato,2021-04-17,2041-04-17
-P000426,Gene Analysis System,Active,JP,Michael Chen,2019-04-11,2039-04-11
-P000427,AI Drug Discovery Platform,Expired,JP,Kenji Sato,2022-07-02,2042-07-02
-P000428,AI Drug Discovery Platform,Active,JP,Sarah Johnson,2018-01-23,2038-01-23
-P000429,Gene Analysis System,Active,US,Yuki Tanaka,2023-01-04,2043-01-04
-P000430,AI Drug Discovery Platform,Active,US,David Wilson,2024-03-11,2044-03-11
-P000431,Gene Analysis System,Expired,JP,Emily Brown,2020-11-23,2040-11-23
-P000432,Biotech Research Engine,Active,JP,Sarah Johnson,2018-03-25,2038-03-25
-P000433,Clinical Data Framework,Expired,US,Yuki Tanaka,2022-02-26,2042-02-26
-P000434,Clinical Data Framework,Active,JP,Sarah Johnson,2018-05-15,2038-05-15
-P000435,Medical Imaging Algorithm,Expired,JP,Emily Brown,2020-11-09,2040-11-09
-P000436,Gene Analysis System,Active,JP,Michael Chen,2024-04-20,2044-04-20
-P000437,Smart Manufacturing Process,Active,US,Michael Chen,2018-08-03,2038-08-03
-P000438,Smart Manufacturing Process,Active,US,Kenji Sato,2019-10-14,2039-10-14
-P000439,Clinical Data Framework,Expired,JP,Yuki Tanaka,2022-05-17,2042-05-17
-P000440,Gene Analysis System,Expired,US,John Smith,2022-12-02,2042-12-02
-P000441,Medical Imaging Algorithm,Active,JP,Michael Chen,2018-02-26,2038-02-26
-P000442,Healthcare Analytics Platform,Expired,US,Emily Brown,2018-01-29,2038-01-29
-P000443,Biotech Research Engine,Expired,JP,Kenji Sato,2023-08-02,2043-08-02
-P000444,Clinical Data Framework,Expired,US,Emily Brown,2018-08-28,2038-08-28
-P000445,AI Drug Discovery Platform,Active,US,David Wilson,2022-01-10,2042-01-10
-P000446,Clinical Data Framework,Active,JP,Michael Chen,2023-05-15,2043-05-15
-P000447,Gene Analysis System,Expired,JP,Kenji Sato,2021-04-11,2041-04-11
-P000448,Healthcare Analytics Platform,Active,JP,David Wilson,2019-12-07,2039-12-07
-P000449,Medical Imaging Algorithm,Expired,US,Sarah Johnson,2019-08-30,2039-08-30
-P000450,Clinical Data Framework,Active,US,Michael Chen,2019-02-09,2039-02-09
-P000451,Clinical Data Framework,Active,JP,Emily Brown,2023-09-13,2043-09-13
-P000452,Healthcare Analytics Platform,Active,US,John Smith,2020-02-09,2040-02-09
-P000453,Medical Imaging Algorithm,Expired,US,Yuki Tanaka,2021-02-17,2041-02-17
-P000454,Clinical Data Framework,Expired,JP,Yuki Tanaka,2020-11-29,2040-11-29
-P000455,Healthcare Analytics Platform,Expired,US,Yuki Tanaka,2022-03-07,2042-03-07
-P000456,Medical Imaging Algorithm,Active,US,Kenji Sato,2018-06-01,2038-06-01
-P000457,Gene Analysis System,Active,JP,Sarah Johnson,2019-10-10,2039-10-10
-P000458,Biotech Research Engine,Expired,US,Kenji Sato,2024-08-18,2044-08-18
-P000459,AI Drug Discovery Platform,Expired,US,Emily Brown,2023-04-25,2043-04-25
-P000460,Biotech Research Engine,Expired,US,Yuki Tanaka,2023-12-28,2043-12-28
-P000461,Medical Imaging Algorithm,Expired,US,Michael Chen,2019-05-27,2039-05-27
-P000462,Smart Manufacturing Process,Expired,JP,Kenji Sato,2018-06-15,2038-06-15
-P000463,Healthcare Analytics Platform,Active,US,Yuki Tanaka,2024-12-24,2044-12-24
-P000464,Medical Imaging Algorithm,Active,US,Emily Brown,2024-02-15,2044-02-15
-P000465,Gene Analysis System,Expired,US,John Smith,2020-02-03,2040-02-03
-P000466,Clinical Data Framework,Expired,JP,Kenji Sato,2024-07-19,2044-07-19
-P000467,Clinical Data Framework,Expired,JP,Sarah Johnson,2020-01-09,2040-01-09
-P000468,Clinical Data Framework,Active,US,David Wilson,2021-06-25,2041-06-25
-P000469,Healthcare Analytics Platform,Active,JP,John Smith,2023-03-10,2043-03-10
-P000470,Smart Manufacturing Process,Expired,JP,Kenji Sato,2021-05-14,2041-05-14
-P000471,Biotech Research Engine,Active,US,John Smith,2020-09-12,2040-09-12
-P000472,AI Drug Discovery Platform,Expired,JP,David Wilson,2024-02-04,2044-02-04
-P000473,Biotech Research Engine,Active,US,Kenji Sato,2022-12-14,2042-12-14
-P000474,Gene Analysis System,Active,US,Michael Chen,2024-11-20,2044-11-20
-P000475,Clinical Data Framework,Active,US,John Smith,2019-11-22,2039-11-22
-P000476,Smart Manufacturing Process,Active,US,Yuki Tanaka,2024-10-26,2044-10-26
-P000477,Biotech Research Engine,Active,JP,Sarah Johnson,2024-06-05,2044-06-05
-P000478,Gene Analysis System,Active,JP,David Wilson,2018-02-11,2038-02-11
-P000479,AI Drug Discovery Platform,Active,JP,John Smith,2021-04-23,2041-04-23
-P000480,Smart Manufacturing Process,Expired,US,Emily Brown,2020-10-25,2040-10-25
-P000481,Smart Manufacturing Process,Active,US,David Wilson,2020-06-12,2040-06-12
-P000482,Biotech Research Engine,Expired,US,Yuki Tanaka,2023-12-06,2043-12-06
-P000483,Healthcare Analytics Platform,Expired,US,Michael Chen,2020-04-27,2040-04-27
-P000484,Medical Imaging Algorithm,Active,JP,John Smith,2023-12-15,2043-12-15
-P000485,Clinical Data Framework,Expired,JP,Michael Chen,2023-10-15,2043-10-15
-P000486,Smart Manufacturing Process,Active,JP,David Wilson,2024-11-03,2044-11-03
-P000487,Healthcare Analytics Platform,Expired,JP,Kenji Sato,2024-10-08,2044-10-08
-P000488,Gene Analysis System,Active,US,Yuki Tanaka,2022-08-10,2042-08-10
-P000489,Smart Manufacturing Process,Active,JP,Kenji Sato,2022-09-28,2042-09-28
-P000490,Medical Imaging Algorithm,Active,JP,John Smith,2023-07-22,2043-07-22
-P000491,Biotech Research Engine,Expired,JP,John Smith,2024-05-13,2044-05-13
-P000492,AI Drug Discovery Platform,Active,JP,Michael Chen,2021-08-06,2041-08-06
-P000493,Gene Analysis System,Active,US,David Wilson,2018-12-07,2038-12-07
-P000494,Medical Imaging Algorithm,Active,JP,Kenji Sato,2022-12-25,2042-12-25
-P000495,Medical Imaging Algorithm,Active,US,David Wilson,2019-09-18,2039-09-18
-P000496,Medical Imaging Algorithm,Active,JP,Yuki Tanaka,2024-05-12,2044-05-12
-P000497,Healthcare Analytics Platform,Expired,US,Sarah Johnson,2020-03-20,2040-03-20
-P000498,Smart Manufacturing Process,Active,US,Emily Brown,2023-05-09,2043-05-09
-P000499,Medical Imaging Algorithm,Active,US,Yuki Tanaka,2022-03-14,2042-03-14
-P000500,AI Drug Discovery Platform,Active,US,John Smith,2023-09-03,2043-09-03
-P000501,Medical Imaging Algorithm,Active,JP,Sarah Johnson,2021-05-20,2041-05-20
-P000502,Gene Analysis System,Active,JP,Yuki Tanaka,2019-06-25,2039-06-25
-P000503,Healthcare Analytics Platform,Active,US,Kenji Sato,2018-09-04,2038-09-04
-P000504,Biotech Research Engine,Expired,US,Michael Chen,2018-06-25,2038-06-25
-P000505,Smart Manufacturing Process,Active,JP,Yuki Tanaka,2018-07-13,2038-07-13
-P000506,AI Drug Discovery Platform,Active,JP,Yuki Tanaka,2022-12-15,2042-12-15
-P000507,AI Drug Discovery Platform,Expired,US,Michael Chen,2021-10-13,2041-10-13
-P000508,Clinical Data Framework,Expired,US,Sarah Johnson,2021-09-26,2041-09-26
-P000509,AI Drug Discovery Platform,Expired,US,David Wilson,2021-02-08,2041-02-08
-P000510,AI Drug Discovery Platform,Active,JP,Sarah Johnson,2021-12-14,2041-12-14
-P000511,Clinical Data Framework,Active,JP,Emily Brown,2021-02-22,2041-02-22
-P000512,AI Drug Discovery Platform,Expired,US,Yuki Tanaka,2020-07-24,2040-07-24
-P000513,Medical Imaging Algorithm,Active,JP,Yuki Tanaka,2018-12-08,2038-12-08
-P000514,AI Drug Discovery Platform,Expired,JP,Michael Chen,2023-06-10,2043-06-10
-P000515,Gene Analysis System,Expired,US,David Wilson,2020-02-20,2040-02-20
-P000516,Medical Imaging Algorithm,Expired,US,Sarah Johnson,2018-07-31,2038-07-31
-P000517,Smart Manufacturing Process,Expired,JP,John Smith,2022-09-24,2042-09-24
-P000518,Medical Imaging Algorithm,Active,US,Emily Brown,2022-01-25,2042-01-25
-P000519,Healthcare Analytics Platform,Expired,US,Emily Brown,2024-05-30,2044-05-30
-P000520,Smart Manufacturing Process,Expired,US,Kenji Sato,2024-01-06,2044-01-06
-P000521,Medical Imaging Algorithm,Expired,JP,Emily Brown,2018-12-30,2038-12-30
-P000522,Medical Imaging Algorithm,Active,JP,John Smith,2019-11-23,2039-11-23
-P000523,Medical Imaging Algorithm,Active,JP,Michael Chen,2023-10-25,2043-10-25
-P000524,Healthcare Analytics Platform,Expired,US,David Wilson,2020-11-24,2040-11-24
-P000525,Smart Manufacturing Process,Expired,US,Sarah Johnson,2023-08-08,2043-08-08
-P000526,Healthcare Analytics Platform,Expired,US,Michael Chen,2019-01-21,2039-01-21
-P000527,Healthcare Analytics Platform,Active,JP,Emily Brown,2020-11-19,2040-11-19
-P000528,Smart Manufacturing Process,Active,US,Yuki Tanaka,2021-11-21,2041-11-21
-P000529,Gene Analysis System,Expired,JP,Emily Brown,2020-08-29,2040-08-29
-P000530,Biotech Research Engine,Active,US,Michael Chen,2020-04-02,2040-04-02
-P000531,AI Drug Discovery Platform,Active,US,Sarah Johnson,2023-10-20,2043-10-20
-P000532,Clinical Data Framework,Active,US,Yuki Tanaka,2019-10-29,2039-10-29
-P000533,Medical Imaging Algorithm,Expired,US,Kenji Sato,2021-02-28,2041-02-28
-P000534,Clinical Data Framework,Active,JP,David Wilson,2021-03-23,2041-03-23
-P000535,AI Drug Discovery Platform,Expired,JP,Kenji Sato,2024-06-13,2044-06-13
-P000536,AI Drug Discovery Platform,Expired,US,Sarah Johnson,2024-09-19,2044-09-19
-P000537,Smart Manufacturing Process,Active,JP,Yuki Tanaka,2022-09-07,2042-09-07
-P000538,Smart Manufacturing Process,Expired,US,John Smith,2021-08-21,2041-08-21
-P000539,Smart Manufacturing Process,Active,JP,Kenji Sato,2018-02-16,2038-02-16
-P000540,Clinical Data Framework,Active,US,Yuki Tanaka,2020-11-19,2040-11-19
-P000541,Medical Imaging Algorithm,Expired,US,John Smith,2020-03-30,2040-03-30
-P000542,Clinical Data Framework,Expired,JP,Emily Brown,2021-10-23,2041-10-23
-P000543,Biotech Research Engine,Active,JP,Michael Chen,2023-05-01,2043-05-01
-P000544,AI Drug Discovery Platform,Active,JP,David Wilson,2018-06-20,2038-06-20
-P000545,Medical Imaging Algorithm,Active,US,Yuki Tanaka,2023-02-08,2043-02-08
-P000546,Clinical Data Framework,Expired,US,Emily Brown,2022-04-06,2042-04-06
-P000547,Gene Analysis System,Expired,JP,Michael Chen,2018-12-12,2038-12-12
-P000548,Smart Manufacturing Process,Expired,US,John Smith,2019-05-12,2039-05-12
-P000549,AI Drug Discovery Platform,Active,JP,Michael Chen,2024-01-25,2044-01-25
-P000550,Gene Analysis System,Active,JP,John Smith,2023-11-02,2043-11-02
-P000551,Clinical Data Framework,Expired,US,Kenji Sato,2018-05-02,2038-05-02
-P000552,Healthcare Analytics Platform,Expired,US,Emily Brown,2023-02-18,2043-02-18
-P000553,Smart Manufacturing Process,Expired,US,Emily Brown,2021-11-14,2041-11-14
-P000554,Healthcare Analytics Platform,Active,JP,Emily Brown,2024-07-18,2044-07-18
-P000555,Biotech Research Engine,Expired,JP,Michael Chen,2021-02-01,2041-02-01
-P000556,Smart Manufacturing Process,Expired,US,Emily Brown,2021-10-22,2041-10-22
-P000557,AI Drug Discovery Platform,Expired,US,John Smith,2020-10-30,2040-10-30
-P000558,AI Drug Discovery Platform,Active,US,Kenji Sato,2022-05-01,2042-05-01
-P000559,AI Drug Discovery Platform,Active,JP,Emily Brown,2019-11-06,2039-11-06
-P000560,Medical Imaging Algorithm,Expired,US,Emily Brown,2018-06-29,2038-06-29
-P000561,Healthcare Analytics Platform,Active,US,Michael Chen,2023-06-09,2043-06-09
-P000562,Smart Manufacturing Process,Expired,JP,Yuki Tanaka,2021-08-10,2041-08-10
-P000563,Healthcare Analytics Platform,Active,JP,Yuki Tanaka,2021-09-23,2041-09-23
-P000564,Healthcare Analytics Platform,Active,JP,David Wilson,2020-10-17,2040-10-17
-P000565,Gene Analysis System,Expired,US,Emily Brown,2021-06-09,2041-06-09
-P000566,Healthcare Analytics Platform,Active,JP,Michael Chen,2024-06-19,2044-06-19
-P000567,Smart Manufacturing Process,Active,JP,John Smith,2022-04-13,2042-04-13
-P000568,Healthcare Analytics Platform,Expired,JP,Michael Chen,2018-07-06,2038-07-06
-P000569,Clinical Data Framework,Expired,JP,Kenji Sato,2023-04-24,2043-04-24
-P000570,Gene Analysis System,Expired,JP,Sarah Johnson,2023-10-14,2043-10-14
-P000571,Medical Imaging Algorithm,Expired,JP,Yuki Tanaka,2020-01-16,2040-01-16
-P000572,Clinical Data Framework,Active,JP,Kenji Sato,2018-11-22,2038-11-22
-P000573,Healthcare Analytics Platform,Expired,JP,John Smith,2019-01-28,2039-01-28
-P000574,Medical Imaging Algorithm,Expired,JP,David Wilson,2019-05-31,2039-05-31
-P000575,Clinical Data Framework,Active,US,John Smith,2024-06-06,2044-06-06
-P000576,Healthcare Analytics Platform,Active,JP,Michael Chen,2024-10-26,2044-10-26
-P000577,AI Drug Discovery Platform,Expired,US,David Wilson,2018-07-06,2038-07-06
-P000578,Biotech Research Engine,Expired,JP,John Smith,2019-05-08,2039-05-08
-P000579,Smart Manufacturing Process,Active,JP,Sarah Johnson,2018-11-25,2038-11-25
-P000580,Gene Analysis System,Active,JP,Michael Chen,2018-01-25,2038-01-25
-P000581,Biotech Research Engine,Expired,US,Yuki Tanaka,2023-07-17,2043-07-17
-P000582,Gene Analysis System,Active,US,David Wilson,2018-01-12,2038-01-12
-P000583,Smart Manufacturing Process,Active,JP,Emily Brown,2024-07-26,2044-07-26
-P000584,AI Drug Discovery Platform,Active,JP,David Wilson,2019-08-19,2039-08-19
-P000585,AI Drug Discovery Platform,Active,JP,Kenji Sato,2020-06-26,2040-06-26
-P000586,Smart Manufacturing Process,Expired,JP,Emily Brown,2023-06-29,2043-06-29
-P000587,AI Drug Discovery Platform,Active,US,Emily Brown,2019-09-12,2039-09-12
-P000588,Gene Analysis System,Active,US,Sarah Johnson,2024-11-14,2044-11-14
-P000589,AI Drug Discovery Platform,Active,US,Emily Brown,2018-05-15,2038-05-15
-P000590,AI Drug Discovery Platform,Active,JP,David Wilson,2021-09-02,2041-09-02
-P000591,Biotech Research Engine,Active,JP,Kenji Sato,2022-01-16,2042-01-16
-P000592,Gene Analysis System,Expired,JP,John Smith,2023-03-28,2043-03-28
-P000593,Healthcare Analytics Platform,Active,JP,Michael Chen,2022-05-20,2042-05-20
-P000594,Medical Imaging Algorithm,Active,US,Emily Brown,2021-10-18,2041-10-18
-P000595,Biotech Research Engine,Active,JP,Emily Brown,2021-02-24,2041-02-24
-P000596,Healthcare Analytics Platform,Expired,JP,Kenji Sato,2022-06-06,2042-06-06
-P000597,Gene Analysis System,Active,JP,Emily Brown,2020-06-21,2040-06-21
-P000598,Clinical Data Framework,Active,US,Emily Brown,2018-08-17,2038-08-17
-P000599,Medical Imaging Algorithm,Active,US,Emily Brown,2021-03-19,2041-03-19
-P000600,AI Drug Discovery Platform,Expired,US,Yuki Tanaka,2021-09-25,2041-09-25
-P000601,Smart Manufacturing Process,Active,US,Kenji Sato,2022-05-25,2042-05-25
-P000602,Clinical Data Framework,Expired,US,John Smith,2021-03-20,2041-03-20
-P000603,Smart Manufacturing Process,Expired,JP,Kenji Sato,2018-01-01,2038-01-01
-P000604,Clinical Data Framework,Active,JP,Emily Brown,2021-03-19,2041-03-19
-P000605,Healthcare Analytics Platform,Active,US,Sarah Johnson,2019-02-21,2039-02-21
-P000606,Biotech Research Engine,Active,JP,Yuki Tanaka,2019-12-11,2039-12-11
-P000607,Medical Imaging Algorithm,Expired,US,David Wilson,2022-11-08,2042-11-08
-P000608,Biotech Research Engine,Active,JP,John Smith,2019-06-12,2039-06-12
-P000609,Clinical Data Framework,Expired,JP,Sarah Johnson,2019-04-11,2039-04-11
-P000610,Clinical Data Framework,Expired,US,Sarah Johnson,2018-05-08,2038-05-08
-P000611,Healthcare Analytics Platform,Active,JP,Kenji Sato,2021-11-12,2041-11-12
-P000612,AI Drug Discovery Platform,Active,JP,Michael Chen,2021-02-15,2041-02-15
-P000613,Smart Manufacturing Process,Expired,JP,Kenji Sato,2019-12-10,2039-12-10
-P000614,Clinical Data Framework,Active,JP,John Smith,2021-06-28,2041-06-28
-P000615,AI Drug Discovery Platform,Expired,US,Yuki Tanaka,2023-02-09,2043-02-09
-P000616,Healthcare Analytics Platform,Expired,US,John Smith,2020-10-27,2040-10-27
-P000617,Biotech Research Engine,Active,US,Sarah Johnson,2020-05-12,2040-05-12
-P000618,Medical Imaging Algorithm,Active,JP,Emily Brown,2020-01-08,2040-01-08
-P000619,Smart Manufacturing Process,Expired,US,John Smith,2023-04-06,2043-04-06
-P000620,Clinical Data Framework,Expired,JP,Emily Brown,2022-07-12,2042-07-12
-P000621,Biotech Research Engine,Expired,JP,Yuki Tanaka,2024-04-29,2044-04-29
-P000622,Medical Imaging Algorithm,Expired,JP,Yuki Tanaka,2018-03-31,2038-03-31
-P000623,Smart Manufacturing Process,Expired,JP,Michael Chen,2022-08-01,2042-08-01
-P000624,Gene Analysis System,Expired,US,David Wilson,2019-10-24,2039-10-24
-P000625,Healthcare Analytics Platform,Expired,US,Kenji Sato,2020-08-10,2040-08-10
-P000626,Smart Manufacturing Process,Expired,US,Emily Brown,2023-02-25,2043-02-25
-P000627,Clinical Data Framework,Expired,US,David Wilson,2023-03-24,2043-03-24
-P000628,Biotech Research Engine,Expired,US,Kenji Sato,2021-04-06,2041-04-06
-P000629,AI Drug Discovery Platform,Expired,US,John Smith,2022-03-10,2042-03-10
-P000630,Smart Manufacturing Process,Active,US,Sarah Johnson,2020-11-10,2040-11-10
-P000631,Smart Manufacturing Process,Active,JP,Michael Chen,2020-01-20,2040-01-20
-P000632,Smart Manufacturing Process,Active,US,David Wilson,2022-11-21,2042-11-21
-P000633,Smart Manufacturing Process,Expired,US,David Wilson,2019-09-16,2039-09-16
-P000634,Healthcare Analytics Platform,Expired,JP,Sarah Johnson,2020-09-20,2040-09-20
-P000635,Healthcare Analytics Platform,Expired,JP,John Smith,2018-11-09,2038-11-09
-P000636,Clinical Data Framework,Active,US,John Smith,2021-07-15,2041-07-15
-P000637,Gene Analysis System,Active,JP,Emily Brown,2018-01-28,2038-01-28
-P000638,Biotech Research Engine,Expired,JP,Emily Brown,2020-03-24,2040-03-24
-P000639,Clinical Data Framework,Expired,US,John Smith,2022-06-07,2042-06-07
-P000640,AI Drug Discovery Platform,Active,JP,Michael Chen,2022-02-01,2042-02-01
-P000641,Smart Manufacturing Process,Active,JP,Emily Brown,2018-03-08,2038-03-08
-P000642,Medical Imaging Algorithm,Active,US,Sarah Johnson,2021-06-24,2041-06-24
-P000643,Clinical Data Framework,Active,JP,Kenji Sato,2022-07-05,2042-07-05
-P000644,Biotech Research Engine,Expired,US,Yuki Tanaka,2020-11-17,2040-11-17
-P000645,AI Drug Discovery Platform,Expired,US,John Smith,2024-07-01,2044-07-01
-P000646,Gene Analysis System,Expired,US,Kenji Sato,2021-12-25,2041-12-25
-P000647,Biotech Research Engine,Active,JP,Sarah Johnson,2021-03-05,2041-03-05
-P000648,AI Drug Discovery Platform,Expired,JP,Yuki Tanaka,2019-02-14,2039-02-14
-P000649,Clinical Data Framework,Expired,US,Kenji Sato,2018-11-30,2038-11-30
-P000650,Healthcare Analytics Platform,Expired,JP,Emily Brown,2018-02-07,2038-02-07
-P000651,Healthcare Analytics Platform,Active,JP,John Smith,2020-08-25,2040-08-25
-P000652,Clinical Data Framework,Expired,US,Emily Brown,2024-12-16,2044-12-16
-P000653,Clinical Data Framework,Expired,US,David Wilson,2024-05-02,2044-05-02
-P000654,AI Drug Discovery Platform,Active,JP,Yuki Tanaka,2024-01-21,2044-01-21
-P000655,Clinical Data Framework,Expired,JP,Emily Brown,2022-02-13,2042-02-13
-P000656,Gene Analysis System,Active,JP,John Smith,2018-05-03,2038-05-03
-P000657,Clinical Data Framework,Active,US,John Smith,2024-10-02,2044-10-02
-P000658,AI Drug Discovery Platform,Expired,JP,Kenji Sato,2018-01-29,2038-01-29
-P000659,Gene Analysis System,Expired,JP,Kenji Sato,2020-05-06,2040-05-06
-P000660,Biotech Research Engine,Active,JP,Kenji Sato,2018-01-14,2038-01-14
-P000661,Medical Imaging Algorithm,Expired,JP,Yuki Tanaka,2021-09-08,2041-09-08
-P000662,Smart Manufacturing Process,Expired,US,David Wilson,2021-11-07,2041-11-07
-P000663,Medical Imaging Algorithm,Expired,JP,John Smith,2021-08-09,2041-08-09
-P000664,Smart Manufacturing Process,Expired,US,Michael Chen,2021-08-21,2041-08-21
-P000665,Healthcare Analytics Platform,Active,JP,Yuki Tanaka,2022-11-30,2042-11-30
-P000666,Biotech Research Engine,Expired,US,Yuki Tanaka,2020-04-06,2040-04-06
-P000667,Clinical Data Framework,Active,JP,Michael Chen,2019-11-19,2039-11-19
-P000668,Biotech Research Engine,Active,JP,Michael Chen,2022-04-14,2042-04-14
-P000669,Biotech Research Engine,Expired,US,John Smith,2024-01-28,2044-01-28
-P000670,Smart Manufacturing Process,Active,US,David Wilson,2019-05-17,2039-05-17
-P000671,Smart Manufacturing Process,Expired,JP,David Wilson,2018-01-15,2038-01-15
-P000672,Clinical Data Framework,Active,JP,Emily Brown,2022-12-21,2042-12-21
-P000673,Biotech Research Engine,Expired,JP,Emily Brown,2023-08-31,2043-08-31
-P000674,AI Drug Discovery Platform,Expired,JP,Kenji Sato,2019-03-31,2039-03-31
-P000675,Clinical Data Framework,Active,JP,John Smith,2021-08-20,2041-08-20
-P000676,AI Drug Discovery Platform,Active,US,Emily Brown,2020-01-06,2040-01-06
-P000677,Healthcare Analytics Platform,Expired,JP,Michael Chen,2021-04-14,2041-04-14
-P000678,Smart Manufacturing Process,Active,US,Michael Chen,2023-12-01,2043-12-01
-P000679,AI Drug Discovery Platform,Expired,US,David Wilson,2022-09-23,2042-09-23
-P000680,Biotech Research Engine,Active,JP,John Smith,2018-01-04,2038-01-04
-P000681,Smart Manufacturing Process,Active,JP,John Smith,2021-08-05,2041-08-05
-P000682,Clinical Data Framework,Expired,JP,Kenji Sato,2018-06-15,2038-06-15
-P000683,Smart Manufacturing Process,Active,US,Yuki Tanaka,2021-02-17,2041-02-17
-P000684,Biotech Research Engine,Active,US,John Smith,2018-07-04,2038-07-04
-P000685,AI Drug Discovery Platform,Expired,US,Yuki Tanaka,2022-04-02,2042-04-02
-P000686,Healthcare Analytics Platform,Expired,JP,Sarah Johnson,2020-05-03,2040-05-03
-P000687,Medical Imaging Algorithm,Expired,JP,Sarah Johnson,2022-04-27,2042-04-27
-P000688,Smart Manufacturing Process,Expired,US,John Smith,2024-12-06,2044-12-06
-P000689,Smart Manufacturing Process,Expired,JP,Yuki Tanaka,2023-03-25,2043-03-25
-P000690,Clinical Data Framework,Active,US,Kenji Sato,2020-05-15,2040-05-15
-P000691,Smart Manufacturing Process,Active,US,Emily Brown,2018-10-16,2038-10-16
-P000692,Healthcare Analytics Platform,Active,JP,Sarah Johnson,2019-12-27,2039-12-27
-P000693,Smart Manufacturing Process,Active,JP,John Smith,2018-12-23,2038-12-23
-P000694,AI Drug Discovery Platform,Expired,US,David Wilson,2020-03-30,2040-03-30
-P000695,Biotech Research Engine,Expired,US,David Wilson,2023-09-22,2043-09-22
-P000696,Biotech Research Engine,Expired,US,John Smith,2021-01-18,2041-01-18
-P000697,AI Drug Discovery Platform,Active,US,Kenji Sato,2024-11-17,2044-11-17
-P000698,Biotech Research Engine,Active,US,John Smith,2018-08-20,2038-08-20
-P000699,Biotech Research Engine,Expired,JP,David Wilson,2018-11-16,2038-11-16
-P000700,AI Drug Discovery Platform,Expired,JP,Sarah Johnson,2023-06-25,2043-06-25
-P000701,Biotech Research Engine,Expired,US,Emily Brown,2018-07-17,2038-07-17
-P000702,Clinical Data Framework,Expired,JP,Yuki Tanaka,2024-06-28,2044-06-28
-P000703,Medical Imaging Algorithm,Active,US,Emily Brown,2023-11-06,2043-11-06
-P000704,Biotech Research Engine,Active,JP,Kenji Sato,2022-10-07,2042-10-07
-P000705,Clinical Data Framework,Expired,US,Sarah Johnson,2024-03-25,2044-03-25
-P000706,Medical Imaging Algorithm,Active,US,Sarah Johnson,2018-02-27,2038-02-27
-P000707,Healthcare Analytics Platform,Active,US,David Wilson,2024-03-06,2044-03-06
-P000708,Smart Manufacturing Process,Expired,US,Kenji Sato,2023-08-30,2043-08-30
-P000709,Smart Manufacturing Process,Active,US,Emily Brown,2018-12-26,2038-12-26
-P000710,Biotech Research Engine,Active,JP,John Smith,2021-10-20,2041-10-20
-P000711,Biotech Research Engine,Expired,JP,John Smith,2018-03-16,2038-03-16
-P000712,Medical Imaging Algorithm,Active,JP,Kenji Sato,2023-09-14,2043-09-14
-P000713,Smart Manufacturing Process,Expired,JP,Emily Brown,2024-11-09,2044-11-09
-P000714,Smart Manufacturing Process,Expired,US,Emily Brown,2020-06-07,2040-06-07
-P000715,Gene Analysis System,Active,JP,Sarah Johnson,2019-11-13,2039-11-13
-P000716,AI Drug Discovery Platform,Expired,US,Emily Brown,2023-09-25,2043-09-25
-P000717,Medical Imaging Algorithm,Active,JP,Michael Chen,2018-04-16,2038-04-16
-P000718,Medical Imaging Algorithm,Active,US,Sarah Johnson,2020-11-11,2040-11-11
-P000719,AI Drug Discovery Platform,Expired,US,Kenji Sato,2018-06-16,2038-06-16
-P000720,Medical Imaging Algorithm,Active,US,Sarah Johnson,2020-02-23,2040-02-23
-P000721,Medical Imaging Algorithm,Expired,US,Emily Brown,2023-11-13,2043-11-13
-P000722,Gene Analysis System,Expired,US,Sarah Johnson,2019-06-30,2039-06-30
-P000723,Smart Manufacturing Process,Active,US,John Smith,2024-01-17,2044-01-17
-P000724,Smart Manufacturing Process,Active,US,Emily Brown,2021-07-20,2041-07-20
-P000725,Biotech Research Engine,Expired,US,John Smith,2018-11-03,2038-11-03
-P000726,Gene Analysis System,Expired,US,Emily Brown,2024-01-13,2044-01-13
-P000727,AI Drug Discovery Platform,Expired,US,Emily Brown,2022-11-11,2042-11-11
-P000728,Gene Analysis System,Expired,JP,Emily Brown,2022-10-03,2042-10-03
-P000729,Gene Analysis System,Expired,US,Emily Brown,2020-08-27,2040-08-27
-P000730,AI Drug Discovery Platform,Active,US,Yuki Tanaka,2019-11-17,2039-11-17
-P000731,Clinical Data Framework,Active,US,Emily Brown,2021-05-18,2041-05-18
-P000732,Biotech Research Engine,Active,JP,Kenji Sato,2020-04-16,2040-04-16
-P000733,Gene Analysis System,Active,US,Michael Chen,2018-04-28,2038-04-28
-P000734,AI Drug Discovery Platform,Active,US,John Smith,2019-08-24,2039-08-24
-P000735,Healthcare Analytics Platform,Active,JP,Michael Chen,2018-08-19,2038-08-19
-P000736,Clinical Data Framework,Expired,JP,Emily Brown,2024-06-09,2044-06-09
-P000737,Biotech Research Engine,Expired,US,Yuki Tanaka,2021-08-30,2041-08-30
-P000738,Clinical Data Framework,Expired,JP,Michael Chen,2022-07-27,2042-07-27
-P000739,Healthcare Analytics Platform,Expired,JP,John Smith,2024-06-29,2044-06-29
-P000740,Gene Analysis System,Expired,US,David Wilson,2018-04-16,2038-04-16
-P000741,Smart Manufacturing Process,Expired,US,Emily Brown,2018-10-07,2038-10-07
-P000742,Biotech Research Engine,Active,US,Michael Chen,2019-12-08,2039-12-08
-P000743,Clinical Data Framework,Expired,JP,John Smith,2018-10-25,2038-10-25
-P000744,Biotech Research Engine,Expired,US,John Smith,2019-04-25,2039-04-25
-P000745,Smart Manufacturing Process,Active,US,Emily Brown,2024-02-23,2044-02-23
-P000746,Smart Manufacturing Process,Expired,US,Kenji Sato,2023-02-15,2043-02-15
-P000747,Clinical Data Framework,Expired,US,John Smith,2023-11-03,2043-11-03
-P000748,Healthcare Analytics Platform,Active,US,Sarah Johnson,2020-01-12,2040-01-12
-P000749,Biotech Research Engine,Active,US,Kenji Sato,2022-12-13,2042-12-13
-P000750,Smart Manufacturing Process,Active,US,Sarah Johnson,2021-03-09,2041-03-09
-P000751,Smart Manufacturing Process,Active,JP,Kenji Sato,2023-02-19,2043-02-19
-P000752,Gene Analysis System,Active,JP,Emily Brown,2023-11-04,2043-11-04
-P000753,Biotech Research Engine,Expired,US,Michael Chen,2024-12-20,2044-12-20
-P000754,Healthcare Analytics Platform,Expired,US,Emily Brown,2018-04-10,2038-04-10
-P000755,Gene Analysis System,Active,JP,Kenji Sato,2019-10-09,2039-10-09
-P000756,Clinical Data Framework,Active,US,Michael Chen,2018-05-16,2038-05-16
-P000757,Gene Analysis System,Expired,US,Michael Chen,2024-08-02,2044-08-02
-P000758,Clinical Data Framework,Active,US,Michael Chen,2019-10-31,2039-10-31
-P000759,Gene Analysis System,Active,JP,Michael Chen,2022-01-23,2042-01-23
-P000760,Healthcare Analytics Platform,Active,US,Yuki Tanaka,2023-08-11,2043-08-11
-P000761,Clinical Data Framework,Active,JP,Emily Brown,2022-01-02,2042-01-02
-P000762,Healthcare Analytics Platform,Expired,US,Emily Brown,2018-02-08,2038-02-08
-P000763,Biotech Research Engine,Active,JP,Emily Brown,2018-12-07,2038-12-07
-P000764,Gene Analysis System,Active,US,Yuki Tanaka,2021-09-04,2041-09-04
-P000765,Gene Analysis System,Expired,JP,David Wilson,2021-08-14,2041-08-14
-P000766,AI Drug Discovery Platform,Expired,US,David Wilson,2024-07-15,2044-07-15
-P000767,Gene Analysis System,Active,US,David Wilson,2022-06-05,2042-06-05
-P000768,Medical Imaging Algorithm,Active,JP,Yuki Tanaka,2023-01-28,2043-01-28
-P000769,AI Drug Discovery Platform,Active,US,Yuki Tanaka,2024-03-05,2044-03-05
-P000770,Gene Analysis System,Expired,JP,Sarah Johnson,2022-07-08,2042-07-08
-P000771,Clinical Data Framework,Expired,JP,David Wilson,2019-04-01,2039-04-01
-P000772,Healthcare Analytics Platform,Active,JP,Michael Chen,2022-01-04,2042-01-04
-P000773,Smart Manufacturing Process,Expired,JP,Sarah Johnson,2022-12-29,2042-12-29
-P000774,Healthcare Analytics Platform,Expired,US,Sarah Johnson,2019-12-31,2039-12-31
-P000775,Medical Imaging Algorithm,Active,JP,Kenji Sato,2024-09-02,2044-09-02
-P000776,Smart Manufacturing Process,Active,US,Kenji Sato,2023-03-10,2043-03-10
-P000777,AI Drug Discovery Platform,Active,JP,Emily Brown,2021-11-30,2041-11-30
-P000778,Medical Imaging Algorithm,Active,US,Yuki Tanaka,2023-10-04,2043-10-04
-P000779,AI Drug Discovery Platform,Active,US,Sarah Johnson,2022-05-10,2042-05-10
-P000780,Biotech Research Engine,Expired,JP,Emily Brown,2020-02-11,2040-02-11
-P000781,Biotech Research Engine,Active,US,Sarah Johnson,2022-05-15,2042-05-15
-P000782,Medical Imaging Algorithm,Active,US,Emily Brown,2024-08-05,2044-08-05
-P000783,Clinical Data Framework,Active,JP,John Smith,2023-12-04,2043-12-04
-P000784,Smart Manufacturing Process,Active,JP,Michael Chen,2023-04-26,2043-04-26
-P000785,Healthcare Analytics Platform,Expired,JP,Yuki Tanaka,2024-04-28,2044-04-28
-P000786,Smart Manufacturing Process,Expired,JP,John Smith,2023-10-05,2043-10-05
-P000787,Medical Imaging Algorithm,Expired,JP,Michael Chen,2023-10-22,2043-10-22
-P000788,Smart Manufacturing Process,Expired,US,Sarah Johnson,2023-01-15,2043-01-15
-P000789,Biotech Research Engine,Expired,JP,David Wilson,2020-02-28,2040-02-28
-P000790,Clinical Data Framework,Expired,US,Kenji Sato,2022-03-10,2042-03-10
-P000791,Biotech Research Engine,Active,JP,Yuki Tanaka,2018-04-27,2038-04-27
-P000792,AI Drug Discovery Platform,Expired,US,Michael Chen,2022-10-03,2042-10-03
-P000793,Smart Manufacturing Process,Active,US,Emily Brown,2019-06-05,2039-06-05
-P000794,Medical Imaging Algorithm,Active,JP,John Smith,2021-01-14,2041-01-14
-P000795,Biotech Research Engine,Expired,US,John Smith,2022-11-03,2042-11-03
-P000796,AI Drug Discovery Platform,Expired,US,David Wilson,2019-06-26,2039-06-26
-P000797,Healthcare Analytics Platform,Expired,US,Kenji Sato,2024-11-15,2044-11-15
-P000798,Smart Manufacturing Process,Expired,US,Emily Brown,2018-11-15,2038-11-15
-P000799,Healthcare Analytics Platform,Active,US,Kenji Sato,2019-11-19,2039-11-19
-P000800,AI Drug Discovery Platform,Expired,US,Emily Brown,2022-08-21,2042-08-21
-P000801,Gene Analysis System,Expired,US,David Wilson,2023-03-06,2043-03-06
-P000802,Healthcare Analytics Platform,Expired,US,John Smith,2020-08-17,2040-08-17
-P000803,Gene Analysis System,Active,JP,Kenji Sato,2019-05-31,2039-05-31
-P000804,Medical Imaging Algorithm,Active,US,David Wilson,2019-05-27,2039-05-27
-P000805,Healthcare Analytics Platform,Active,JP,Michael Chen,2022-02-18,2042-02-18
-P000806,Smart Manufacturing Process,Expired,JP,John Smith,2024-03-07,2044-03-07
-P000807,Smart Manufacturing Process,Active,JP,David Wilson,2018-05-14,2038-05-14
-P000808,Biotech Research Engine,Active,JP,Emily Brown,2018-09-30,2038-09-30
-P000809,AI Drug Discovery Platform,Expired,US,John Smith,2022-02-14,2042-02-14
-P000810,Biotech Research Engine,Expired,JP,Sarah Johnson,2022-08-25,2042-08-25
-P000811,Healthcare Analytics Platform,Expired,JP,Emily Brown,2022-06-24,2042-06-24
-P000812,Medical Imaging Algorithm,Active,JP,Kenji Sato,2024-04-19,2044-04-19
-P000813,Smart Manufacturing Process,Expired,US,Emily Brown,2022-09-23,2042-09-23
-P000814,Clinical Data Framework,Expired,JP,Sarah Johnson,2019-01-17,2039-01-17
-P000815,AI Drug Discovery Platform,Active,JP,Kenji Sato,2021-08-12,2041-08-12
-P000816,Smart Manufacturing Process,Active,JP,Kenji Sato,2019-04-24,2039-04-24
-P000817,Gene Analysis System,Expired,JP,Yuki Tanaka,2018-06-15,2038-06-15
-P000818,Smart Manufacturing Process,Expired,JP,John Smith,2020-02-04,2040-02-04
-P000819,Biotech Research Engine,Active,JP,Emily Brown,2018-11-01,2038-11-01
-P000820,Healthcare Analytics Platform,Expired,US,Michael Chen,2020-10-28,2040-10-28
-P000821,Healthcare Analytics Platform,Active,US,Sarah Johnson,2019-01-09,2039-01-09
-P000822,Clinical Data Framework,Expired,JP,Kenji Sato,2018-07-06,2038-07-06
-P000823,Biotech Research Engine,Active,JP,David Wilson,2019-04-04,2039-04-04
-P000824,AI Drug Discovery Platform,Active,US,Yuki Tanaka,2018-03-19,2038-03-19
-P000825,Smart Manufacturing Process,Active,US,Kenji Sato,2021-06-14,2041-06-14
-P000826,Biotech Research Engine,Expired,JP,Michael Chen,2022-09-27,2042-09-27
-P000827,Biotech Research Engine,Active,JP,Kenji Sato,2021-09-23,2041-09-23
-P000828,AI Drug Discovery Platform,Active,US,Emily Brown,2022-11-08,2042-11-08
-P000829,Biotech Research Engine,Expired,JP,Sarah Johnson,2018-12-28,2038-12-28
-P000830,Gene Analysis System,Active,US,David Wilson,2024-03-27,2044-03-27
-P000831,Medical Imaging Algorithm,Expired,US,Kenji Sato,2018-01-30,2038-01-30
-P000832,Medical Imaging Algorithm,Active,JP,Sarah Johnson,2020-01-11,2040-01-11
-P000833,Medical Imaging Algorithm,Expired,US,Kenji Sato,2018-08-01,2038-08-01
-P000834,Gene Analysis System,Active,US,Michael Chen,2024-01-07,2044-01-07
-P000835,Smart Manufacturing Process,Active,US,Emily Brown,2023-12-12,2043-12-12
-P000836,Biotech Research Engine,Expired,US,Sarah Johnson,2021-07-26,2041-07-26
-P000837,Medical Imaging Algorithm,Active,US,Kenji Sato,2018-10-03,2038-10-03
-P000838,Smart Manufacturing Process,Active,JP,Yuki Tanaka,2020-10-10,2040-10-10
-P000839,Clinical Data Framework,Active,JP,Yuki Tanaka,2019-08-07,2039-08-07
-P000840,Gene Analysis System,Expired,JP,Michael Chen,2021-01-15,2041-01-15
-P000841,Biotech Research Engine,Expired,JP,Yuki Tanaka,2020-01-23,2040-01-23
-P000842,Gene Analysis System,Expired,JP,John Smith,2024-02-28,2044-02-28
-P000843,Biotech Research Engine,Active,JP,David Wilson,2023-01-23,2043-01-23
-P000844,Biotech Research Engine,Active,JP,Kenji Sato,2019-09-18,2039-09-18
-P000845,Gene Analysis System,Active,US,John Smith,2018-07-04,2038-07-04
-P000846,AI Drug Discovery Platform,Expired,US,David Wilson,2019-02-27,2039-02-27
-P000847,Smart Manufacturing Process,Expired,US,David Wilson,2020-11-11,2040-11-11
-P000848,Medical Imaging Algorithm,Active,JP,David Wilson,2020-11-22,2040-11-22
-P000849,Healthcare Analytics Platform,Expired,JP,Michael Chen,2018-10-05,2038-10-05
-P000850,Gene Analysis System,Expired,JP,Yuki Tanaka,2022-03-09,2042-03-09
-P000851,Smart Manufacturing Process,Expired,JP,Michael Chen,2019-09-15,2039-09-15
-P000852,Clinical Data Framework,Active,US,Emily Brown,2021-04-21,2041-04-21
-P000853,Biotech Research Engine,Expired,US,Kenji Sato,2023-11-20,2043-11-20
-P000854,Smart Manufacturing Process,Expired,JP,Yuki Tanaka,2021-10-09,2041-10-09
-P000855,Clinical Data Framework,Expired,US,Kenji Sato,2022-02-14,2042-02-14
-P000856,AI Drug Discovery Platform,Active,JP,Sarah Johnson,2024-11-07,2044-11-07
-P000857,Healthcare Analytics Platform,Expired,US,Yuki Tanaka,2022-08-13,2042-08-13
-P000858,Gene Analysis System,Active,JP,Sarah Johnson,2020-02-19,2040-02-19
-P000859,Gene Analysis System,Active,JP,Sarah Johnson,2019-04-08,2039-04-08
-P000860,AI Drug Discovery Platform,Active,JP,Emily Brown,2023-09-04,2043-09-04
-P000861,Medical Imaging Algorithm,Active,US,Emily Brown,2018-03-08,2038-03-08
-P000862,Biotech Research Engine,Expired,JP,John Smith,2018-05-25,2038-05-25
-P000863,AI Drug Discovery Platform,Expired,JP,John Smith,2022-02-20,2042-02-20
-P000864,Biotech Research Engine,Active,US,Kenji Sato,2020-08-02,2040-08-02
-P000865,Gene Analysis System,Active,US,Sarah Johnson,2023-02-14,2043-02-14
-P000866,Gene Analysis System,Expired,JP,Michael Chen,2021-11-18,2041-11-18
-P000867,Biotech Research Engine,Expired,US,Michael Chen,2020-11-03,2040-11-03
-P000868,Healthcare Analytics Platform,Active,JP,Kenji Sato,2022-02-15,2042-02-15
-P000869,AI Drug Discovery Platform,Expired,US,John Smith,2024-10-28,2044-10-28
-P000870,Smart Manufacturing Process,Expired,JP,Michael Chen,2023-01-10,2043-01-10
-P000871,Gene Analysis System,Expired,US,Emily Brown,2019-06-14,2039-06-14
-P000872,Healthcare Analytics Platform,Active,JP,John Smith,2022-09-05,2042-09-05
-P000873,Gene Analysis System,Active,US,Emily Brown,2021-01-26,2041-01-26
-P000874,Clinical Data Framework,Active,JP,Emily Brown,2018-01-17,2038-01-17
-P000875,Healthcare Analytics Platform,Active,JP,Michael Chen,2018-07-28,2038-07-28
-P000876,AI Drug Discovery Platform,Active,US,David Wilson,2023-01-05,2043-01-05
-P000877,Gene Analysis System,Expired,US,Sarah Johnson,2019-11-11,2039-11-11
-P000878,Smart Manufacturing Process,Active,JP,John Smith,2020-05-14,2040-05-14
-P000879,Biotech Research Engine,Expired,JP,Yuki Tanaka,2021-10-19,2041-10-19
-P000880,AI Drug Discovery Platform,Active,US,Kenji Sato,2019-06-19,2039-06-19
-P000881,Medical Imaging Algorithm,Expired,US,Kenji Sato,2023-07-09,2043-07-09
-P000882,Gene Analysis System,Expired,JP,Emily Brown,2020-01-09,2040-01-09
-P000883,Smart Manufacturing Process,Active,US,Yuki Tanaka,2023-03-07,2043-03-07
-P000884,Smart Manufacturing Process,Active,JP,Sarah Johnson,2020-05-23,2040-05-23
-P000885,Healthcare Analytics Platform,Active,JP,Kenji Sato,2022-01-14,2042-01-14
-P000886,Clinical Data Framework,Expired,US,Emily Brown,2023-03-24,2043-03-24
-P000887,AI Drug Discovery Platform,Active,JP,Sarah Johnson,2024-01-26,2044-01-26
-P000888,Gene Analysis System,Expired,US,David Wilson,2021-03-14,2041-03-14
-P000889,AI Drug Discovery Platform,Expired,US,Kenji Sato,2023-07-20,2043-07-20
-P000890,Clinical Data Framework,Active,JP,Sarah Johnson,2020-10-23,2040-10-23
-P000891,Healthcare Analytics Platform,Expired,US,Yuki Tanaka,2019-03-21,2039-03-21
-P000892,Gene Analysis System,Active,US,Kenji Sato,2020-06-06,2040-06-06
-P000893,Biotech Research Engine,Expired,US,Sarah Johnson,2020-06-26,2040-06-26
-P000894,AI Drug Discovery Platform,Active,JP,Michael Chen,2022-07-01,2042-07-01
-P000895,Healthcare Analytics Platform,Active,US,David Wilson,2023-12-20,2043-12-20
-P000896,Healthcare Analytics Platform,Active,US,Michael Chen,2021-12-31,2041-12-31
-P000897,Medical Imaging Algorithm,Active,JP,John Smith,2021-01-24,2041-01-24
-P000898,Smart Manufacturing Process,Expired,US,Sarah Johnson,2018-10-24,2038-10-24
-P000899,Gene Analysis System,Expired,JP,David Wilson,2021-12-01,2041-12-01
-P000900,Clinical Data Framework,Active,JP,Yuki Tanaka,2021-05-03,2041-05-03
-P000901,AI Drug Discovery Platform,Expired,JP,David Wilson,2018-03-23,2038-03-23
-P000902,AI Drug Discovery Platform,Active,JP,Michael Chen,2022-10-07,2042-10-07
-P000903,Biotech Research Engine,Expired,JP,Sarah Johnson,2018-06-23,2038-06-23
-P000904,Medical Imaging Algorithm,Active,US,Kenji Sato,2019-05-09,2039-05-09
-P000905,AI Drug Discovery Platform,Expired,JP,David Wilson,2019-11-10,2039-11-10
-P000906,Healthcare Analytics Platform,Active,JP,Yuki Tanaka,2018-06-24,2038-06-24
-P000907,Medical Imaging Algorithm,Expired,US,Sarah Johnson,2022-03-22,2042-03-22
-P000908,Clinical Data Framework,Expired,JP,John Smith,2024-10-28,2044-10-28
-P000909,Clinical Data Framework,Active,JP,Kenji Sato,2022-03-14,2042-03-14
-P000910,Clinical Data Framework,Active,JP,Emily Brown,2021-04-06,2041-04-06
-P000911,Clinical Data Framework,Active,JP,Kenji Sato,2019-07-19,2039-07-19
-P000912,Healthcare Analytics Platform,Active,US,Michael Chen,2019-12-08,2039-12-08
-P000913,AI Drug Discovery Platform,Active,US,Yuki Tanaka,2018-05-17,2038-05-17
-P000914,Gene Analysis System,Active,US,Kenji Sato,2023-06-10,2043-06-10
-P000915,Healthcare Analytics Platform,Expired,US,David Wilson,2020-08-26,2040-08-26
-P000916,Healthcare Analytics Platform,Active,US,David Wilson,2020-04-15,2040-04-15
-P000917,Gene Analysis System,Active,US,Sarah Johnson,2018-10-15,2038-10-15
-P000918,Biotech Research Engine,Expired,JP,David Wilson,2024-04-06,2044-04-06
-P000919,Healthcare Analytics Platform,Expired,JP,Michael Chen,2018-11-01,2038-11-01
-P000920,Biotech Research Engine,Active,US,Sarah Johnson,2023-02-04,2043-02-04
-P000921,Gene Analysis System,Expired,US,Yuki Tanaka,2019-07-21,2039-07-21
-P000922,Smart Manufacturing Process,Active,US,Kenji Sato,2020-05-27,2040-05-27
-P000923,Medical Imaging Algorithm,Expired,JP,Sarah Johnson,2023-03-14,2043-03-14
-P000924,Smart Manufacturing Process,Expired,JP,Sarah Johnson,2020-12-26,2040-12-26
-P000925,Clinical Data Framework,Expired,US,Emily Brown,2018-04-25,2038-04-25
-P000926,Healthcare Analytics Platform,Expired,JP,John Smith,2021-11-11,2041-11-11
-P000927,Clinical Data Framework,Expired,US,Kenji Sato,2020-09-20,2040-09-20
-P000928,AI Drug Discovery Platform,Active,JP,Emily Brown,2023-10-30,2043-10-30
-P000929,Smart Manufacturing Process,Active,JP,Emily Brown,2021-03-18,2041-03-18
-P000930,Biotech Research Engine,Active,US,Kenji Sato,2020-03-19,2040-03-19
-P000931,Gene Analysis System,Expired,JP,Kenji Sato,2023-01-01,2043-01-01
-P000932,Medical Imaging Algorithm,Active,JP,Yuki Tanaka,2020-09-21,2040-09-21
-P000933,Medical Imaging Algorithm,Active,JP,Michael Chen,2024-10-29,2044-10-29
-P000934,Smart Manufacturing Process,Expired,JP,John Smith,2020-03-21,2040-03-21
-P000935,Clinical Data Framework,Expired,US,Kenji Sato,2020-08-10,2040-08-10
-P000936,Gene Analysis System,Expired,US,Kenji Sato,2023-02-13,2043-02-13
-P000937,AI Drug Discovery Platform,Active,US,John Smith,2024-04-15,2044-04-15
-P000938,Medical Imaging Algorithm,Expired,JP,David Wilson,2022-02-19,2042-02-19
-P000939,Gene Analysis System,Active,JP,John Smith,2024-01-22,2044-01-22
-P000940,Healthcare Analytics Platform,Expired,JP,John Smith,2024-06-16,2044-06-16
-P000941,Gene Analysis System,Active,JP,Kenji Sato,2019-04-28,2039-04-28
-P000942,Gene Analysis System,Active,US,Michael Chen,2023-01-31,2043-01-31
-P000943,Biotech Research Engine,Expired,JP,Yuki Tanaka,2020-11-12,2040-11-12
-P000944,Medical Imaging Algorithm,Active,US,David Wilson,2024-12-11,2044-12-11
-P000945,Biotech Research Engine,Expired,JP,David Wilson,2021-08-18,2041-08-18
-P000946,Healthcare Analytics Platform,Expired,JP,Yuki Tanaka,2021-04-07,2041-04-07
-P000947,Healthcare Analytics Platform,Active,JP,Emily Brown,2019-10-22,2039-10-22
-P000948,Medical Imaging Algorithm,Active,JP,Yuki Tanaka,2019-07-08,2039-07-08
-P000949,Smart Manufacturing Process,Expired,US,Kenji Sato,2023-08-29,2043-08-29
-P000950,Clinical Data Framework,Expired,JP,Emily Brown,2023-02-12,2043-02-12
-P000951,Smart Manufacturing Process,Active,US,Emily Brown,2021-01-12,2041-01-12
-P000952,Clinical Data Framework,Expired,JP,Kenji Sato,2024-03-23,2044-03-23
-P000953,Biotech Research Engine,Expired,US,Sarah Johnson,2020-11-12,2040-11-12
-P000954,Healthcare Analytics Platform,Active,JP,Emily Brown,2018-07-05,2038-07-05
-P000955,Biotech Research Engine,Active,US,Kenji Sato,2024-07-24,2044-07-24
-P000956,Biotech Research Engine,Active,JP,David Wilson,2019-09-09,2039-09-09
-P000957,Healthcare Analytics Platform,Expired,JP,Kenji Sato,2021-03-25,2041-03-25
-P000958,Smart Manufacturing Process,Expired,JP,Yuki Tanaka,2018-10-09,2038-10-09
-P000959,Healthcare Analytics Platform,Active,JP,Emily Brown,2019-03-09,2039-03-09
-P000960,AI Drug Discovery Platform,Active,US,Kenji Sato,2024-07-06,2044-07-06
-P000961,Smart Manufacturing Process,Active,JP,John Smith,2023-05-03,2043-05-03
-P000962,Medical Imaging Algorithm,Expired,US,Emily Brown,2024-06-22,2044-06-22
-P000963,Biotech Research Engine,Expired,US,Yuki Tanaka,2019-09-20,2039-09-20
-P000964,Gene Analysis System,Expired,JP,Kenji Sato,2021-04-13,2041-04-13
-P000965,Gene Analysis System,Expired,JP,John Smith,2022-09-09,2042-09-09
-P000966,Biotech Research Engine,Active,JP,David Wilson,2020-05-24,2040-05-24
-P000967,Biotech Research Engine,Active,US,Sarah Johnson,2023-11-13,2043-11-13
-P000968,Medical Imaging Algorithm,Expired,JP,Kenji Sato,2018-11-09,2038-11-09
-P000969,Biotech Research Engine,Expired,JP,Michael Chen,2024-03-29,2044-03-29
-P000970,Gene Analysis System,Active,US,Emily Brown,2023-11-19,2043-11-19
-P000971,AI Drug Discovery Platform,Active,US,Sarah Johnson,2018-11-25,2038-11-25
-P000972,Healthcare Analytics Platform,Expired,US,Michael Chen,2020-09-26,2040-09-26
-P000973,Medical Imaging Algorithm,Active,US,David Wilson,2023-01-22,2043-01-22
-P000974,Biotech Research Engine,Expired,JP,Sarah Johnson,2019-05-09,2039-05-09
-P000975,AI Drug Discovery Platform,Active,JP,John Smith,2023-01-25,2043-01-25
-P000976,Smart Manufacturing Process,Expired,JP,Emily Brown,2018-08-26,2038-08-26
-P000977,Biotech Research Engine,Active,US,Michael Chen,2022-06-07,2042-06-07
-P000978,Biotech Research Engine,Active,JP,Yuki Tanaka,2020-12-27,2040-12-27
-P000979,Gene Analysis System,Active,US,Michael Chen,2021-12-30,2041-12-30
-P000980,Biotech Research Engine,Expired,US,John Smith,2024-11-03,2044-11-03
-P000981,Healthcare Analytics Platform,Active,US,Sarah Johnson,2023-08-07,2043-08-07
-P000982,Healthcare Analytics Platform,Active,JP,Emily Brown,2024-06-04,2044-06-04
-P000983,Biotech Research Engine,Expired,JP,Kenji Sato,2024-09-28,2044-09-28
-P000984,Gene Analysis System,Active,US,Emily Brown,2019-11-11,2039-11-11
-P000985,Biotech Research Engine,Expired,US,Emily Brown,2021-09-23,2041-09-23
-P000986,Gene Analysis System,Expired,JP,Kenji Sato,2023-02-11,2043-02-11
-P000987,Healthcare Analytics Platform,Expired,US,John Smith,2020-10-20,2040-10-20
-P000988,Smart Manufacturing Process,Active,US,Sarah Johnson,2020-05-15,2040-05-15
-P000989,Biotech Research Engine,Expired,US,John Smith,2018-03-11,2038-03-11
-P000990,Healthcare Analytics Platform,Active,US,Kenji Sato,2019-11-17,2039-11-17
-P000991,AI Drug Discovery Platform,Active,US,Yuki Tanaka,2019-12-06,2039-12-06
-P000992,Gene Analysis System,Expired,US,Emily Brown,2020-04-09,2040-04-09
-P000993,Biotech Research Engine,Active,US,Yuki Tanaka,2023-04-13,2043-04-13
-P000994,Clinical Data Framework,Active,JP,John Smith,2022-08-23,2042-08-23
-P000995,Gene Analysis System,Expired,US,Emily Brown,2020-11-15,2040-11-15
-P000996,Medical Imaging Algorithm,Active,US,Yuki Tanaka,2020-05-24,2040-05-24
-P000997,Medical Imaging Algorithm,Expired,US,Michael Chen,2018-12-21,2038-12-21
-P000998,AI Drug Discovery Platform,Active,US,David Wilson,2022-09-26,2042-09-26
-P000999,Healthcare Analytics Platform,Active,JP,Yuki Tanaka,2021-03-21,2041-03-21
-P001000,Smart Manufacturing Process,Expired,JP,Kenji Sato,2019-10-05,2039-10-05
+P000001,AI Drug Discovery Platform,A,JPN,Michael Chen,2019-04-02,2039-04-02
+P000002,AI Drug Discovery Platform,EXP,US,,2024-02-12,2044-02-12
+P000003,Medical Imaging Algorithm,EXP,USA,John Smith,2020-06-14,2040-06-14
+P000004,Smart Manufacturing Process,ACTIVE,US,David Wilson,2024-02-11,2044-02-11
+P000005,Biotech Research Engine,Expired,Japan,Yuki Tanaka,2019-10-16,2039-10-16
+P000006,AI Drug Discovery Platform,Active,US,John Smith,2021-10-10,2041-10-10
+P000007,Healthcare Analytics Platform,Active,US,David Wilson,2020-12-19,2040-12-19
+P000008,Clinical Data Framework,A,USA,Kenji Sato,2018-11-19,2038-11-19
+P000009,AI Drug Discovery Platform,ACTIVE,Japan,John Smith,2018-10-12,2038-10-12
+P000010,Gene Analysis System,Expired,Japan,Michael Chen,2022-04-06,2042-04-06
+P000011,Biotech Research Engine,Active,USA,Emily Brown,2020-12-29,2040-12-29
+P000012,Smart Manufacturing Process,Expired,Japan,Emily Brown,2019-11-01,2039-11-01
+P000013,Healthcare Analytics Platform,Active,JPN,,2021-08-21,2041-08-21
+P000014,Smart Manufacturing Process,A,JP,Michael Chen,2021-07-16,2041-07-16
+P000015,Medical Imaging Algorithm,Expired,US,Emily Brown,2021-07-12,2041-07-12
+P000016,Biotech Research Engine,EXP,USA,Yuki Tanaka,2020-10-07,2040-10-07
+P000017,Smart Manufacturing Process,A,JPN,Michael Chen,2024-07-18,2044-07-18
+P000018,Healthcare Analytics Platform,Active,JPN,Emily Brown,2018-07-12,2038-07-12
+P000019,AI Drug Discovery Platform,Expired,US,David Wilson,2024-09-08,2044-09-08
+P000020,Healthcare Analytics Platform,Active,JP,Emily Brown,2024-03-16,2044-03-16
+P000021,AI Drug Discovery Platform,A,US,Michael Chen,2021-10-25,2041-10-25
+P000022,Clinical Data Framework,ACTIVE,USA,John Smith,2020-12-14,2040-12-14
+P000023,Clinical Data Framework,ACTIVE,JPN,Yuki Tanaka,2023-09-11,2043-09-11
+P000024,AI Drug Discovery Platform,EXP,Japan,,2023-12-13,2043-12-13
+P000025,Healthcare Analytics Platform,A,JPN,John Smith,2022-01-26,2042-01-26
+P000026,AI Drug Discovery Platform,Expired,JP,Kenji Sato,2018-11-19,2038-11-19
+P000027,Clinical Data Framework,ACTIVE,Japan,David Wilson,2023-05-01,2043-05-01
+P000028,Clinical Data Framework,ACTIVE,Japan,Sarah Johnson,2020-05-17,2040-05-17
+P000029,Clinical Data Framework,Expired,JP,Michael Chen,2022-11-30,2042-11-30
+P000030,Clinical Data Framework,ACTIVE,USA,,2024-08-06,2044-08-06
+P000031,Medical Imaging Algorithm,Active,JP,Kenji Sato,2018-08-30,2038-08-30
+P000032,Biotech Research Engine,Expired,JPN,David Wilson,2021-02-14,2041-02-14
+P000033,Clinical Data Framework,Expired,JPN,Kenji Sato,2024-05-27,2044-05-27
+P000034,AI Drug Discovery Platform,Expired,Japan,Sarah Johnson,2019-01-22,2039-01-22
+P000035,Biotech Research Engine,Active,JP,Sarah Johnson,2018-08-10,2038-08-10
+P000036,Medical Imaging Algorithm,ACTIVE,JPN,David Wilson,2019-03-24,2039-03-24
+P000037,Smart Manufacturing Process,ACTIVE,JP,Sarah Johnson,2021-02-14,2041-02-14
+P000038,AI Drug Discovery Platform,EXP,JP,John Smith,2019-02-06,2039-02-06
+P000039,Smart Manufacturing Process,Expired,US,Michael Chen,2019-11-13,2039-11-13
+P000040,Smart Manufacturing Process,Active,US,Yuki Tanaka,2019-11-06,2039-11-06
+P000041,Smart Manufacturing Process,EXP,US,Michael Chen,2021-03-14,2041-03-14
+P000042,Clinical Data Framework,EXP,JP,Emily Brown,2018-08-28,2038-08-28
+P000043,Clinical Data Framework,EXP,JPN,John Smith,2023-05-07,2043-05-07
+P000044,AI Drug Discovery Platform,EXP,JP,Emily Brown,2020-02-01,2040-02-01
+P000045,Medical Imaging Algorithm,EXP,USA,John Smith,2024-05-22,2044-05-22
+P000046,Clinical Data Framework,EXP,Japan,Yuki Tanaka,2024-07-18,2044-07-18
+P000047,Gene Analysis System,Expired,JPN,Emily Brown,2020-09-04,2040-09-04
+P000048,AI Drug Discovery Platform,Expired,USA,David Wilson,2018-10-25,2038-10-25
+P000049,Clinical Data Framework,A,JPN,Yuki Tanaka,2020-05-23,2040-05-23
+P000050,Gene Analysis System,ACTIVE,US,Kenji Sato,2022-02-22,2042-02-22
+P000051,AI Drug Discovery Platform,EXP,Japan,Emily Brown,2023-12-07,2043-12-07
+P000052,AI Drug Discovery Platform,Active,USA,Michael Chen,2020-12-19,2040-12-19
+P000053,Medical Imaging Algorithm,A,USA,Sarah Johnson,2021-11-05,2041-11-05
+P000054,AI Drug Discovery Platform,Expired,Japan,,2018-07-28,2038-07-28
+P000055,Biotech Research Engine,A,JPN,Emily Brown,2019-06-20,2039-06-20
+P000056,AI Drug Discovery Platform,Active,JP,Emily Brown,2024-04-16,2044-04-16
+P000057,Clinical Data Framework,EXP,JPN,Sarah Johnson,2022-02-21,2042-02-21
+P000058,Gene Analysis System,ACTIVE,JPN,Emily Brown,2018-06-13,2038-06-13
+P000059,Clinical Data Framework,ACTIVE,JPN,Kenji Sato,2022-07-23,2042-07-23
+P000060,Smart Manufacturing Process,Active,JPN,Emily Brown,2019-12-27,2039-12-27
+P000061,Healthcare Analytics Platform,ACTIVE,Japan,Michael Chen,2022-08-14,2042-08-14
+P000062,Healthcare Analytics Platform,Expired,JPN,Michael Chen,2018-06-08,2038-06-08
+P000063,Healthcare Analytics Platform,ACTIVE,JPN,John Smith,2021-06-04,2041-06-04
+P000064,Healthcare Analytics Platform,Active,Japan,Yuki Tanaka,2021-02-15,2041-02-15
+P000065,Gene Analysis System,Active,JP,Yuki Tanaka,2024-01-06,2044-01-06
+P000066,AI Drug Discovery Platform,Active,USA,Sarah Johnson,2020-12-23,2040-12-23
+P000067,Clinical Data Framework,EXP,JP,Sarah Johnson,2022-11-23,2042-11-23
+P000068,Biotech Research Engine,Expired,JP,David Wilson,2018-07-01,2038-07-01
+P000069,Gene Analysis System,Expired,JP,Emily Brown,2020-03-18,2040-03-18
+P000070,Biotech Research Engine,A,USA,Yuki Tanaka,2019-05-26,2039-05-26
+P000071,Clinical Data Framework,ACTIVE,JPN,Sarah Johnson,2021-04-26,2041-04-26
+P000072,Clinical Data Framework,EXP,Japan,Unknown,2019-12-14,2039-12-14
+P000073,Medical Imaging Algorithm,Expired,USA,David Wilson,2021-03-21,2041-03-21
+P000074,Biotech Research Engine,ACTIVE,USA,Sarah Johnson,2022-12-17,2042-12-17
+P000075,Biotech Research Engine,Active,Japan,David Wilson,2019-11-27,2039-11-27
+P000076,Healthcare Analytics Platform,ACTIVE,Japan,Michael Chen,2019-01-18,2039-01-18
+P000077,Medical Imaging Algorithm,Expired,USA,Kenji Sato,2018-07-09,2038-07-09
+P000078,Medical Imaging Algorithm,Expired,US,Sarah Johnson,2024-06-15,2044-06-15
+P000079,Healthcare Analytics Platform,Active,US,Michael Chen,2018-01-23,2038-01-23
+P000080,Smart Manufacturing Process,Active,USA,Michael Chen,2023-10-23,2043-10-23
+P000081,Healthcare Analytics Platform,Expired,USA,David Wilson,2019-07-01,2039-07-01
+P000082,Clinical Data Framework,EXP,US,Kenji Sato,2022-12-18,2042-12-18
+P000083,Biotech Research Engine,Expired,US,Yuki Tanaka,2019-10-14,2039-10-14
+P000084,Healthcare Analytics Platform,EXP,US,Emily Brown,2021-02-09,2041-02-09
+P000085,Medical Imaging Algorithm,A,Japan,Yuki Tanaka,2021-03-16,2041-03-16
+P000086,Medical Imaging Algorithm,Expired,JPN,Emily Brown,2019-09-10,2039-09-10
+P000087,Clinical Data Framework,Expired,US,John Smith,2021-09-17,2041-09-17
+P000088,Biotech Research Engine,Active,USA,Sarah Johnson,2024-07-20,2044-07-20
+P000089,Healthcare Analytics Platform,Expired,US,David Wilson,2021-05-08,2041-05-08
+P000090,Medical Imaging Algorithm,Expired,JPN,Yuki Tanaka,2024-10-06,2044-10-06
+P000091,Biotech Research Engine,Expired,JPN,Kenji Sato,2021-10-08,2041-10-08
+P000092,Clinical Data Framework,Active,US,David Wilson,2024-12-23,2044-12-23
+P000093,Medical Imaging Algorithm,Expired,JPN,John Smith,2022-10-22,2042-10-22
+P000094,Gene Analysis System,A,US,Yuki Tanaka,2023-02-06,2043-02-06
+P000095,Healthcare Analytics Platform,Active,US,John Smith,2020-10-30,2040-10-30
+P000096,Medical Imaging Algorithm,Active,JP,,2021-12-04,2041-12-04
+P000097,Medical Imaging Algorithm,Active,USA,Michael Chen,2020-10-09,2040-10-09
+P000098,Clinical Data Framework,ACTIVE,US,Emily Brown,2019-04-14,2039-04-14
+P000099,Clinical Data Framework,Active,JPN,Yuki Tanaka,2024-10-17,2044-10-17
+P000100,Clinical Data Framework,Expired,US,Emily Brown,2021-07-01,2041-07-01
+P000101,AI Drug Discovery Platform,A,USA,Kenji Sato,2020-09-21,2040-09-21
+P000102,Gene Analysis System,EXP,US,Emily Brown,2018-06-18,2038-06-18
+P000103,AI Drug Discovery Platform,Expired,US,John Smith,2021-10-29,2041-10-29
+P000104,Biotech Research Engine,ACTIVE,US,Michael Chen,2023-02-27,2043-02-27
+P000105,Clinical Data Framework,EXP,US,Sarah Johnson,2021-01-11,2041-01-11
+P000106,Gene Analysis System,ACTIVE,JP,Yuki Tanaka,2021-01-04,2041-01-04
+P000107,Clinical Data Framework,EXP,US,,2023-03-19,2043-03-19
+P000108,Medical Imaging Algorithm,Expired,JPN,Yuki Tanaka,2021-08-24,2041-08-24
+P000109,Biotech Research Engine,A,USA,John Smith,2024-09-07,2044-09-07
+P000110,Biotech Research Engine,Expired,US,David Wilson,2020-09-15,2040-09-15
+P000111,Smart Manufacturing Process,Active,JP,Yuki Tanaka,2023-07-04,2043-07-04
+P000112,Biotech Research Engine,EXP,Japan,Sarah Johnson,2021-06-08,2041-06-08
+P000113,Gene Analysis System,A,US,Yuki Tanaka,2024-03-04,2044-03-04
+P000114,Gene Analysis System,Active,USA,Kenji Sato,2020-02-28,2040-02-28
+P000115,Gene Analysis System,EXP,USA,David Wilson,2023-06-07,2043-06-07
+P000116,Gene Analysis System,ACTIVE,Japan,Michael Chen,2020-03-06,2040-03-06
+P000117,Gene Analysis System,Active,JP,David Wilson,2019-06-03,2039-06-03
+P000118,AI Drug Discovery Platform,Active,USA,Yuki Tanaka,2023-07-04,2043-07-04
+P000119,AI Drug Discovery Platform,A,US,John Smith,2020-01-26,2040-01-26
+P000120,Clinical Data Framework,Active,JPN,Michael Chen,2018-10-31,2038-10-31
+P000121,Medical Imaging Algorithm,Active,USA,Kenji Sato,2018-12-15,2038-12-15
+P000122,Medical Imaging Algorithm,EXP,US,Sarah Johnson,2024-12-08,2044-12-08
+P000123,Smart Manufacturing Process,A,USA,David Wilson,2024-08-07,2044-08-07
+P000124,Healthcare Analytics Platform,ACTIVE,JPN,Yuki Tanaka,2019-02-11,2039-02-11
+P000125,Clinical Data Framework,Active,JPN,John Smith,2019-12-13,2039-12-13
+P000126,Gene Analysis System,Active,JPN,Yuki Tanaka,2023-04-09,2043-04-09
+P000127,AI Drug Discovery Platform,ACTIVE,Japan,Kenji Sato,2023-02-03,2043-02-03
+P000128,Smart Manufacturing Process,Active,USA,Michael Chen,2020-03-21,2040-03-21
+P000129,AI Drug Discovery Platform,Active,JPN,Kenji Sato,2019-08-06,2039-08-06
+P000130,Gene Analysis System,Expired,JP,Sarah Johnson,2024-05-20,2044-05-20
+P000131,Clinical Data Framework,EXP,US,Sarah Johnson,2021-01-20,2041-01-20
+P000132,Biotech Research Engine,A,USA,,2022-11-05,2042-11-05
+P000133,Biotech Research Engine,EXP,USA,John Smith,2020-07-26,2040-07-26
+P000134,Clinical Data Framework,Active,JPN,Sarah Johnson,2021-01-08,2041-01-08
+P000135,Medical Imaging Algorithm,EXP,US,Emily Brown,2021-02-13,2041-02-13
+P000136,Gene Analysis System,Expired,Japan,Yuki Tanaka,2023-04-10,2043-04-10
+P000137,Smart Manufacturing Process,Expired,Japan,Emily Brown,2021-09-12,2041-09-12
+P000138,AI Drug Discovery Platform,Expired,JP,Yuki Tanaka,2024-03-03,2044-03-03
+P000139,Healthcare Analytics Platform,EXP,JP,Emily Brown,2022-07-14,2042-07-14
+P000140,Medical Imaging Algorithm,EXP,Japan,David Wilson,2018-08-11,2038-08-11
+P000141,Medical Imaging Algorithm,A,USA,Michael Chen,2018-07-31,2038-07-31
+P000142,AI Drug Discovery Platform,Active,USA,Kenji Sato,2023-06-09,2043-06-09
+P000143,AI Drug Discovery Platform,EXP,US,John Smith,2024-03-06,2044-03-06
+P000144,Smart Manufacturing Process,Active,JPN,Sarah Johnson,2019-04-10,2039-04-10
+P000145,Smart Manufacturing Process,Expired,US,Michael Chen,2021-01-24,2041-01-24
+P000146,Clinical Data Framework,EXP,JPN,Kenji Sato,2020-02-20,2040-02-20
+P000147,Gene Analysis System,EXP,Japan,,2022-08-27,2042-08-27
+P000148,Healthcare Analytics Platform,EXP,USA,Emily Brown,2021-05-07,2041-05-07
+P000149,Smart Manufacturing Process,A,Japan,David Wilson,2024-01-16,2044-01-16
+P000150,Healthcare Analytics Platform,ACTIVE,JPN,David Wilson,2021-08-11,2041-08-11
+P000151,AI Drug Discovery Platform,A,US,Emily Brown,2022-08-10,2042-08-10
+P000152,Smart Manufacturing Process,Active,JPN,David Wilson,2019-09-16,2039-09-16
+P000153,Healthcare Analytics Platform,Expired,JP,Unknown,2019-02-16,2039-02-16
+P000154,Smart Manufacturing Process,ACTIVE,JP,Sarah Johnson,2019-08-14,2039-08-14
+P000155,Biotech Research Engine,Expired,JP,Kenji Sato,2024-12-27,2044-12-27
+P000156,Smart Manufacturing Process,A,US,Kenji Sato,2023-12-26,2043-12-26
+P000157,Biotech Research Engine,A,JPN,Emily Brown,2020-08-19,2040-08-19
+P000158,Smart Manufacturing Process,ACTIVE,Japan,John Smith,2019-02-16,2039-02-16
+P000159,Gene Analysis System,A,US,Michael Chen,2021-04-16,2041-04-16
+P000160,Medical Imaging Algorithm,ACTIVE,JP,David Wilson,2020-01-08,2040-01-08
+P000161,Smart Manufacturing Process,EXP,JPN,Michael Chen,2020-09-13,2040-09-13
+P000162,Biotech Research Engine,Active,US,Yuki Tanaka,2020-11-11,2040-11-11
+P000163,Gene Analysis System,EXP,Japan,Emily Brown,2022-12-15,2042-12-15
+P000164,Healthcare Analytics Platform,A,JPN,Sarah Johnson,2023-02-15,2043-02-15
+P000165,Clinical Data Framework,A,USA,Yuki Tanaka,2022-04-12,2042-04-12
+P000166,Gene Analysis System,Active,USA,Kenji Sato,2022-06-10,2042-06-10
+P000167,Clinical Data Framework,Expired,Japan,Kenji Sato,2018-07-20,2038-07-20
+P000168,Medical Imaging Algorithm,ACTIVE,USA,Yuki Tanaka,2021-12-14,2041-12-14
+P000169,Biotech Research Engine,Active,JP,Yuki Tanaka,2019-07-15,2039-07-15
+P000170,Biotech Research Engine,ACTIVE,JP,Yuki Tanaka,2022-02-03,2042-02-03
+P000171,Medical Imaging Algorithm,EXP,Japan,David Wilson,2020-04-02,2040-04-02
+P000172,Gene Analysis System,Expired,Japan,Emily Brown,2019-11-05,2039-11-05
+P000173,AI Drug Discovery Platform,ACTIVE,JPN,Kenji Sato,2023-04-03,2043-04-03
+P000174,Healthcare Analytics Platform,EXP,Japan,Unknown,2022-06-16,2042-06-16
+P000175,AI Drug Discovery Platform,Expired,Japan,Emily Brown,2024-01-07,2044-01-07
+P000176,Healthcare Analytics Platform,A,JP,Emily Brown,2022-04-10,2042-04-10
+P000177,Gene Analysis System,EXP,JPN,Emily Brown,2024-04-18,2044-04-18
+P000178,Biotech Research Engine,Expired,JP,Michael Chen,2021-05-22,2041-05-22
+P000179,AI Drug Discovery Platform,Active,JPN,David Wilson,2023-07-11,2043-07-11
+P000180,Smart Manufacturing Process,EXP,JPN,Sarah Johnson,2024-01-22,2044-01-22
+P000181,Smart Manufacturing Process,A,JP,Emily Brown,2024-11-26,2044-11-26
+P000182,Healthcare Analytics Platform,A,JP,Emily Brown,2020-08-25,2040-08-25
+P000183,AI Drug Discovery Platform,Expired,Japan,Michael Chen,2022-01-09,2042-01-09
+P000184,AI Drug Discovery Platform,ACTIVE,USA,John Smith,2023-02-06,2043-02-06
+P000185,Healthcare Analytics Platform,EXP,JPN,John Smith,2019-05-31,2039-05-31
+P000186,Medical Imaging Algorithm,ACTIVE,Japan,Kenji Sato,2024-07-29,2044-07-29
+P000187,Gene Analysis System,ACTIVE,JPN,David Wilson,2018-01-12,2038-01-12
+P000188,Medical Imaging Algorithm,Active,Japan,Kenji Sato,2018-04-16,2038-04-16
+P000189,Medical Imaging Algorithm,A,JP,Michael Chen,2018-03-06,2038-03-06
+P000190,Smart Manufacturing Process,Expired,Japan,David Wilson,2018-09-18,2038-09-18
+P000191,Clinical Data Framework,Active,USA,Yuki Tanaka,2020-06-26,2040-06-26
+P000192,Smart Manufacturing Process,Expired,US,Emily Brown,2018-09-07,2038-09-07
+P000193,AI Drug Discovery Platform,Active,Japan,David Wilson,2022-12-22,2042-12-22
+P000194,Clinical Data Framework,A,US,David Wilson,2024-07-25,2044-07-25
+P000195,Smart Manufacturing Process,Active,JP,Kenji Sato,2024-10-15,2044-10-15
+P000196,Biotech Research Engine,ACTIVE,US,Sarah Johnson,2024-03-08,2044-03-08
+P000197,Smart Manufacturing Process,Expired,JP,Yuki Tanaka,2023-02-01,2043-02-01
+P000198,Medical Imaging Algorithm,Expired,JP,John Smith,2022-03-14,2042-03-14
+P000199,Biotech Research Engine,A,JPN,David Wilson,2019-01-31,2039-01-31
+P000200,Gene Analysis System,Active,US,Yuki Tanaka,2024-04-19,2044-04-19
+P000201,Healthcare Analytics Platform,Active,Japan,David Wilson,2022-09-29,2042-09-29
+P000202,Medical Imaging Algorithm,ACTIVE,US,Michael Chen,2023-09-10,2043-09-10
+P000203,Gene Analysis System,Active,Japan,David Wilson,2024-03-28,2044-03-28
+P000204,Healthcare Analytics Platform,EXP,USA,Emily Brown,2024-04-16,2044-04-16
+P000205,AI Drug Discovery Platform,ACTIVE,Japan,Emily Brown,2020-12-31,2040-12-31
+P000206,AI Drug Discovery Platform,ACTIVE,JPN,David Wilson,2021-12-08,2041-12-08
+P000207,AI Drug Discovery Platform,EXP,JPN,Sarah Johnson,2018-05-06,2038-05-06
+P000208,Gene Analysis System,A,USA,David Wilson,2022-02-24,2042-02-24
+P000209,Healthcare Analytics Platform,EXP,JP,Emily Brown,2019-10-07,2039-10-07
+P000210,Smart Manufacturing Process,EXP,US,Sarah Johnson,2022-10-03,2042-10-03
+P000211,Gene Analysis System,Expired,JP,Yuki Tanaka,2019-04-12,2039-04-12
+P000212,Biotech Research Engine,A,JP,Michael Chen,2023-11-29,2043-11-29
+P000213,Medical Imaging Algorithm,A,JPN,Kenji Sato,2018-02-01,2038-02-01
+P000214,AI Drug Discovery Platform,Active,US,Emily Brown,2021-09-05,2041-09-05
+P000215,Biotech Research Engine,ACTIVE,USA,David Wilson,2023-12-22,2043-12-22
+P000216,Smart Manufacturing Process,Active,US,John Smith,2018-10-23,2038-10-23
+P000217,Clinical Data Framework,Expired,USA,Sarah Johnson,2021-07-06,2041-07-06
+P000218,Smart Manufacturing Process,Active,Japan,Michael Chen,2019-04-17,2039-04-17
+P000219,AI Drug Discovery Platform,Expired,JP,Michael Chen,2022-01-22,2042-01-22
+P000220,Smart Manufacturing Process,A,Japan,Michael Chen,2018-11-19,2038-11-19
+P000221,Biotech Research Engine,Active,USA,David Wilson,2023-09-22,2043-09-22
+P000222,Biotech Research Engine,ACTIVE,JPN,John Smith,2021-12-09,2041-12-09
+P000223,Medical Imaging Algorithm,Active,JPN,Kenji Sato,2024-10-03,2044-10-03
+P000224,Healthcare Analytics Platform,EXP,US,Emily Brown,2024-04-28,2044-04-28
+P000225,Healthcare Analytics Platform,A,JPN,Sarah Johnson,2021-08-16,2041-08-16
+P000226,Healthcare Analytics Platform,A,USA,John Smith,2021-05-25,2041-05-25
+P000227,Smart Manufacturing Process,Active,JP,Yuki Tanaka,2023-03-07,2043-03-07
+P000228,Clinical Data Framework,EXP,USA,Sarah Johnson,2019-01-05,2039-01-05
+P000229,Smart Manufacturing Process,EXP,JPN,Yuki Tanaka,2018-06-18,2038-06-18
+P000230,Smart Manufacturing Process,Active,Japan,Emily Brown,2018-09-11,2038-09-11
+P000231,Medical Imaging Algorithm,Expired,US,David Wilson,2018-06-10,2038-06-10
+P000232,Gene Analysis System,Expired,US,Kenji Sato,2022-03-08,2042-03-08
+P000233,AI Drug Discovery Platform,A,JP,David Wilson,2021-10-02,2041-10-02
+P000234,Healthcare Analytics Platform,ACTIVE,Japan,John Smith,2024-10-04,2044-10-04
+P000235,Gene Analysis System,Expired,JPN,David Wilson,2021-12-03,2041-12-03
+P000236,Smart Manufacturing Process,A,JPN,Emily Brown,2024-04-08,2044-04-08
+P000237,AI Drug Discovery Platform,Expired,USA,,2023-11-27,2043-11-27
+P000238,Medical Imaging Algorithm,ACTIVE,Japan,Kenji Sato,2021-06-19,2041-06-19
+P000239,Medical Imaging Algorithm,Active,Japan,Kenji Sato,2019-07-18,2039-07-18
+P000240,Healthcare Analytics Platform,EXP,JP,Emily Brown,2024-01-20,2044-01-20
+P000241,Clinical Data Framework,Expired,JPN,Michael Chen,2019-06-21,2039-06-21
+P000242,Biotech Research Engine,Expired,JP,Sarah Johnson,2019-11-10,2039-11-10
+P000243,Clinical Data Framework,A,US,Michael Chen,2022-12-25,2042-12-25
+P000244,Healthcare Analytics Platform,ACTIVE,Japan,Emily Brown,2023-04-06,2043-04-06
+P000245,Healthcare Analytics Platform,A,US,David Wilson,2023-03-07,2043-03-07
+P000246,Healthcare Analytics Platform,EXP,JPN,Kenji Sato,2020-03-28,2040-03-28
+P000247,Clinical Data Framework,Active,USA,Kenji Sato,2022-03-01,2042-03-01
+P000248,Gene Analysis System,Expired,USA,Michael Chen,2019-10-19,2039-10-19
+P000249,Healthcare Analytics Platform,Expired,Japan,John Smith,2020-06-28,2040-06-28
+P000250,Medical Imaging Algorithm,Expired,JP,Yuki Tanaka,2022-03-12,2042-03-12
+P000251,Healthcare Analytics Platform,A,JPN,,2019-02-10,2039-02-10
+P000252,Biotech Research Engine,ACTIVE,US,Sarah Johnson,2023-04-20,2043-04-20
+P000253,Gene Analysis System,ACTIVE,JPN,David Wilson,2018-03-19,2038-03-19
+P000254,AI Drug Discovery Platform,A,JPN,Yuki Tanaka,2022-09-30,2042-09-30
+P000255,Smart Manufacturing Process,Active,JP,Kenji Sato,2024-12-26,2044-12-26
+P000256,Biotech Research Engine,EXP,USA,Michael Chen,2018-03-09,2038-03-09
+P000257,Clinical Data Framework,A,JPN,David Wilson,2018-01-07,2038-01-07
+P000258,Clinical Data Framework,A,JP,David Wilson,2018-12-17,2038-12-17
+P000259,Clinical Data Framework,Active,US,Kenji Sato,2023-09-11,2043-09-11
+P000260,Gene Analysis System,Active,Japan,Kenji Sato,2022-03-10,2042-03-10
+P000261,Healthcare Analytics Platform,EXP,Japan,Michael Chen,2019-03-01,2039-03-01
+P000262,Healthcare Analytics Platform,Expired,US,Emily Brown,2019-12-19,2039-12-19
+P000263,AI Drug Discovery Platform,A,JPN,John Smith,2023-02-18,2043-02-18
+P000264,Gene Analysis System,EXP,US,Kenji Sato,2021-07-16,2041-07-16
+P000265,Gene Analysis System,A,JP,Kenji Sato,2020-02-22,2040-02-22
+P000266,Smart Manufacturing Process,Expired,US,Sarah Johnson,2022-02-16,2042-02-16
+P000267,Gene Analysis System,EXP,Japan,Kenji Sato,2023-07-31,2043-07-31
+P000268,Clinical Data Framework,ACTIVE,USA,Yuki Tanaka,2022-10-30,2042-10-30
+P000269,Gene Analysis System,Expired,USA,Emily Brown,2021-04-25,2041-04-25
+P000270,Smart Manufacturing Process,Active,Japan,David Wilson,2021-12-10,2041-12-10
+P000271,AI Drug Discovery Platform,Expired,Japan,David Wilson,2018-08-23,2038-08-23
+P000272,Medical Imaging Algorithm,EXP,US,John Smith,2018-05-08,2038-05-08
+P000273,Gene Analysis System,Expired,USA,John Smith,2022-02-09,2042-02-09
+P000274,Gene Analysis System,Expired,JP,David Wilson,2022-02-28,2042-02-28
+P000275,Biotech Research Engine,A,JPN,,2021-07-11,2041-07-11
+P000276,Smart Manufacturing Process,EXP,US,David Wilson,2020-02-02,2040-02-02
+P000277,Medical Imaging Algorithm,EXP,Japan,Emily Brown,2023-01-02,2043-01-02
+P000278,Medical Imaging Algorithm,Active,US,Michael Chen,2019-05-18,2039-05-18
+P000279,Healthcare Analytics Platform,A,Japan,Emily Brown,2018-12-26,2038-12-26
+P000280,Healthcare Analytics Platform,ACTIVE,JPN,Kenji Sato,2021-05-13,2041-05-13
+P000281,Healthcare Analytics Platform,ACTIVE,JPN,Kenji Sato,2020-04-03,2040-04-03
+P000282,Gene Analysis System,Expired,USA,Michael Chen,2024-06-02,2044-06-02
+P000283,Smart Manufacturing Process,Expired,USA,Sarah Johnson,2021-06-20,2041-06-20
+P000284,Medical Imaging Algorithm,A,JP,Sarah Johnson,2018-10-30,2038-10-30
+P000285,Healthcare Analytics Platform,EXP,USA,Michael Chen,2019-06-10,2039-06-10
+P000286,Healthcare Analytics Platform,Active,JP,David Wilson,2023-08-22,2043-08-22
+P000287,Biotech Research Engine,ACTIVE,Japan,David Wilson,2021-08-14,2041-08-14
+P000288,Medical Imaging Algorithm,EXP,Japan,Michael Chen,2020-10-23,2040-10-23
+P000289,Clinical Data Framework,ACTIVE,USA,David Wilson,2019-01-18,2039-01-18
+P000290,Gene Analysis System,EXP,JP,Kenji Sato,2024-10-14,2044-10-14
+P000291,Gene Analysis System,ACTIVE,USA,Sarah Johnson,2024-06-20,2044-06-20
+P000292,Gene Analysis System,A,US,Michael Chen,2024-02-13,2044-02-13
+P000293,Smart Manufacturing Process,Active,JP,Michael Chen,2021-05-03,2041-05-03
+P000294,Gene Analysis System,EXP,JPN,Yuki Tanaka,2020-04-15,2040-04-15
+P000295,Smart Manufacturing Process,ACTIVE,Japan,David Wilson,2021-11-15,2041-11-15
+P000296,AI Drug Discovery Platform,A,US,Michael Chen,2023-03-26,2043-03-26
+P000297,Healthcare Analytics Platform,EXP,US,Michael Chen,2022-04-23,2042-04-23
+P000298,Clinical Data Framework,A,JPN,Kenji Sato,2021-09-03,2041-09-03
+P000299,Smart Manufacturing Process,A,US,John Smith,2023-03-28,2043-03-28
+P000300,Medical Imaging Algorithm,ACTIVE,USA,Yuki Tanaka,2023-02-16,2043-02-16
+P000301,Healthcare Analytics Platform,Expired,Japan,,2024-09-13,2044-09-13
+P000302,Smart Manufacturing Process,ACTIVE,Japan,Emily Brown,2019-03-17,2039-03-17
+P000303,Smart Manufacturing Process,Active,USA,David Wilson,2018-07-05,2038-07-05
+P000304,Smart Manufacturing Process,EXP,US,Kenji Sato,2018-10-29,2038-10-29
+P000305,Biotech Research Engine,EXP,JP,Michael Chen,2024-12-27,2044-12-27
+P000306,Clinical Data Framework,A,JPN,Michael Chen,2021-10-20,2041-10-20
+P000307,AI Drug Discovery Platform,Active,JPN,Emily Brown,2018-06-14,2038-06-14
+P000308,Medical Imaging Algorithm,EXP,USA,Michael Chen,2023-02-15,2043-02-15
+P000309,Smart Manufacturing Process,EXP,Japan,David Wilson,2019-10-28,2039-10-28
+P000310,Smart Manufacturing Process,EXP,Japan,Sarah Johnson,2023-12-21,2043-12-21
+P000311,Smart Manufacturing Process,EXP,Japan,Kenji Sato,2019-03-25,2039-03-25
+P000312,Clinical Data Framework,Expired,Japan,Emily Brown,2018-04-20,2038-04-20
+P000313,Medical Imaging Algorithm,Active,USA,Sarah Johnson,2024-06-23,2044-06-23
+P000314,Healthcare Analytics Platform,Expired,JPN,Kenji Sato,2024-12-13,2044-12-13
+P000315,Medical Imaging Algorithm,Active,US,Yuki Tanaka,2019-03-27,2039-03-27
+P000316,Smart Manufacturing Process,EXP,USA,Sarah Johnson,2020-04-15,2040-04-15
+P000317,Biotech Research Engine,ACTIVE,USA,Michael Chen,2018-09-13,2038-09-13
+P000318,Clinical Data Framework,Expired,Japan,Michael Chen,2023-05-14,2043-05-14
+P000319,Gene Analysis System,A,USA,Sarah Johnson,2024-02-16,2044-02-16
+P000320,Gene Analysis System,ACTIVE,Japan,Kenji Sato,2024-04-04,2044-04-04
+P000321,Gene Analysis System,Expired,Japan,David Wilson,2023-06-26,2043-06-26
+P000322,Gene Analysis System,Active,USA,Emily Brown,2021-01-25,2041-01-25
+P000323,Healthcare Analytics Platform,A,JPN,Yuki Tanaka,2022-06-05,2042-06-05
+P000324,Gene Analysis System,Expired,Japan,Emily Brown,2018-11-20,2038-11-20
+P000325,Gene Analysis System,EXP,Japan,Michael Chen,2024-01-16,2044-01-16
+P000326,Medical Imaging Algorithm,Active,USA,Michael Chen,2020-09-07,2040-09-07
+P000327,Gene Analysis System,Expired,JP,Unknown,2022-08-20,2042-08-20
+P000328,Medical Imaging Algorithm,Expired,US,Sarah Johnson,2024-03-04,2044-03-04
+P000329,Gene Analysis System,A,JP,Kenji Sato,2021-03-22,2041-03-22
+P000330,Biotech Research Engine,Active,JPN,Sarah Johnson,2024-01-01,2044-01-01
+P000331,Healthcare Analytics Platform,Expired,US,Michael Chen,2018-05-29,2038-05-29
+P000332,AI Drug Discovery Platform,Active,Japan,David Wilson,2021-03-31,2041-03-31
+P000333,Gene Analysis System,Expired,USA,David Wilson,2021-10-04,2041-10-04
+P000334,Smart Manufacturing Process,A,JPN,Kenji Sato,2023-08-28,2043-08-28
+P000335,Biotech Research Engine,A,JPN,John Smith,2023-02-23,2043-02-23
+P000336,Biotech Research Engine,ACTIVE,JPN,David Wilson,2024-05-14,2044-05-14
+P000337,Clinical Data Framework,A,JP,Sarah Johnson,2022-10-18,2042-10-18
+P000338,Smart Manufacturing Process,A,JPN,John Smith,2019-07-30,2039-07-30
+P000339,Gene Analysis System,A,USA,Emily Brown,2020-12-29,2040-12-29
+P000340,Biotech Research Engine,ACTIVE,JP,Emily Brown,2022-01-12,2042-01-12
+P000341,Biotech Research Engine,EXP,Japan,Emily Brown,2022-07-19,2042-07-19
+P000342,Gene Analysis System,EXP,JPN,Michael Chen,2021-04-23,2041-04-23
+P000343,Biotech Research Engine,EXP,Japan,Sarah Johnson,2023-02-07,2043-02-07
+P000344,Healthcare Analytics Platform,ACTIVE,JPN,Emily Brown,2024-01-11,2044-01-11
+P000345,Clinical Data Framework,Expired,USA,Emily Brown,2018-12-02,2038-12-02
+P000346,AI Drug Discovery Platform,EXP,USA,Michael Chen,2019-04-05,2039-04-05
+P000347,Healthcare Analytics Platform,EXP,US,John Smith,2021-09-05,2041-09-05
+P000348,AI Drug Discovery Platform,EXP,US,Kenji Sato,2023-06-26,2043-06-26
+P000349,Smart Manufacturing Process,EXP,JP,David Wilson,2022-08-29,2042-08-29
+P000350,Smart Manufacturing Process,A,JP,Emily Brown,2018-03-31,2038-03-31
+P000351,Gene Analysis System,Active,USA,John Smith,2022-10-02,2042-10-02
+P000352,AI Drug Discovery Platform,A,US,Michael Chen,2023-04-18,2043-04-18
+P000353,Gene Analysis System,Expired,US,Kenji Sato,2022-09-18,2042-09-18
+P000354,Biotech Research Engine,EXP,JPN,Emily Brown,2018-11-25,2038-11-25
+P000355,Smart Manufacturing Process,EXP,JPN,Emily Brown,2024-01-10,2044-01-10
+P000356,Gene Analysis System,Expired,USA,Sarah Johnson,2018-04-04,2038-04-04
+P000357,Smart Manufacturing Process,A,JPN,Yuki Tanaka,2020-10-10,2040-10-10
+P000358,AI Drug Discovery Platform,Expired,USA,Kenji Sato,2019-04-08,2039-04-08
+P000359,Medical Imaging Algorithm,Active,JP,,2020-09-12,2040-09-12
+P000360,Biotech Research Engine,Active,JPN,Emily Brown,2024-09-14,2044-09-14
+P000361,Medical Imaging Algorithm,Active,JPN,David Wilson,2024-01-20,2044-01-20
+P000362,Gene Analysis System,EXP,USA,Kenji Sato,2024-06-17,2044-06-17
+P000363,Medical Imaging Algorithm,EXP,JPN,Sarah Johnson,2021-05-21,2041-05-21
+P000364,Biotech Research Engine,ACTIVE,US,David Wilson,2024-08-20,2044-08-20
+P000365,Healthcare Analytics Platform,EXP,Japan,Emily Brown,2022-04-11,2042-04-11
+P000366,Medical Imaging Algorithm,EXP,US,Michael Chen,2022-03-22,2042-03-22
+P000367,Healthcare Analytics Platform,Expired,JP,David Wilson,2019-08-15,2039-08-15
+P000368,Medical Imaging Algorithm,Expired,JPN,Yuki Tanaka,2023-12-11,2043-12-11
+P000369,Healthcare Analytics Platform,A,JP,David Wilson,2023-01-17,2043-01-17
+P000370,Smart Manufacturing Process,EXP,USA,John Smith,2021-01-04,2041-01-04
+P000371,Biotech Research Engine,EXP,JPN,Sarah Johnson,2024-08-03,2044-08-03
+P000372,AI Drug Discovery Platform,ACTIVE,JPN,Emily Brown,2021-05-26,2041-05-26
+P000373,Medical Imaging Algorithm,EXP,JPN,Sarah Johnson,2023-05-16,2043-05-16
+P000374,Smart Manufacturing Process,Expired,USA,Emily Brown,2021-03-05,2041-03-05
+P000375,Smart Manufacturing Process,Expired,JP,Kenji Sato,2023-10-02,2043-10-02
+P000376,Medical Imaging Algorithm,A,Japan,Sarah Johnson,2021-08-04,2041-08-04
+P000377,AI Drug Discovery Platform,A,USA,David Wilson,2019-08-21,2039-08-21
+P000378,Medical Imaging Algorithm,A,JPN,Sarah Johnson,2019-09-17,2039-09-17
+P000379,Biotech Research Engine,A,Japan,Kenji Sato,2024-03-05,2044-03-05
+P000380,Smart Manufacturing Process,ACTIVE,Japan,Michael Chen,2023-07-03,2043-07-03
+P000381,Clinical Data Framework,Active,USA,John Smith,2020-01-24,2040-01-24
+P000382,Healthcare Analytics Platform,Active,US,Michael Chen,2018-07-18,2038-07-18
+P000383,AI Drug Discovery Platform,ACTIVE,USA,Sarah Johnson,2019-09-11,2039-09-11
+P000384,Smart Manufacturing Process,Expired,JP,John Smith,2024-11-30,2044-11-30
+P000385,Clinical Data Framework,A,USA,,2018-03-10,2038-03-10
+P000386,Healthcare Analytics Platform,ACTIVE,JP,John Smith,2022-10-30,2042-10-30
+P000387,Clinical Data Framework,A,Japan,Yuki Tanaka,2024-12-13,2044-12-13
+P000388,Smart Manufacturing Process,EXP,JPN,Emily Brown,2022-07-22,2042-07-22
+P000389,Biotech Research Engine,Active,JP,Sarah Johnson,2018-11-27,2038-11-27
+P000390,Biotech Research Engine,Active,JPN,John Smith,2018-08-18,2038-08-18
+P000391,Clinical Data Framework,Active,USA,John Smith,2021-09-18,2041-09-18
+P000392,Smart Manufacturing Process,A,JP,John Smith,2024-05-10,2044-05-10
+P000393,Clinical Data Framework,Active,JPN,Kenji Sato,2024-02-03,2044-02-03
+P000394,Medical Imaging Algorithm,Expired,JP,Yuki Tanaka,2024-08-01,2044-08-01
+P000395,Biotech Research Engine,EXP,Japan,Sarah Johnson,2022-05-13,2042-05-13
+P000396,Clinical Data Framework,A,JP,John Smith,2018-11-18,2038-11-18
+P000397,Clinical Data Framework,EXP,USA,Sarah Johnson,2021-10-27,2041-10-27
+P000398,Healthcare Analytics Platform,Expired,US,Michael Chen,2021-01-24,2041-01-24
+P000399,Medical Imaging Algorithm,EXP,US,John Smith,2022-11-04,2042-11-04
+P000400,Biotech Research Engine,Active,JP,Yuki Tanaka,2020-10-06,2040-10-06
+P000401,Biotech Research Engine,Expired,Japan,Unknown,2019-09-24,2039-09-24
+P000402,Smart Manufacturing Process,A,Japan,John Smith,2021-06-16,2041-06-16
+P000403,Clinical Data Framework,EXP,USA,Sarah Johnson,2023-01-13,2043-01-13
+P000404,AI Drug Discovery Platform,EXP,USA,Kenji Sato,2024-03-20,2044-03-20
+P000405,Smart Manufacturing Process,Expired,JP,Emily Brown,2021-04-10,2041-04-10
+P000406,Clinical Data Framework,EXP,JPN,Emily Brown,2020-09-21,2040-09-21
+P000407,Gene Analysis System,Expired,JPN,John Smith,2021-05-18,2041-05-18
+P000408,Smart Manufacturing Process,Active,Japan,Yuki Tanaka,2021-05-12,2041-05-12
+P000409,Clinical Data Framework,EXP,JPN,Sarah Johnson,2023-07-24,2043-07-24
+P000410,Gene Analysis System,EXP,US,Kenji Sato,2022-06-09,2042-06-09
+P000411,Healthcare Analytics Platform,EXP,JPN,Yuki Tanaka,2022-10-30,2042-10-30
+P000412,Smart Manufacturing Process,A,JPN,Sarah Johnson,2020-04-02,2040-04-02
+P000413,Clinical Data Framework,ACTIVE,Japan,Sarah Johnson,2023-07-05,2043-07-05
+P000414,AI Drug Discovery Platform,EXP,JPN,David Wilson,2022-02-04,2042-02-04
+P000415,AI Drug Discovery Platform,Expired,JPN,Sarah Johnson,2024-03-03,2044-03-03
+P000416,Healthcare Analytics Platform,Expired,US,Michael Chen,2018-10-11,2038-10-11
+P000417,Biotech Research Engine,Expired,US,John Smith,2019-09-24,2039-09-24
+P000418,Smart Manufacturing Process,EXP,USA,Kenji Sato,2024-07-12,2044-07-12
+P000419,Biotech Research Engine,EXP,USA,Emily Brown,2022-01-12,2042-01-12
+P000420,Biotech Research Engine,A,JPN,Emily Brown,2020-10-13,2040-10-13
+P000421,Healthcare Analytics Platform,A,US,,2022-06-25,2042-06-25
+P000422,Medical Imaging Algorithm,EXP,USA,David Wilson,2020-11-25,2040-11-25
+P000423,Gene Analysis System,Expired,US,Kenji Sato,2022-12-31,2042-12-31
+P000424,Gene Analysis System,Active,US,John Smith,2019-09-10,2039-09-10
+P000425,AI Drug Discovery Platform,ACTIVE,Japan,Yuki Tanaka,2018-12-18,2038-12-18
+P000426,Smart Manufacturing Process,A,US,John Smith,2023-11-05,2043-11-05
+P000427,AI Drug Discovery Platform,A,JP,Kenji Sato,2021-07-30,2041-07-30
+P000428,Biotech Research Engine,Active,JPN,Emily Brown,2021-11-06,2041-11-06
+P000429,Gene Analysis System,EXP,US,Sarah Johnson,2019-10-18,2039-10-18
+P000430,Medical Imaging Algorithm,Expired,US,John Smith,2020-01-26,2040-01-26
+P000431,Clinical Data Framework,Expired,US,John Smith,2023-01-16,2043-01-16
+P000432,Clinical Data Framework,Active,USA,Michael Chen,2018-09-14,2038-09-14
+P000433,Gene Analysis System,Expired,USA,Emily Brown,2019-04-12,2039-04-12
+P000434,Clinical Data Framework,Active,Japan,Yuki Tanaka,2022-05-27,2042-05-27
+P000435,Clinical Data Framework,EXP,JP,Emily Brown,2021-05-03,2041-05-03
+P000436,AI Drug Discovery Platform,ACTIVE,Japan,Emily Brown,2021-06-04,2041-06-04
+P000437,Medical Imaging Algorithm,EXP,US,Sarah Johnson,2024-09-08,2044-09-08
+P000438,Clinical Data Framework,ACTIVE,US,Yuki Tanaka,2019-12-11,2039-12-11
+P000439,Clinical Data Framework,Active,Japan,John Smith,2023-01-22,2043-01-22
+P000440,Clinical Data Framework,EXP,US,Sarah Johnson,2022-04-22,2042-04-22
+P000441,Smart Manufacturing Process,ACTIVE,JP,,2022-12-24,2042-12-24
+P000442,Gene Analysis System,Active,Japan,Michael Chen,2020-06-22,2040-06-22
+P000443,Clinical Data Framework,Expired,USA,David Wilson,2023-02-17,2043-02-17
+P000444,Healthcare Analytics Platform,A,USA,Kenji Sato,2024-02-03,2044-02-03
+P000445,Clinical Data Framework,ACTIVE,US,John Smith,2022-12-13,2042-12-13
+P000446,Gene Analysis System,Active,US,Yuki Tanaka,2020-10-10,2040-10-10
+P000447,Healthcare Analytics Platform,Active,JPN,Michael Chen,2022-12-04,2042-12-04
+P000448,Healthcare Analytics Platform,EXP,US,Michael Chen,2021-12-07,2041-12-07
+P000449,Healthcare Analytics Platform,Active,USA,Yuki Tanaka,2020-04-27,2040-04-27
+P000450,Gene Analysis System,A,Japan,David Wilson,2019-11-21,2039-11-21
+P000451,Medical Imaging Algorithm,Expired,JP,Yuki Tanaka,2019-01-26,2039-01-26
+P000452,Medical Imaging Algorithm,ACTIVE,Japan,Kenji Sato,2019-06-28,2039-06-28
+P000453,Smart Manufacturing Process,ACTIVE,USA,Emily Brown,2022-05-28,2042-05-28
+P000454,AI Drug Discovery Platform,Active,US,David Wilson,2023-01-26,2043-01-26
+P000455,Smart Manufacturing Process,Expired,Japan,,2022-02-20,2042-02-20
+P000456,Biotech Research Engine,Expired,Japan,Kenji Sato,2019-01-17,2039-01-17
+P000457,Smart Manufacturing Process,ACTIVE,US,Yuki Tanaka,2020-06-11,2040-06-11
+P000458,Clinical Data Framework,ACTIVE,USA,Kenji Sato,2024-02-20,2044-02-20
+P000459,AI Drug Discovery Platform,Active,US,John Smith,2018-07-18,2038-07-18
+P000460,Smart Manufacturing Process,Active,US,Michael Chen,2022-12-13,2042-12-13
+P000461,Medical Imaging Algorithm,A,JP,Emily Brown,2021-05-21,2041-05-21
+P000462,AI Drug Discovery Platform,Expired,Japan,Emily Brown,2019-11-09,2039-11-09
+P000463,Biotech Research Engine,Active,JP,Michael Chen,2019-01-09,2039-01-09
+P000464,Clinical Data Framework,Expired,JP,John Smith,2020-07-15,2040-07-15
+P000465,Biotech Research Engine,ACTIVE,US,John Smith,2022-09-26,2042-09-26
+P000466,AI Drug Discovery Platform,A,Japan,Yuki Tanaka,2019-02-24,2039-02-24
+P000467,Biotech Research Engine,ACTIVE,JP,David Wilson,2019-06-30,2039-06-30
+P000468,Smart Manufacturing Process,A,JPN,Emily Brown,2019-11-04,2039-11-04
+P000469,Biotech Research Engine,Expired,JPN,John Smith,2024-11-28,2044-11-28
+P000470,Clinical Data Framework,Expired,Japan,Sarah Johnson,2019-05-20,2039-05-20
+P000471,Biotech Research Engine,Active,JPN,David Wilson,2021-02-08,2041-02-08
+P000472,Healthcare Analytics Platform,Active,Japan,Michael Chen,2021-03-13,2041-03-13
+P000473,Gene Analysis System,Active,JPN,Sarah Johnson,2022-05-24,2042-05-24
+P000474,AI Drug Discovery Platform,EXP,JP,Yuki Tanaka,2024-08-29,2044-08-29
+P000475,Smart Manufacturing Process,A,USA,Emily Brown,2024-05-17,2044-05-17
+P000476,AI Drug Discovery Platform,EXP,JP,John Smith,2018-10-26,2038-10-26
+P000477,Healthcare Analytics Platform,Expired,USA,Yuki Tanaka,2018-09-05,2038-09-05
+P000478,Smart Manufacturing Process,Expired,JP,Emily Brown,2022-08-29,2042-08-29
+P000479,AI Drug Discovery Platform,A,JP,David Wilson,2021-02-10,2041-02-10
+P000480,Clinical Data Framework,A,US,David Wilson,2019-09-29,2039-09-29
+P000481,Gene Analysis System,Expired,JPN,John Smith,2018-09-28,2038-09-28
+P000482,Smart Manufacturing Process,EXP,USA,John Smith,2019-04-21,2039-04-21
+P000483,AI Drug Discovery Platform,Active,JPN,,2019-12-21,2039-12-21
+P000484,Gene Analysis System,EXP,USA,Kenji Sato,2023-07-27,2043-07-27
+P000485,Medical Imaging Algorithm,A,JP,Kenji Sato,2022-03-04,2042-03-04
+P000486,Gene Analysis System,EXP,JP,Yuki Tanaka,2022-10-25,2042-10-25
+P000487,Smart Manufacturing Process,Expired,USA,Yuki Tanaka,2018-11-12,2038-11-12
+P000488,Gene Analysis System,ACTIVE,Japan,Kenji Sato,2019-11-15,2039-11-15
+P000489,Medical Imaging Algorithm,EXP,JP,Unknown,2019-04-18,2039-04-18
+P000490,Smart Manufacturing Process,A,US,Michael Chen,2018-07-08,2038-07-08
+P000491,Clinical Data Framework,Expired,JPN,Yuki Tanaka,2018-05-25,2038-05-25
+P000492,Gene Analysis System,Active,USA,Yuki Tanaka,2021-08-03,2041-08-03
+P000493,Medical Imaging Algorithm,ACTIVE,USA,John Smith,2018-08-04,2038-08-04
+P000494,Healthcare Analytics Platform,A,Japan,Yuki Tanaka,2023-03-21,2043-03-21
+P000495,Medical Imaging Algorithm,A,USA,Kenji Sato,2022-02-20,2042-02-20
+P000496,Gene Analysis System,EXP,US,Kenji Sato,2023-03-16,2043-03-16
+P000497,Healthcare Analytics Platform,ACTIVE,JPN,John Smith,2024-02-17,2044-02-17
+P000498,Gene Analysis System,Active,Japan,John Smith,2024-01-28,2044-01-28
+P000499,AI Drug Discovery Platform,ACTIVE,USA,Michael Chen,2021-06-13,2041-06-13
+P000500,Biotech Research Engine,A,JP,John Smith,2019-08-07,2039-08-07
+P000501,Smart Manufacturing Process,A,US,Emily Brown,2023-10-30,2043-10-30
+P000502,Biotech Research Engine,Expired,JP,David Wilson,2019-07-01,2039-07-01
+P000503,Medical Imaging Algorithm,A,Japan,Kenji Sato,2019-06-20,2039-06-20
+P000504,Gene Analysis System,Expired,Japan,Michael Chen,2021-08-29,2041-08-29
+P000505,AI Drug Discovery Platform,ACTIVE,JP,Michael Chen,2024-07-22,2044-07-22
+P000506,Clinical Data Framework,A,JPN,Sarah Johnson,2019-05-10,2039-05-10
+P000507,AI Drug Discovery Platform,ACTIVE,Japan,Kenji Sato,2019-05-07,2039-05-07
+P000508,Healthcare Analytics Platform,A,JPN,John Smith,2020-05-30,2040-05-30
+P000509,Clinical Data Framework,Active,Japan,Yuki Tanaka,2022-06-12,2042-06-12
+P000510,Healthcare Analytics Platform,Expired,USA,Emily Brown,2022-07-15,2042-07-15
+P000511,Healthcare Analytics Platform,ACTIVE,JP,John Smith,2019-02-22,2039-02-22
+P000512,Medical Imaging Algorithm,ACTIVE,US,Yuki Tanaka,2020-06-29,2040-06-29
+P000513,Clinical Data Framework,EXP,Japan,Kenji Sato,2018-12-11,2038-12-11
+P000514,Biotech Research Engine,Expired,JPN,John Smith,2020-03-20,2040-03-20
+P000515,AI Drug Discovery Platform,Active,US,John Smith,2021-09-20,2041-09-20
+P000516,Smart Manufacturing Process,Active,US,Emily Brown,2022-06-06,2042-06-06
+P000517,Gene Analysis System,A,US,,2020-02-06,2040-02-06
+P000518,Clinical Data Framework,ACTIVE,Japan,Sarah Johnson,2024-12-11,2044-12-11
+P000519,AI Drug Discovery Platform,A,US,Michael Chen,2018-09-07,2038-09-07
+P000520,Medical Imaging Algorithm,EXP,JP,Sarah Johnson,2023-11-24,2043-11-24
+P000521,Healthcare Analytics Platform,Expired,Japan,David Wilson,2024-02-09,2044-02-09
+P000522,AI Drug Discovery Platform,A,USA,,2020-01-07,2040-01-07
+P000523,AI Drug Discovery Platform,Expired,USA,Yuki Tanaka,2021-02-24,2041-02-24
+P000524,AI Drug Discovery Platform,ACTIVE,JPN,Yuki Tanaka,2019-10-16,2039-10-16
+P000525,Healthcare Analytics Platform,ACTIVE,USA,Kenji Sato,2018-08-18,2038-08-18
+P000526,Medical Imaging Algorithm,ACTIVE,USA,Yuki Tanaka,2019-12-13,2039-12-13
+P000527,AI Drug Discovery Platform,A,USA,David Wilson,2024-08-20,2044-08-20
+P000528,Clinical Data Framework,A,JPN,,2023-07-10,2043-07-10
+P000529,Medical Imaging Algorithm,EXP,JPN,Unknown,2018-08-19,2038-08-19
+P000530,Medical Imaging Algorithm,ACTIVE,Japan,Emily Brown,2024-11-20,2044-11-20
+P000531,AI Drug Discovery Platform,Active,JPN,David Wilson,2021-08-18,2041-08-18
+P000532,Healthcare Analytics Platform,EXP,Japan,John Smith,2019-03-31,2039-03-31
+P000533,Clinical Data Framework,Active,Japan,Yuki Tanaka,2022-06-09,2042-06-09
+P000534,Healthcare Analytics Platform,Expired,Japan,Michael Chen,2022-11-25,2042-11-25
+P000535,Healthcare Analytics Platform,A,JPN,Emily Brown,2024-11-18,2044-11-18
+P000536,Biotech Research Engine,A,JPN,Michael Chen,2021-06-10,2041-06-10
+P000537,Smart Manufacturing Process,EXP,JP,Michael Chen,2024-06-04,2044-06-04
+P000538,Medical Imaging Algorithm,EXP,JP,Sarah Johnson,2024-11-09,2044-11-09
+P000539,Gene Analysis System,A,JPN,Emily Brown,2020-09-01,2040-09-01
+P000540,Smart Manufacturing Process,Active,Japan,Michael Chen,2021-10-07,2041-10-07
+P000541,Healthcare Analytics Platform,Active,JP,John Smith,2020-11-17,2040-11-17
+P000542,Smart Manufacturing Process,Expired,US,Yuki Tanaka,2019-11-13,2039-11-13
+P000543,Healthcare Analytics Platform,EXP,JPN,Michael Chen,2023-05-18,2043-05-18
+P000544,Gene Analysis System,Active,Japan,Yuki Tanaka,2018-05-17,2038-05-17
+P000545,Smart Manufacturing Process,ACTIVE,JP,David Wilson,2019-11-28,2039-11-28
+P000546,Clinical Data Framework,EXP,US,,2021-10-16,2041-10-16
+P000547,Clinical Data Framework,Expired,JPN,John Smith,2019-11-07,2039-11-07
+P000548,Smart Manufacturing Process,EXP,USA,Yuki Tanaka,2020-02-18,2040-02-18
+P000549,AI Drug Discovery Platform,Expired,USA,David Wilson,2019-01-28,2039-01-28
+P000550,AI Drug Discovery Platform,Expired,JP,Yuki Tanaka,2022-01-17,2042-01-17
+P000551,Medical Imaging Algorithm,Active,JP,Michael Chen,2023-05-22,2043-05-22
+P000552,Smart Manufacturing Process,Active,Japan,Kenji Sato,2018-12-02,2038-12-02
+P000553,AI Drug Discovery Platform,EXP,US,Michael Chen,2020-12-21,2040-12-21
+P000554,Smart Manufacturing Process,Active,Japan,Sarah Johnson,2020-02-04,2040-02-04
+P000555,Clinical Data Framework,Active,JPN,Kenji Sato,2021-01-05,2041-01-05
+P000556,Healthcare Analytics Platform,EXP,US,Kenji Sato,2021-11-09,2041-11-09
+P000557,Healthcare Analytics Platform,EXP,US,David Wilson,2022-05-05,2042-05-05
+P000558,Medical Imaging Algorithm,Expired,Japan,John Smith,2024-06-03,2044-06-03
+P000559,Clinical Data Framework,EXP,USA,Kenji Sato,2018-05-23,2038-05-23
+P000560,AI Drug Discovery Platform,Expired,JPN,Michael Chen,2019-08-27,2039-08-27
+P000561,AI Drug Discovery Platform,Expired,JP,Emily Brown,2019-06-01,2039-06-01
+P000562,Healthcare Analytics Platform,EXP,Japan,Yuki Tanaka,2019-08-29,2039-08-29
+P000563,AI Drug Discovery Platform,Expired,USA,Sarah Johnson,2018-10-02,2038-10-02
+P000564,Smart Manufacturing Process,Active,USA,David Wilson,2023-10-30,2043-10-30
+P000565,Medical Imaging Algorithm,ACTIVE,USA,David Wilson,2022-08-25,2042-08-25
+P000566,AI Drug Discovery Platform,EXP,JP,Kenji Sato,2019-02-15,2039-02-15
+P000567,Smart Manufacturing Process,A,US,Emily Brown,2021-11-09,2041-11-09
+P000568,Medical Imaging Algorithm,A,US,Michael Chen,2018-06-03,2038-06-03
+P000569,AI Drug Discovery Platform,Expired,Japan,Emily Brown,2022-07-04,2042-07-04
+P000570,Gene Analysis System,Active,Japan,Kenji Sato,2021-01-05,2041-01-05
+P000571,Healthcare Analytics Platform,Active,JPN,Michael Chen,2023-07-07,2043-07-07
+P000572,Gene Analysis System,Expired,USA,Emily Brown,2021-08-07,2041-08-07
+P000573,Biotech Research Engine,Expired,USA,Kenji Sato,2022-07-26,2042-07-26
+P000574,AI Drug Discovery Platform,A,USA,Sarah Johnson,2019-10-14,2039-10-14
+P000575,AI Drug Discovery Platform,ACTIVE,JPN,Kenji Sato,2024-05-18,2044-05-18
+P000576,Smart Manufacturing Process,Active,Japan,Emily Brown,2018-05-16,2038-05-16
+P000577,Clinical Data Framework,Expired,JP,,2023-03-17,2043-03-17
+P000578,Smart Manufacturing Process,EXP,US,Michael Chen,2022-03-06,2042-03-06
+P000579,Gene Analysis System,A,JPN,Kenji Sato,2024-03-08,2044-03-08
+P000580,Gene Analysis System,Active,US,John Smith,2019-01-06,2039-01-06
+P000581,Healthcare Analytics Platform,ACTIVE,JPN,Emily Brown,2020-05-27,2040-05-27
+P000582,AI Drug Discovery Platform,Active,US,Michael Chen,2023-10-04,2043-10-04
+P000583,Medical Imaging Algorithm,A,USA,Kenji Sato,2018-02-04,2038-02-04
+P000584,Smart Manufacturing Process,Expired,Japan,Sarah Johnson,2021-02-01,2041-02-01
+P000585,Healthcare Analytics Platform,EXP,US,David Wilson,2023-11-03,2043-11-03
+P000586,Clinical Data Framework,EXP,USA,Yuki Tanaka,2022-03-13,2042-03-13
+P000587,Gene Analysis System,A,Japan,Kenji Sato,2018-09-19,2038-09-19
+P000588,Medical Imaging Algorithm,ACTIVE,USA,Kenji Sato,2021-05-08,2041-05-08
+P000589,Smart Manufacturing Process,A,JPN,,2024-09-23,2044-09-23
+P000590,Gene Analysis System,A,US,Sarah Johnson,2023-07-31,2043-07-31
+P000591,Healthcare Analytics Platform,ACTIVE,Japan,Emily Brown,2024-06-01,2044-06-01
+P000592,Biotech Research Engine,A,USA,Yuki Tanaka,2023-05-03,2043-05-03
+P000593,Medical Imaging Algorithm,A,JP,Sarah Johnson,2024-04-05,2044-04-05
+P000594,Healthcare Analytics Platform,ACTIVE,Japan,Emily Brown,2024-04-08,2044-04-08
+P000595,Smart Manufacturing Process,A,Japan,Yuki Tanaka,2021-06-11,2041-06-11
+P000596,Smart Manufacturing Process,Active,USA,David Wilson,2019-04-28,2039-04-28
+P000597,Clinical Data Framework,Active,US,David Wilson,2020-03-07,2040-03-07
+P000598,Medical Imaging Algorithm,ACTIVE,Japan,Sarah Johnson,2019-09-10,2039-09-10
+P000599,Medical Imaging Algorithm,A,JPN,Kenji Sato,2023-02-18,2043-02-18
+P000600,Gene Analysis System,Active,JP,Sarah Johnson,2019-12-26,2039-12-26
+P000601,Clinical Data Framework,ACTIVE,US,Kenji Sato,2019-11-22,2039-11-22
+P000602,Smart Manufacturing Process,Expired,US,Sarah Johnson,2024-11-21,2044-11-21
+P000603,Clinical Data Framework,ACTIVE,Japan,John Smith,2018-06-04,2038-06-04
+P000604,Medical Imaging Algorithm,Active,JP,Emily Brown,2023-12-16,2043-12-16
+P000605,Gene Analysis System,ACTIVE,JP,Sarah Johnson,2021-11-11,2041-11-11
+P000606,Healthcare Analytics Platform,Active,Japan,Yuki Tanaka,2018-09-25,2038-09-25
+P000607,Gene Analysis System,Expired,JPN,Yuki Tanaka,2023-11-17,2043-11-17
+P000608,Medical Imaging Algorithm,Expired,JP,Michael Chen,2020-02-11,2040-02-11
+P000609,Biotech Research Engine,Active,USA,David Wilson,2020-05-15,2040-05-15
+P000610,Smart Manufacturing Process,A,USA,David Wilson,2018-06-03,2038-06-03
+P000611,Biotech Research Engine,Active,JP,Emily Brown,2019-03-19,2039-03-19
+P000612,Clinical Data Framework,A,US,Emily Brown,2019-05-22,2039-05-22
+P000613,Gene Analysis System,Expired,JP,Emily Brown,2018-02-08,2038-02-08
+P000614,Smart Manufacturing Process,Active,USA,Emily Brown,2019-07-16,2039-07-16
+P000615,Smart Manufacturing Process,ACTIVE,USA,Michael Chen,2019-03-12,2039-03-12
+P000616,Gene Analysis System,Expired,Japan,,2020-04-06,2040-04-06
+P000617,Medical Imaging Algorithm,Expired,Japan,,2023-07-27,2043-07-27
+P000618,AI Drug Discovery Platform,EXP,US,Michael Chen,2018-12-31,2038-12-31
+P000619,Biotech Research Engine,Active,Japan,Emily Brown,2018-11-04,2038-11-04
+P000620,Gene Analysis System,Expired,JP,John Smith,2021-04-27,2041-04-27
+P000621,Gene Analysis System,A,US,Emily Brown,2021-04-05,2041-04-05
+P000622,AI Drug Discovery Platform,ACTIVE,JPN,Yuki Tanaka,2018-07-07,2038-07-07
+P000623,Gene Analysis System,Active,Japan,Kenji Sato,2024-12-21,2044-12-21
+P000624,Smart Manufacturing Process,A,US,Emily Brown,2022-06-28,2042-06-28
+P000625,AI Drug Discovery Platform,ACTIVE,JP,Kenji Sato,2019-11-15,2039-11-15
+P000626,Smart Manufacturing Process,EXP,US,Michael Chen,2024-08-16,2044-08-16
+P000627,AI Drug Discovery Platform,ACTIVE,US,Sarah Johnson,2024-11-09,2044-11-09
+P000628,AI Drug Discovery Platform,A,Japan,John Smith,2018-07-08,2038-07-08
+P000629,Biotech Research Engine,EXP,JPN,Emily Brown,2024-06-19,2044-06-19
+P000630,AI Drug Discovery Platform,Expired,JPN,Sarah Johnson,2024-12-07,2044-12-07
+P000631,Medical Imaging Algorithm,EXP,USA,,2022-04-26,2042-04-26
+P000632,Clinical Data Framework,Expired,US,Kenji Sato,2019-10-05,2039-10-05
+P000633,Medical Imaging Algorithm,A,Japan,John Smith,2021-08-06,2041-08-06
+P000634,Smart Manufacturing Process,ACTIVE,JP,Sarah Johnson,2022-03-31,2042-03-31
+P000635,Healthcare Analytics Platform,Expired,US,Yuki Tanaka,2018-12-27,2038-12-27
+P000636,AI Drug Discovery Platform,Expired,US,Unknown,2018-03-14,2038-03-14
+P000637,Healthcare Analytics Platform,EXP,USA,Emily Brown,2019-01-08,2039-01-08
+P000638,Biotech Research Engine,Expired,Japan,Yuki Tanaka,2020-04-27,2040-04-27
+P000639,Gene Analysis System,EXP,USA,David Wilson,2023-02-05,2043-02-05
+P000640,AI Drug Discovery Platform,Active,JPN,John Smith,2023-01-28,2043-01-28
+P000641,Clinical Data Framework,EXP,Japan,Emily Brown,2021-04-10,2041-04-10
+P000642,Medical Imaging Algorithm,Expired,JP,Yuki Tanaka,2023-07-10,2043-07-10
+P000643,Medical Imaging Algorithm,Expired,JPN,Emily Brown,2022-05-29,2042-05-29
+P000644,Biotech Research Engine,EXP,JP,Kenji Sato,2018-07-10,2038-07-10
+P000645,Clinical Data Framework,ACTIVE,US,John Smith,2024-08-10,2044-08-10
+P000646,Healthcare Analytics Platform,EXP,US,David Wilson,2022-11-08,2042-11-08
+P000647,Medical Imaging Algorithm,ACTIVE,JP,Sarah Johnson,2024-06-27,2044-06-27
+P000648,Clinical Data Framework,Expired,US,David Wilson,2021-08-11,2041-08-11
+P000649,Smart Manufacturing Process,A,Japan,Sarah Johnson,2021-01-25,2041-01-25
+P000650,Biotech Research Engine,EXP,Japan,Kenji Sato,2024-10-03,2044-10-03
+P000651,Biotech Research Engine,ACTIVE,JPN,Michael Chen,2024-03-17,2044-03-17
+P000652,Biotech Research Engine,ACTIVE,JPN,David Wilson,2021-11-15,2041-11-15
+P000653,Healthcare Analytics Platform,A,USA,Sarah Johnson,2019-04-18,2039-04-18
+P000654,Biotech Research Engine,EXP,Japan,Unknown,2022-09-06,2042-09-06
+P000655,AI Drug Discovery Platform,Expired,JPN,John Smith,2019-03-13,2039-03-13
+P000656,Gene Analysis System,A,JPN,Kenji Sato,2019-10-22,2039-10-22
+P000657,Healthcare Analytics Platform,EXP,JP,Yuki Tanaka,2020-04-15,2040-04-15
+P000658,Healthcare Analytics Platform,ACTIVE,USA,Sarah Johnson,2024-04-20,2044-04-20
+P000659,Biotech Research Engine,Active,US,Sarah Johnson,2021-03-24,2041-03-24
+P000660,Clinical Data Framework,Active,JP,Emily Brown,2021-07-04,2041-07-04
+P000661,Healthcare Analytics Platform,ACTIVE,Japan,Kenji Sato,2022-12-20,2042-12-20
+P000662,Healthcare Analytics Platform,ACTIVE,Japan,Sarah Johnson,2020-03-15,2040-03-15
+P000663,Medical Imaging Algorithm,EXP,JP,Sarah Johnson,2020-02-05,2040-02-05
+P000664,Medical Imaging Algorithm,ACTIVE,USA,Kenji Sato,2020-12-18,2040-12-18
+P000665,AI Drug Discovery Platform,ACTIVE,Japan,David Wilson,2019-09-27,2039-09-27
+P000666,Healthcare Analytics Platform,A,US,Kenji Sato,2024-11-26,2044-11-26
+P000667,Clinical Data Framework,ACTIVE,JPN,David Wilson,2021-07-25,2041-07-25
+P000668,Clinical Data Framework,EXP,US,John Smith,2022-08-31,2042-08-31
+P000669,Gene Analysis System,A,Japan,Michael Chen,2021-09-21,2041-09-21
+P000670,Clinical Data Framework,Active,JP,Emily Brown,2023-04-30,2043-04-30
+P000671,Clinical Data Framework,ACTIVE,JP,Emily Brown,2024-11-18,2044-11-18
+P000672,Smart Manufacturing Process,A,USA,Emily Brown,2019-04-10,2039-04-10
+P000673,Clinical Data Framework,EXP,US,Sarah Johnson,2022-03-16,2042-03-16
+P000674,Gene Analysis System,EXP,JP,John Smith,2020-02-28,2040-02-28
+P000675,Clinical Data Framework,Active,JP,Michael Chen,2024-01-13,2044-01-13
+P000676,Healthcare Analytics Platform,Active,JPN,David Wilson,2022-10-04,2042-10-04
+P000677,Biotech Research Engine,Active,JPN,John Smith,2022-11-18,2042-11-18
+P000678,AI Drug Discovery Platform,Active,JPN,Kenji Sato,2018-12-25,2038-12-25
+P000679,Gene Analysis System,Expired,US,Sarah Johnson,2020-07-21,2040-07-21
+P000680,Smart Manufacturing Process,Active,USA,John Smith,2018-03-11,2038-03-11
+P000681,AI Drug Discovery Platform,Active,Japan,David Wilson,2024-07-26,2044-07-26
+P000682,Clinical Data Framework,Active,Japan,Kenji Sato,2021-05-19,2041-05-19
+P000683,Smart Manufacturing Process,ACTIVE,USA,Michael Chen,2018-05-07,2038-05-07
+P000684,Gene Analysis System,ACTIVE,Japan,Emily Brown,2024-02-14,2044-02-14
+P000685,AI Drug Discovery Platform,EXP,USA,Unknown,2022-03-09,2042-03-09
+P000686,Smart Manufacturing Process,EXP,USA,John Smith,2024-09-09,2044-09-09
+P000687,Medical Imaging Algorithm,Expired,USA,Michael Chen,2021-11-09,2041-11-09
+P000688,Medical Imaging Algorithm,Active,JPN,Emily Brown,2020-11-01,2040-11-01
+P000689,Smart Manufacturing Process,EXP,JP,Yuki Tanaka,2024-02-27,2044-02-27
+P000690,Biotech Research Engine,EXP,US,Yuki Tanaka,2020-03-19,2040-03-19
+P000691,AI Drug Discovery Platform,A,USA,John Smith,2020-08-18,2040-08-18
+P000692,Gene Analysis System,EXP,Japan,Emily Brown,2023-01-20,2043-01-20
+P000693,Healthcare Analytics Platform,A,US,,2022-02-01,2042-02-01
+P000694,Healthcare Analytics Platform,ACTIVE,US,Yuki Tanaka,2020-10-05,2040-10-05
+P000695,Smart Manufacturing Process,Expired,US,Yuki Tanaka,2021-09-20,2041-09-20
+P000696,Medical Imaging Algorithm,EXP,JP,Kenji Sato,2019-03-22,2039-03-22
+P000697,Medical Imaging Algorithm,A,JP,Unknown,2024-01-16,2044-01-16
+P000698,Biotech Research Engine,Active,USA,David Wilson,2023-09-09,2043-09-09
+P000699,Clinical Data Framework,A,USA,David Wilson,2018-05-31,2038-05-31
+P000700,Smart Manufacturing Process,ACTIVE,USA,Emily Brown,2022-02-07,2042-02-07
+P000701,Clinical Data Framework,Active,US,Yuki Tanaka,2023-08-15,2043-08-15
+P000702,Biotech Research Engine,ACTIVE,USA,Michael Chen,2024-11-20,2044-11-20
+P000703,Biotech Research Engine,ACTIVE,US,Yuki Tanaka,2024-05-06,2044-05-06
+P000704,AI Drug Discovery Platform,A,Japan,Michael Chen,2020-08-07,2040-08-07
+P000705,Smart Manufacturing Process,Expired,US,,2022-01-19,2042-01-19
+P000706,AI Drug Discovery Platform,EXP,Japan,Kenji Sato,2021-08-20,2041-08-20
+P000707,Medical Imaging Algorithm,Expired,US,Yuki Tanaka,2024-05-24,2044-05-24
+P000708,Clinical Data Framework,A,US,Michael Chen,2018-11-15,2038-11-15
+P000709,Smart Manufacturing Process,Expired,USA,John Smith,2021-11-14,2041-11-14
+P000710,Medical Imaging Algorithm,Active,USA,Emily Brown,2019-11-10,2039-11-10
+P000711,Gene Analysis System,EXP,JP,Emily Brown,2019-10-07,2039-10-07
+P000712,Smart Manufacturing Process,Expired,US,Michael Chen,2019-04-10,2039-04-10
+P000713,AI Drug Discovery Platform,ACTIVE,JP,Michael Chen,2022-08-11,2042-08-11
+P000714,AI Drug Discovery Platform,EXP,JPN,John Smith,2023-10-01,2043-10-01
+P000715,Smart Manufacturing Process,EXP,USA,,2023-10-18,2043-10-18
+P000716,AI Drug Discovery Platform,ACTIVE,US,David Wilson,2021-03-07,2041-03-07
+P000717,Medical Imaging Algorithm,Expired,USA,Michael Chen,2019-11-30,2039-11-30
+P000718,Clinical Data Framework,EXP,Japan,Michael Chen,2020-01-15,2040-01-15
+P000719,Clinical Data Framework,EXP,JP,Michael Chen,2023-02-01,2043-02-01
+P000720,Medical Imaging Algorithm,EXP,USA,Emily Brown,2018-03-09,2038-03-09
+P000721,Medical Imaging Algorithm,Expired,USA,,2019-01-30,2039-01-30
+P000722,Clinical Data Framework,Active,JP,Sarah Johnson,2023-12-17,2043-12-17
+P000723,Healthcare Analytics Platform,Active,US,David Wilson,2024-01-18,2044-01-18
+P000724,Smart Manufacturing Process,ACTIVE,US,Kenji Sato,2023-12-11,2043-12-11
+P000725,AI Drug Discovery Platform,Expired,JPN,Yuki Tanaka,2024-06-17,2044-06-17
+P000726,Gene Analysis System,EXP,USA,Unknown,2018-12-10,2038-12-10
+P000727,Clinical Data Framework,EXP,JP,,2018-01-30,2038-01-30
+P000728,Biotech Research Engine,A,US,Yuki Tanaka,2020-04-21,2040-04-21
+P000729,Gene Analysis System,A,USA,Sarah Johnson,2024-07-25,2044-07-25
+P000730,Healthcare Analytics Platform,ACTIVE,US,David Wilson,2022-06-16,2042-06-16
+P000731,Clinical Data Framework,EXP,US,Yuki Tanaka,2022-02-25,2042-02-25
+P000732,Biotech Research Engine,ACTIVE,JP,Emily Brown,2022-06-19,2042-06-19
+P000733,AI Drug Discovery Platform,ACTIVE,USA,Sarah Johnson,2019-10-25,2039-10-25
+P000734,Biotech Research Engine,Active,JPN,Unknown,2024-11-20,2044-11-20
+P000735,Healthcare Analytics Platform,ACTIVE,US,David Wilson,2019-01-09,2039-01-09
+P000736,Gene Analysis System,Active,USA,John Smith,2020-06-27,2040-06-27
+P000737,Clinical Data Framework,EXP,Japan,Emily Brown,2022-06-30,2042-06-30
+P000738,Biotech Research Engine,Expired,US,John Smith,2019-12-19,2039-12-19
+P000739,Gene Analysis System,ACTIVE,JP,Kenji Sato,2023-10-24,2043-10-24
+P000740,Clinical Data Framework,ACTIVE,JP,Unknown,2020-08-06,2040-08-06
+P000741,AI Drug Discovery Platform,A,US,Yuki Tanaka,2019-10-07,2039-10-07
+P000742,Clinical Data Framework,Active,JP,John Smith,2020-03-31,2040-03-31
+P000743,Clinical Data Framework,A,Japan,Kenji Sato,2024-04-09,2044-04-09
+P000744,Smart Manufacturing Process,Expired,USA,John Smith,2020-03-07,2040-03-07
+P000745,Clinical Data Framework,Active,USA,Yuki Tanaka,2019-03-13,2039-03-13
+P000746,Gene Analysis System,EXP,USA,Yuki Tanaka,2023-10-04,2043-10-04
+P000747,Smart Manufacturing Process,ACTIVE,Japan,Kenji Sato,2024-04-25,2044-04-25
+P000748,Healthcare Analytics Platform,Active,US,John Smith,2024-07-31,2044-07-31
+P000749,Biotech Research Engine,ACTIVE,Japan,Sarah Johnson,2020-06-21,2040-06-21
+P000750,Biotech Research Engine,A,JPN,Yuki Tanaka,2018-02-09,2038-02-09
+P000751,AI Drug Discovery Platform,EXP,JPN,Sarah Johnson,2021-11-01,2041-11-01
+P000752,Gene Analysis System,ACTIVE,JPN,Sarah Johnson,2024-06-07,2044-06-07
+P000753,Healthcare Analytics Platform,A,JPN,Michael Chen,2020-09-18,2040-09-18
+P000754,Gene Analysis System,ACTIVE,JP,John Smith,2024-12-08,2044-12-08
+P000755,Clinical Data Framework,Active,USA,John Smith,2023-07-11,2043-07-11
+P000756,Smart Manufacturing Process,EXP,Japan,Sarah Johnson,2021-07-15,2041-07-15
+P000757,Gene Analysis System,Expired,JPN,Kenji Sato,2023-09-25,2043-09-25
+P000758,Smart Manufacturing Process,EXP,JP,David Wilson,2022-09-30,2042-09-30
+P000759,Smart Manufacturing Process,Active,USA,Unknown,2019-12-17,2039-12-17
+P000760,Smart Manufacturing Process,EXP,JP,Yuki Tanaka,2020-05-13,2040-05-13
+P000761,Clinical Data Framework,A,JPN,Yuki Tanaka,2020-02-06,2040-02-06
+P000762,Medical Imaging Algorithm,Expired,US,Michael Chen,2022-02-07,2042-02-07
+P000763,Healthcare Analytics Platform,Expired,Japan,Sarah Johnson,2022-02-04,2042-02-04
+P000764,Biotech Research Engine,ACTIVE,JP,Emily Brown,2024-06-16,2044-06-16
+P000765,Healthcare Analytics Platform,Expired,JPN,Michael Chen,2022-11-06,2042-11-06
+P000766,Healthcare Analytics Platform,Active,JPN,Sarah Johnson,2023-04-22,2043-04-22
+P000767,Clinical Data Framework,A,US,Yuki Tanaka,2023-10-19,2043-10-19
+P000768,Smart Manufacturing Process,Active,JPN,John Smith,2018-07-15,2038-07-15
+P000769,Smart Manufacturing Process,A,Japan,Yuki Tanaka,2019-01-30,2039-01-30
+P000770,Gene Analysis System,Active,US,John Smith,2020-11-21,2040-11-21
+P000771,Medical Imaging Algorithm,EXP,USA,Emily Brown,2024-10-16,2044-10-16
+P000772,Gene Analysis System,A,USA,Sarah Johnson,2021-03-11,2041-03-11
+P000773,Smart Manufacturing Process,EXP,Japan,Sarah Johnson,2018-11-18,2038-11-18
+P000774,Biotech Research Engine,A,US,Emily Brown,2019-11-18,2039-11-18
+P000775,AI Drug Discovery Platform,ACTIVE,Japan,Michael Chen,2018-10-20,2038-10-20
+P000776,Clinical Data Framework,Expired,Japan,Sarah Johnson,2020-12-31,2040-12-31
+P000777,Clinical Data Framework,Expired,US,Michael Chen,2024-08-01,2044-08-01
+P000778,Biotech Research Engine,A,JP,Michael Chen,2020-08-19,2040-08-19
+P000779,Smart Manufacturing Process,EXP,JP,John Smith,2018-09-19,2038-09-19
+P000780,AI Drug Discovery Platform,A,USA,Michael Chen,2018-12-07,2038-12-07
+P000781,Gene Analysis System,ACTIVE,JPN,Emily Brown,2022-05-16,2042-05-16
+P000782,Clinical Data Framework,ACTIVE,JP,John Smith,2019-06-22,2039-06-22
+P000783,Healthcare Analytics Platform,Expired,US,Kenji Sato,2021-08-25,2041-08-25
+P000784,Medical Imaging Algorithm,EXP,JPN,David Wilson,2022-12-28,2042-12-28
+P000785,Smart Manufacturing Process,EXP,USA,Yuki Tanaka,2024-04-29,2044-04-29
+P000786,Healthcare Analytics Platform,Active,US,Yuki Tanaka,2020-07-19,2040-07-19
+P000787,AI Drug Discovery Platform,Active,USA,Kenji Sato,2021-05-28,2041-05-28
+P000788,Smart Manufacturing Process,EXP,JP,Emily Brown,2021-03-20,2041-03-20
+P000789,Gene Analysis System,Active,US,Kenji Sato,2023-05-09,2043-05-09
+P000790,Clinical Data Framework,A,JPN,Sarah Johnson,2018-01-30,2038-01-30
+P000791,Medical Imaging Algorithm,Expired,US,Michael Chen,2020-10-20,2040-10-20
+P000792,Clinical Data Framework,EXP,Japan,Yuki Tanaka,2020-09-08,2040-09-08
+P000793,Smart Manufacturing Process,ACTIVE,JP,Michael Chen,2021-01-06,2041-01-06
+P000794,Clinical Data Framework,Expired,Japan,Emily Brown,2023-02-09,2043-02-09
+P000795,Medical Imaging Algorithm,Active,USA,John Smith,2018-03-21,2038-03-21
+P000796,Medical Imaging Algorithm,Expired,JP,Unknown,2021-01-07,2041-01-07
+P000797,Gene Analysis System,Expired,Japan,Kenji Sato,2020-06-08,2040-06-08
+P000798,Biotech Research Engine,Active,Japan,John Smith,2023-03-15,2043-03-15
+P000799,Gene Analysis System,Expired,JP,David Wilson,2018-08-18,2038-08-18
+P000800,Healthcare Analytics Platform,Expired,JP,John Smith,2020-10-21,2040-10-21
+P000801,Healthcare Analytics Platform,Expired,JPN,Emily Brown,2022-04-26,2042-04-26
+P000802,Clinical Data Framework,ACTIVE,US,Sarah Johnson,2019-01-20,2039-01-20
+P000803,Medical Imaging Algorithm,Active,USA,David Wilson,2021-08-16,2041-08-16
+P000804,Medical Imaging Algorithm,A,JP,Kenji Sato,2021-05-08,2041-05-08
+P000805,Biotech Research Engine,Expired,Japan,John Smith,2020-08-24,2040-08-24
+P000806,Smart Manufacturing Process,ACTIVE,JP,John Smith,2019-05-06,2039-05-06
+P000807,Medical Imaging Algorithm,A,JP,Michael Chen,2024-09-08,2044-09-08
+P000808,Gene Analysis System,Active,JP,Yuki Tanaka,2024-12-08,2044-12-08
+P000809,Medical Imaging Algorithm,Expired,JPN,Yuki Tanaka,2019-03-16,2039-03-16
+P000810,Healthcare Analytics Platform,Expired,JPN,John Smith,2021-11-23,2041-11-23
+P000811,Gene Analysis System,Active,US,Emily Brown,2019-07-06,2039-07-06
+P000812,Medical Imaging Algorithm,EXP,JPN,David Wilson,2023-07-01,2043-07-01
+P000813,Healthcare Analytics Platform,EXP,USA,Michael Chen,2021-02-01,2041-02-01
+P000814,Healthcare Analytics Platform,A,USA,Yuki Tanaka,2021-04-26,2041-04-26
+P000815,Smart Manufacturing Process,ACTIVE,JP,David Wilson,2023-09-04,2043-09-04
+P000816,Gene Analysis System,Active,USA,Kenji Sato,2020-09-05,2040-09-05
+P000817,Healthcare Analytics Platform,EXP,JPN,David Wilson,2023-07-31,2043-07-31
+P000818,AI Drug Discovery Platform,Active,USA,Emily Brown,2021-08-12,2041-08-12
+P000819,Medical Imaging Algorithm,Active,JPN,John Smith,2019-06-16,2039-06-16
+P000820,Biotech Research Engine,Expired,US,David Wilson,2024-05-27,2044-05-27
+P000821,Gene Analysis System,ACTIVE,USA,Emily Brown,2018-07-21,2038-07-21
+P000822,Biotech Research Engine,Expired,JP,Sarah Johnson,2020-05-04,2040-05-04
+P000823,Biotech Research Engine,Expired,Japan,Kenji Sato,2024-04-04,2044-04-04
+P000824,Clinical Data Framework,Active,JP,Kenji Sato,2020-12-24,2040-12-24
+P000825,AI Drug Discovery Platform,Active,JPN,David Wilson,2023-10-29,2043-10-29
+P000826,Clinical Data Framework,ACTIVE,USA,Emily Brown,2020-10-15,2040-10-15
+P000827,Gene Analysis System,Expired,US,John Smith,2024-06-19,2044-06-19
+P000828,Clinical Data Framework,A,JPN,David Wilson,2022-07-03,2042-07-03
+P000829,Gene Analysis System,EXP,Japan,Kenji Sato,2021-12-14,2041-12-14
+P000830,Healthcare Analytics Platform,A,USA,Michael Chen,2022-10-30,2042-10-30
+P000831,Biotech Research Engine,A,Japan,Sarah Johnson,2024-03-03,2044-03-03
+P000832,Gene Analysis System,EXP,JP,David Wilson,2018-05-22,2038-05-22
+P000833,Gene Analysis System,ACTIVE,JPN,Kenji Sato,2018-01-27,2038-01-27
+P000834,Clinical Data Framework,EXP,USA,David Wilson,2021-02-04,2041-02-04
+P000835,Smart Manufacturing Process,A,JPN,Michael Chen,2018-06-04,2038-06-04
+P000836,Medical Imaging Algorithm,A,Japan,John Smith,2020-10-20,2040-10-20
+P000837,Biotech Research Engine,Active,Japan,Kenji Sato,2020-06-09,2040-06-09
+P000838,Healthcare Analytics Platform,Active,USA,Emily Brown,2024-06-18,2044-06-18
+P000839,Smart Manufacturing Process,Active,JP,Kenji Sato,2024-06-18,2044-06-18
+P000840,Smart Manufacturing Process,Active,JPN,Emily Brown,2022-11-14,2042-11-14
+P000841,Biotech Research Engine,Expired,JP,Yuki Tanaka,2018-02-16,2038-02-16
+P000842,Medical Imaging Algorithm,A,USA,Emily Brown,2024-05-02,2044-05-02
+P000843,Smart Manufacturing Process,EXP,USA,David Wilson,2022-05-29,2042-05-29
+P000844,Medical Imaging Algorithm,ACTIVE,Japan,John Smith,2022-06-04,2042-06-04
+P000845,Smart Manufacturing Process,A,JP,Sarah Johnson,2024-02-24,2044-02-24
+P000846,Healthcare Analytics Platform,ACTIVE,US,David Wilson,2019-06-19,2039-06-19
+P000847,Medical Imaging Algorithm,EXP,USA,Emily Brown,2024-05-29,2044-05-29
+P000848,Healthcare Analytics Platform,Expired,Japan,Emily Brown,2020-12-26,2040-12-26
+P000849,Smart Manufacturing Process,A,Japan,Michael Chen,2022-08-22,2042-08-22
+P000850,Healthcare Analytics Platform,A,JPN,Yuki Tanaka,2018-04-10,2038-04-10
+P000851,Clinical Data Framework,ACTIVE,US,John Smith,2022-12-17,2042-12-17
+P000852,Medical Imaging Algorithm,Active,JP,Emily Brown,2022-03-12,2042-03-12
+P000853,Healthcare Analytics Platform,A,JP,Yuki Tanaka,2019-08-28,2039-08-28
+P000854,Smart Manufacturing Process,Active,Japan,Michael Chen,2023-01-18,2043-01-18
+P000855,Clinical Data Framework,A,USA,Sarah Johnson,2024-02-17,2044-02-17
+P000856,Smart Manufacturing Process,EXP,USA,John Smith,2018-03-17,2038-03-17
+P000857,Healthcare Analytics Platform,EXP,Japan,John Smith,2020-04-02,2040-04-02
+P000858,Smart Manufacturing Process,A,Japan,Kenji Sato,2018-09-30,2038-09-30
+P000859,Medical Imaging Algorithm,Expired,USA,Emily Brown,2022-05-03,2042-05-03
+P000860,Clinical Data Framework,Active,JPN,Michael Chen,2024-09-11,2044-09-11
+P000861,AI Drug Discovery Platform,ACTIVE,USA,Yuki Tanaka,2018-03-30,2038-03-30
+P000862,AI Drug Discovery Platform,A,Japan,Yuki Tanaka,2019-10-06,2039-10-06
+P000863,Gene Analysis System,Active,Japan,Sarah Johnson,2023-08-16,2043-08-16
+P000864,Clinical Data Framework,A,JPN,Michael Chen,2018-05-01,2038-05-01
+P000865,AI Drug Discovery Platform,Expired,USA,Emily Brown,2019-07-17,2039-07-17
+P000866,Smart Manufacturing Process,ACTIVE,USA,Michael Chen,2020-07-20,2040-07-20
+P000867,Gene Analysis System,Expired,USA,Michael Chen,2024-10-15,2044-10-15
+P000868,Biotech Research Engine,ACTIVE,JPN,Yuki Tanaka,2024-01-27,2044-01-27
+P000869,Smart Manufacturing Process,ACTIVE,USA,Michael Chen,2019-07-08,2039-07-08
+P000870,Medical Imaging Algorithm,A,JPN,,2019-04-30,2039-04-30
+P000871,Smart Manufacturing Process,Expired,Japan,Sarah Johnson,2021-07-29,2041-07-29
+P000872,Medical Imaging Algorithm,ACTIVE,JP,Michael Chen,2021-01-26,2041-01-26
+P000873,Clinical Data Framework,A,USA,David Wilson,2024-11-11,2044-11-11
+P000874,Biotech Research Engine,Active,Japan,John Smith,2020-08-03,2040-08-03
+P000875,Healthcare Analytics Platform,EXP,US,Emily Brown,2023-08-20,2043-08-20
+P000876,Smart Manufacturing Process,Expired,JPN,Michael Chen,2022-05-07,2042-05-07
+P000877,Gene Analysis System,Expired,JPN,Emily Brown,2018-03-03,2038-03-03
+P000878,AI Drug Discovery Platform,ACTIVE,US,Kenji Sato,2020-04-17,2040-04-17
+P000879,Medical Imaging Algorithm,Expired,US,Kenji Sato,2023-02-18,2043-02-18
+P000880,Biotech Research Engine,A,US,David Wilson,2022-04-08,2042-04-08
+P000881,Clinical Data Framework,Active,USA,John Smith,2024-01-06,2044-01-06
+P000882,Medical Imaging Algorithm,EXP,USA,Sarah Johnson,2018-06-23,2038-06-23
+P000883,Clinical Data Framework,Active,JPN,Yuki Tanaka,2022-05-06,2042-05-06
+P000884,Smart Manufacturing Process,ACTIVE,US,Yuki Tanaka,2021-03-17,2041-03-17
+P000885,Medical Imaging Algorithm,Expired,US,John Smith,2023-10-19,2043-10-19
+P000886,Biotech Research Engine,EXP,JPN,Sarah Johnson,2024-07-25,2044-07-25
+P000887,Smart Manufacturing Process,EXP,JPN,Sarah Johnson,2020-01-03,2040-01-03
+P000888,Biotech Research Engine,Active,JP,John Smith,2019-11-03,2039-11-03
+P000889,Clinical Data Framework,Expired,USA,David Wilson,2018-12-16,2038-12-16
+P000890,AI Drug Discovery Platform,ACTIVE,Japan,David Wilson,2022-04-08,2042-04-08
+P000891,Healthcare Analytics Platform,ACTIVE,JPN,Kenji Sato,2019-10-27,2039-10-27
+P000892,Biotech Research Engine,Expired,Japan,Emily Brown,2021-06-21,2041-06-21
+P000893,AI Drug Discovery Platform,EXP,Japan,John Smith,2020-04-10,2040-04-10
+P000894,Healthcare Analytics Platform,Active,USA,Sarah Johnson,2024-02-05,2044-02-05
+P000895,Smart Manufacturing Process,Expired,US,Unknown,2023-05-03,2043-05-03
+P000896,Gene Analysis System,EXP,USA,Kenji Sato,2024-02-20,2044-02-20
+P000897,AI Drug Discovery Platform,A,JP,Michael Chen,2019-08-31,2039-08-31
+P000898,Gene Analysis System,A,JP,John Smith,2024-10-07,2044-10-07
+P000899,Biotech Research Engine,A,USA,Emily Brown,2019-10-23,2039-10-23
+P000900,Medical Imaging Algorithm,Expired,USA,Yuki Tanaka,2024-04-21,2044-04-21
+P000901,Gene Analysis System,A,US,Kenji Sato,2021-05-10,2041-05-10
+P000902,AI Drug Discovery Platform,A,US,Michael Chen,2024-03-04,2044-03-04
+P000903,Clinical Data Framework,Expired,USA,Michael Chen,2021-09-10,2041-09-10
+P000904,Clinical Data Framework,EXP,JP,Sarah Johnson,2019-03-24,2039-03-24
+P000905,Smart Manufacturing Process,EXP,Japan,Yuki Tanaka,2021-03-22,2041-03-22
+P000906,Medical Imaging Algorithm,EXP,USA,Sarah Johnson,2021-12-20,2041-12-20
+P000907,Healthcare Analytics Platform,ACTIVE,USA,Michael Chen,2023-07-11,2043-07-11
+P000908,AI Drug Discovery Platform,Active,US,Emily Brown,2018-01-07,2038-01-07
+P000909,Healthcare Analytics Platform,EXP,US,Sarah Johnson,2020-04-29,2040-04-29
+P000910,AI Drug Discovery Platform,ACTIVE,Japan,Yuki Tanaka,2020-05-19,2040-05-19
+P000911,Clinical Data Framework,A,JP,John Smith,2023-09-07,2043-09-07
+P000912,Clinical Data Framework,Active,JPN,Michael Chen,2024-05-19,2044-05-19
+P000913,Smart Manufacturing Process,Active,JPN,Sarah Johnson,2023-05-17,2043-05-17
+P000914,Gene Analysis System,Expired,US,Emily Brown,2024-01-09,2044-01-09
+P000915,Biotech Research Engine,A,USA,,2024-05-03,2044-05-03
+P000916,Biotech Research Engine,A,Japan,John Smith,2024-06-23,2044-06-23
+P000917,Gene Analysis System,Expired,USA,Kenji Sato,2018-05-08,2038-05-08
+P000918,Clinical Data Framework,Active,Japan,Emily Brown,2020-02-07,2040-02-07
+P000919,Smart Manufacturing Process,Active,US,Michael Chen,2021-01-17,2041-01-17
+P000920,Medical Imaging Algorithm,EXP,Japan,Michael Chen,2021-05-24,2041-05-24
+P000921,AI Drug Discovery Platform,Expired,USA,John Smith,2020-04-07,2040-04-07
+P000922,Medical Imaging Algorithm,A,US,Emily Brown,2019-09-24,2039-09-24
+P000923,Medical Imaging Algorithm,Active,USA,Emily Brown,2021-09-02,2041-09-02
+P000924,Smart Manufacturing Process,Expired,USA,,2018-05-30,2038-05-30
+P000925,Biotech Research Engine,EXP,JP,Yuki Tanaka,2018-06-30,2038-06-30
+P000926,Healthcare Analytics Platform,A,JP,David Wilson,2023-11-03,2043-11-03
+P000927,Gene Analysis System,ACTIVE,JPN,Yuki Tanaka,2020-05-09,2040-05-09
+P000928,Biotech Research Engine,Active,Japan,Michael Chen,2022-12-12,2042-12-12
+P000929,Clinical Data Framework,EXP,JP,Michael Chen,2024-12-26,2044-12-26
+P000930,Medical Imaging Algorithm,A,USA,Michael Chen,2021-01-15,2041-01-15
+P000931,Clinical Data Framework,Expired,JP,,2021-10-19,2041-10-19
+P000932,AI Drug Discovery Platform,Expired,JP,John Smith,2018-07-26,2038-07-26
+P000933,Clinical Data Framework,Expired,USA,Yuki Tanaka,2024-09-07,2044-09-07
+P000934,AI Drug Discovery Platform,Expired,USA,Michael Chen,2023-12-26,2043-12-26
+P000935,AI Drug Discovery Platform,Expired,Japan,Emily Brown,2023-04-03,2043-04-03
+P000936,Medical Imaging Algorithm,ACTIVE,JPN,Kenji Sato,2023-04-12,2043-04-12
+P000937,Smart Manufacturing Process,ACTIVE,Japan,Kenji Sato,2022-01-28,2042-01-28
+P000938,AI Drug Discovery Platform,Active,US,John Smith,2023-06-20,2043-06-20
+P000939,Gene Analysis System,A,USA,David Wilson,2019-12-01,2039-12-01
+P000940,Gene Analysis System,EXP,JP,Kenji Sato,2019-03-15,2039-03-15
+P000941,Smart Manufacturing Process,ACTIVE,USA,Michael Chen,2024-08-15,2044-08-15
+P000942,AI Drug Discovery Platform,A,JPN,Kenji Sato,2022-04-22,2042-04-22
+P000943,Clinical Data Framework,A,USA,Emily Brown,2022-11-19,2042-11-19
+P000944,Biotech Research Engine,EXP,US,John Smith,2018-11-16,2038-11-16
+P000945,AI Drug Discovery Platform,Expired,JPN,Yuki Tanaka,2024-03-23,2044-03-23
+P000946,Biotech Research Engine,EXP,US,Yuki Tanaka,2019-03-22,2039-03-22
+P000947,Medical Imaging Algorithm,ACTIVE,USA,Unknown,2019-01-06,2039-01-06
+P000948,Biotech Research Engine,ACTIVE,US,David Wilson,2019-08-24,2039-08-24
+P000949,Medical Imaging Algorithm,ACTIVE,Japan,Yuki Tanaka,2023-01-06,2043-01-06
+P000950,Smart Manufacturing Process,A,JP,,2021-06-01,2041-06-01
+P000951,Smart Manufacturing Process,ACTIVE,Japan,John Smith,2023-09-22,2043-09-22
+P000952,AI Drug Discovery Platform,EXP,Japan,John Smith,2018-08-06,2038-08-06
+P000953,Smart Manufacturing Process,EXP,US,Emily Brown,2020-08-21,2040-08-21
+P000954,Smart Manufacturing Process,EXP,JPN,Emily Brown,2022-04-12,2042-04-12
+P000955,Smart Manufacturing Process,A,US,Michael Chen,2024-03-25,2044-03-25
+P000956,Medical Imaging Algorithm,Active,JP,,2019-05-30,2039-05-30
+P000957,Biotech Research Engine,Expired,JPN,John Smith,2023-06-17,2043-06-17
+P000958,Healthcare Analytics Platform,EXP,US,David Wilson,2023-02-11,2043-02-11
+P000959,Healthcare Analytics Platform,Expired,US,Yuki Tanaka,2024-03-11,2044-03-11
+P000960,Clinical Data Framework,Expired,JPN,Emily Brown,2018-01-31,2038-01-31
+P000961,Clinical Data Framework,A,JP,John Smith,2024-02-16,2044-02-16
+P000962,Clinical Data Framework,Expired,JP,Michael Chen,2019-04-09,2039-04-09
+P000963,Smart Manufacturing Process,EXP,JP,David Wilson,2021-02-18,2041-02-18
+P000964,Biotech Research Engine,Active,USA,Kenji Sato,2023-04-20,2043-04-20
+P000965,Clinical Data Framework,Active,US,Sarah Johnson,2021-11-08,2041-11-08
+P000966,Smart Manufacturing Process,A,Japan,Yuki Tanaka,2021-09-19,2041-09-19
+P000967,Biotech Research Engine,A,USA,Yuki Tanaka,2024-09-13,2044-09-13
+P000968,Clinical Data Framework,Active,Japan,Kenji Sato,2019-11-24,2039-11-24
+P000969,AI Drug Discovery Platform,ACTIVE,USA,John Smith,2023-06-09,2043-06-09
+P000970,Clinical Data Framework,A,Japan,Kenji Sato,2019-06-27,2039-06-27
+P000971,Medical Imaging Algorithm,EXP,JPN,Emily Brown,2024-10-09,2044-10-09
+P000972,Healthcare Analytics Platform,ACTIVE,US,Michael Chen,2020-12-06,2040-12-06
+P000973,AI Drug Discovery Platform,ACTIVE,USA,Kenji Sato,2021-11-05,2041-11-05
+P000974,Healthcare Analytics Platform,Expired,JPN,Emily Brown,2022-08-19,2042-08-19
+P000975,Clinical Data Framework,A,JP,Emily Brown,2020-05-13,2040-05-13
+P000976,Medical Imaging Algorithm,Expired,US,Sarah Johnson,2018-08-04,2038-08-04
+P000977,Medical Imaging Algorithm,Expired,US,Sarah Johnson,2023-12-22,2043-12-22
+P000978,AI Drug Discovery Platform,A,US,Sarah Johnson,2022-11-16,2042-11-16
+P000979,AI Drug Discovery Platform,EXP,Japan,Kenji Sato,2018-06-18,2038-06-18
+P000980,Gene Analysis System,A,Japan,Kenji Sato,2021-01-21,2041-01-21
+P000981,Smart Manufacturing Process,ACTIVE,USA,Kenji Sato,2022-05-22,2042-05-22
+P000982,Gene Analysis System,EXP,JP,,2020-01-07,2040-01-07
+P000983,AI Drug Discovery Platform,Expired,JP,David Wilson,2018-10-06,2038-10-06
+P000984,Biotech Research Engine,A,Japan,,2020-06-17,2040-06-17
+P000985,AI Drug Discovery Platform,Active,USA,Emily Brown,2024-12-12,2044-12-12
+P000986,Biotech Research Engine,Active,JP,John Smith,2024-09-21,2044-09-21
+P000987,Healthcare Analytics Platform,ACTIVE,JP,Emily Brown,2024-05-07,2044-05-07
+P000988,Biotech Research Engine,Expired,Japan,Kenji Sato,2018-11-07,2038-11-07
+P000989,Gene Analysis System,ACTIVE,JP,Yuki Tanaka,2021-08-17,2041-08-17
+P000990,AI Drug Discovery Platform,A,Japan,Michael Chen,2021-09-24,2041-09-24
+P000991,Clinical Data Framework,Expired,JPN,Emily Brown,2020-04-01,2040-04-01
+P000992,Medical Imaging Algorithm,EXP,JP,Sarah Johnson,2022-11-02,2042-11-02
+P000993,AI Drug Discovery Platform,EXP,Japan,Kenji Sato,2018-10-26,2038-10-26
+P000994,Biotech Research Engine,Active,JP,Emily Brown,2019-09-02,2039-09-02
+P000995,Smart Manufacturing Process,EXP,JP,David Wilson,2021-09-12,2041-09-12
+P000996,Smart Manufacturing Process,Expired,JP,David Wilson,2023-05-13,2043-05-13
+P000997,AI Drug Discovery Platform,EXP,USA,Yuki Tanaka,2023-05-29,2043-05-29
+P000998,Biotech Research Engine,Active,Japan,David Wilson,2018-08-15,2038-08-15
+P000999,Healthcare Analytics Platform,A,JPN,Michael Chen,2023-02-26,2043-02-26
+P001000,Gene Analysis System,Expired,JP,Emily Brown,2020-02-22,2040-02-22
+P000907,Healthcare Analytics Platform,ACTIVE,USA,Michael Chen,2023-07-11,2043-07-11
+P000648,Clinical Data Framework,Expired,US,David Wilson,2021-08-11,2041-08-11
+P000449,Healthcare Analytics Platform,Active,USA,Yuki Tanaka,2020-04-27,2040-04-27
+P000753,Healthcare Analytics Platform,A,JPN,Michael Chen,2020-09-18,2040-09-18
+P000195,Smart Manufacturing Process,Active,JP,Kenji Sato,2024-10-15,2044-10-15
+P000144,Smart Manufacturing Process,Active,JPN,Sarah Johnson,2019-04-10,2039-04-10
+P000037,Smart Manufacturing Process,ACTIVE,JP,Sarah Johnson,2021-02-14,2041-02-14
+P000198,Medical Imaging Algorithm,Expired,JP,John Smith,2022-03-14,2042-03-14
+P000026,AI Drug Discovery Platform,Expired,JP,Kenji Sato,2018-11-19,2038-11-19
+P000738,Biotech Research Engine,Expired,US,John Smith,2019-12-19,2039-12-19
+P000608,Medical Imaging Algorithm,Expired,JP,Michael Chen,2020-02-11,2040-02-11
+P000245,Healthcare Analytics Platform,A,US,David Wilson,2023-03-07,2043-03-07
+P000501,Smart Manufacturing Process,A,US,Emily Brown,2023-10-30,2043-10-30
+P000399,Medical Imaging Algorithm,EXP,US,John Smith,2022-11-04,2042-11-04
+P000065,Gene Analysis System,Active,JP,Yuki Tanaka,2024-01-06,2044-01-06
+P000812,Medical Imaging Algorithm,EXP,JPN,David Wilson,2023-07-01,2043-07-01
+P000554,Smart Manufacturing Process,Active,Japan,Sarah Johnson,2020-02-04,2040-02-04
+P000659,Biotech Research Engine,Active,US,Sarah Johnson,2021-03-24,2041-03-24
+P000316,Smart Manufacturing Process,EXP,USA,Sarah Johnson,2020-04-15,2040-04-15
+P000512,Medical Imaging Algorithm,ACTIVE,US,Yuki Tanaka,2020-06-29,2040-06-29
+P000547,Clinical Data Framework,Expired,JPN,John Smith,2019-11-07,2039-11-07
+P000989,Gene Analysis System,ACTIVE,JP,Yuki Tanaka,2021-08-17,2041-08-17
+P000855,Clinical Data Framework,A,USA,Sarah Johnson,2024-02-17,2044-02-17
+P000832,Gene Analysis System,EXP,JP,David Wilson,2018-05-22,2038-05-22
+P000921,AI Drug Discovery Platform,Expired,USA,John Smith,2020-04-07,2040-04-07
+P000034,AI Drug Discovery Platform,Expired,Japan,Sarah Johnson,2019-01-22,2039-01-22
+P000076,Healthcare Analytics Platform,ACTIVE,Japan,Michael Chen,2019-01-18,2039-01-18
+P000695,Smart Manufacturing Process,Expired,US,Yuki Tanaka,2021-09-20,2041-09-20
+P000115,Gene Analysis System,EXP,USA,David Wilson,2023-06-07,2043-06-07
+P000692,Gene Analysis System,EXP,Japan,Emily Brown,2023-01-20,2043-01-20
+P000088,Biotech Research Engine,Active,USA,Sarah Johnson,2024-07-20,2044-07-20
+P000831,Biotech Research Engine,A,Japan,Sarah Johnson,2024-03-03,2044-03-03
+P000243,Clinical Data Framework,A,US,Michael Chen,2022-12-25,2042-12-25
+P000434,Clinical Data Framework,Active,Japan,Yuki Tanaka,2022-05-27,2042-05-27
+P000939,Gene Analysis System,A,USA,David Wilson,2019-12-01,2039-12-01
+P000306,Clinical Data Framework,A,JPN,Michael Chen,2021-10-20,2041-10-20
+P000478,Smart Manufacturing Process,Expired,JP,Emily Brown,2022-08-29,2042-08-29
+P000148,Healthcare Analytics Platform,EXP,USA,Emily Brown,2021-05-07,2041-05-07
+P000076,Healthcare Analytics Platform,ACTIVE,Japan,Michael Chen,2019-01-18,2039-01-18
+P000290,Gene Analysis System,EXP,JP,Kenji Sato,2024-10-14,2044-10-14
+P000648,Clinical Data Framework,Expired,US,David Wilson,2021-08-11,2041-08-11
+P000040,Smart Manufacturing Process,Active,US,Yuki Tanaka,2019-11-06,2039-11-06
+P000966,Smart Manufacturing Process,A,Japan,Yuki Tanaka,2021-09-19,2041-09-19
+P000094,Gene Analysis System,A,US,Yuki Tanaka,2023-02-06,2043-02-06
+P000498,Gene Analysis System,Active,Japan,John Smith,2024-01-28,2044-01-28
+P000268,Clinical Data Framework,ACTIVE,USA,Yuki Tanaka,2022-10-30,2042-10-30
+P000030,Clinical Data Framework,ACTIVE,USA,,2024-08-06,2044-08-06
+P000353,Gene Analysis System,Expired,US,Kenji Sato,2022-09-18,2042-09-18
+P000103,AI Drug Discovery Platform,Expired,US,John Smith,2021-10-29,2041-10-29
+P000630,AI Drug Discovery Platform,Expired,JPN,Sarah Johnson,2024-12-07,2044-12-07
+P000200,Gene Analysis System,Active,US,Yuki Tanaka,2024-04-19,2044-04-19
+P000935,AI Drug Discovery Platform,Expired,Japan,Emily Brown,2023-04-03,2043-04-03
+P000350,Smart Manufacturing Process,A,JP,Emily Brown,2018-03-31,2038-03-31
+P000131,Clinical Data Framework,EXP,US,Sarah Johnson,2021-01-20,2041-01-20
+P000218,Smart Manufacturing Process,Active,Japan,Michael Chen,2019-04-17,2039-04-17
+P000234,Healthcare Analytics Platform,ACTIVE,Japan,John Smith,2024-10-04,2044-10-04
+P000316,Smart Manufacturing Process,EXP,USA,Sarah Johnson,2020-04-15,2040-04-15
+P000452,Medical Imaging Algorithm,ACTIVE,Japan,Kenji Sato,2019-06-28,2039-06-28
+P000130,Gene Analysis System,Expired,JP,Sarah Johnson,2024-05-20,2044-05-20
+P000416,Healthcare Analytics Platform,Expired,US,Michael Chen,2018-10-11,2038-10-11
+P000873,Clinical Data Framework,A,USA,David Wilson,2024-11-11,2044-11-11
+P000691,AI Drug Discovery Platform,A,USA,John Smith,2020-08-18,2040-08-18
+P000824,Clinical Data Framework,Active,JP,Kenji Sato,2020-12-24,2040-12-24
+P000665,AI Drug Discovery Platform,ACTIVE,Japan,David Wilson,2019-09-27,2039-09-27
+P000248,Gene Analysis System,Expired,USA,Michael Chen,2019-10-19,2039-10-19
+P000282,Gene Analysis System,Expired,USA,Michael Chen,2024-06-02,2044-06-02
+P000659,Biotech Research Engine,Active,US,Sarah Johnson,2021-03-24,2041-03-24
+P000437,Medical Imaging Algorithm,EXP,US,Sarah Johnson,2024-09-08,2044-09-08
+P000094,Gene Analysis System,A,US,Yuki Tanaka,2023-02-06,2043-02-06
+P000356,Gene Analysis System,Expired,USA,Sarah Johnson,2018-04-04,2038-04-04
+P000688,Medical Imaging Algorithm,Active,JPN,Emily Brown,2020-11-01,2040-11-01
+P000130,Gene Analysis System,Expired,JP,Sarah Johnson,2024-05-20,2044-05-20
+P000248,Gene Analysis System,Expired,USA,Michael Chen,2019-10-19,2039-10-19
+P000561,AI Drug Discovery Platform,Expired,JP,Emily Brown,2019-06-01,2039-06-01
+P000290,Gene Analysis System,EXP,JP,Kenji Sato,2024-10-14,2044-10-14
+P000851,Clinical Data Framework,ACTIVE,US,John Smith,2022-12-17,2042-12-17
+P000345,Clinical Data Framework,Expired,USA,Emily Brown,2018-12-02,2038-12-02
+P000758,Smart Manufacturing Process,EXP,JP,David Wilson,2022-09-30,2042-09-30
+P000338,Smart Manufacturing Process,A,JPN,John Smith,2019-07-30,2039-07-30
+P000899,Biotech Research Engine,A,USA,Emily Brown,2019-10-23,2039-10-23
+P000499,AI Drug Discovery Platform,ACTIVE,USA,Michael Chen,2021-06-13,2041-06-13
+P000084,Healthcare Analytics Platform,EXP,US,Emily Brown,2021-02-09,2041-02-09
+P000274,Gene Analysis System,Expired,JP,David Wilson,2022-02-28,2042-02-28
+P000205,AI Drug Discovery Platform,ACTIVE,Japan,Emily Brown,2020-12-31,2040-12-31
+P000771,Medical Imaging Algorithm,EXP,USA,Emily Brown,2024-10-16,2044-10-16
+P000324,Gene Analysis System,Expired,Japan,Emily Brown,2018-11-20,2038-11-20
+P000033,Clinical Data Framework,Expired,JPN,Kenji Sato,2024-05-27,2044-05-27
+P000998,Biotech Research Engine,Active,Japan,David Wilson,2018-08-15,2038-08-15
+P000166,Gene Analysis System,Active,USA,Kenji Sato,2022-06-10,2042-06-10
+P000014,Smart Manufacturing Process,A,JP,Michael Chen,2021-07-16,2041-07-16
+P000015,Medical Imaging Algorithm,Expired,US,Emily Brown,2021-07-12,2041-07-12
+P000368,Medical Imaging Algorithm,Expired,JPN,Yuki Tanaka,2023-12-11,2043-12-11
+P000183,AI Drug Discovery Platform,Expired,Japan,Michael Chen,2022-01-09,2042-01-09
+P000582,AI Drug Discovery Platform,Active,US,Michael Chen,2023-10-04,2043-10-04
+P000853,Healthcare Analytics Platform,A,JP,Yuki Tanaka,2019-08-28,2039-08-28
+P000975,Clinical Data Framework,A,JP,Emily Brown,2020-05-13,2040-05-13
+P000260,Gene Analysis System,Active,Japan,Kenji Sato,2022-03-10,2042-03-10
+P000423,Gene Analysis System,Expired,US,Kenji Sato,2022-12-31,2042-12-31
+P000294,Gene Analysis System,EXP,JPN,Yuki Tanaka,2020-04-15,2040-04-15
+P000555,Clinical Data Framework,Active,JPN,Kenji Sato,2021-01-05,2041-01-05
+P000130,Gene Analysis System,Expired,JP,Sarah Johnson,2024-05-20,2044-05-20
+P000923,Medical Imaging Algorithm,Active,USA,Emily Brown,2021-09-02,2041-09-02
+P000844,Medical Imaging Algorithm,ACTIVE,Japan,John Smith,2022-06-04,2042-06-04
+P000490,Smart Manufacturing Process,A,US,Michael Chen,2018-07-08,2038-07-08
+P000358,AI Drug Discovery Platform,Expired,USA,Kenji Sato,2019-04-08,2039-04-08
+P000078,Medical Imaging Algorithm,Expired,US,Sarah Johnson,2024-06-15,2044-06-15
+P000369,Healthcare Analytics Platform,A,JP,David Wilson,2023-01-17,2043-01-17
+P000832,Gene Analysis System,EXP,JP,David Wilson,2018-05-22,2038-05-22
+P000181,Smart Manufacturing Process,A,JP,Emily Brown,2024-11-26,2044-11-26
+P000617,Medical Imaging Algorithm,Expired,Japan,,2023-07-27,2043-07-27
+P000713,AI Drug Discovery Platform,ACTIVE,JP,Michael Chen,2022-08-11,2042-08-11
+P000858,Smart Manufacturing Process,A,Japan,Kenji Sato,2018-09-30,2038-09-30
+P000010,Gene Analysis System,Expired,Japan,Michael Chen,2022-04-06,2042-04-06
+P000483,AI Drug Discovery Platform,Active,JPN,,2019-12-21,2039-12-21
+P000394,Medical Imaging Algorithm,Expired,JP,Yuki Tanaka,2024-08-01,2044-08-01
+P000241,Clinical Data Framework,Expired,JPN,Michael Chen,2019-06-21,2039-06-21
+P000324,Gene Analysis System,Expired,Japan,Emily Brown,2018-11-20,2038-11-20
+P000196,Biotech Research Engine,ACTIVE,US,Sarah Johnson,2024-03-08,2044-03-08
+P000742,Clinical Data Framework,Active,JP,John Smith,2020-03-31,2040-03-31
+P000078,Medical Imaging Algorithm,Expired,US,Sarah Johnson,2024-06-15,2044-06-15

@@ -2,6 +2,9 @@ import csv
 import random
 from datetime import datetime, timedelta
 
+# Reproducible results
+random.seed(42)
+
 OUTPUT_FILE = "data/raw/patent_source.csv"
 
 PATENT_TITLES = [
@@ -24,14 +27,21 @@ INVENTORS = [
     "Kenji Sato"
 ]
 
+# Intentionally inconsistent legacy values
 STATUSES = [
     "Active",
-    "Expired"
+    "ACTIVE",
+    "A",
+    "Expired",
+    "EXP"
 ]
 
 COUNTRIES = [
     "JP",
-    "US"
+    "JPN",
+    "Japan",
+    "US",
+    "USA"
 ]
 
 
@@ -46,9 +56,11 @@ def random_filing_date():
 
 records = []
 
+# Generate base dataset
 for i in range(1, 1001):
 
     filing_date = random_filing_date()
+
     expiration_date = filing_date.replace(
         year=filing_date.year + 20
     )
@@ -63,7 +75,25 @@ for i in range(1, 1001):
         "expiration_date": expiration_date.date()
     }
 
+    # Missing inventor (~4%)
+    if random.random() < 0.04:
+        record["inventor_name"] = ""
+
+    # Unknown inventor (~2%)
+    elif random.random() < 0.02:
+        record["inventor_name"] = "Unknown"
+
     records.append(record)
+
+
+# Inject duplicate records
+for _ in range(120):
+
+    source_record = random.choice(records)
+
+    duplicate_record = source_record.copy()
+
+    records.append(duplicate_record)
 
 
 with open(
@@ -81,5 +111,15 @@ with open(
     writer.writeheader()
     writer.writerows(records)
 
-print(f"Generated {len(records)} records")
-print(f"Output: {OUTPUT_FILE}")
+print("=" * 50)
+print("Synthetic Patent Dataset Generated")
+print("=" * 50)
+print(f"Total Records: {len(records)}")
+print("Expected Characteristics:")
+print("- Duplicate Records: ~120")
+print("- Missing Inventors: ~40")
+print("- Unknown Inventors: ~20")
+print("- Status Variations: Active / ACTIVE / A / Expired / EXP")
+print("- Country Variations: JP / JPN / Japan / US / USA")
+print(f"Output File: {OUTPUT_FILE}")
+print("=" * 50)
